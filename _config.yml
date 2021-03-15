@@ -55,19 +55,19 @@ author:
   bio    : "Data and Software Engineering for Supporting Sustainable Development Goals."
   links:
     - label: "ITB"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-globe-asia"
       url: "https://itb.ac.id/"
     - label: "TU/e"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-globe-europe"
       url: "https://tue.nl/"
 
 footer:
   links:
     - label: "ITB"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-globe-asia"
       url: "https://itb.ac.id/"
     - label: "TU/e"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-globe-europe"
       url: "https://tue.nl/"
 
 defaults:
