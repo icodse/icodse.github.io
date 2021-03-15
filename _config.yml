@@ -50,28 +50,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "The Seventh International Conference on Data and Software Engineering (ICoDSE 2021)"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Data and Software Engineering for Supporting Sustainable Development Goals."
   links:
-    - label: "Bandung Institute of Technology"
+    - label: "ITB"
       icon: "fas fa-fw fa-link"
       url: "https://itb.ac.id/"
-    - label: "Eindhoven University of Technology"
+    - label: "TU/e"
       icon: "fas fa-fw fa-link"
       url: "https://tue.nl/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "ITB"
+      icon: "fas fa-fw fa-link"
+      url: "https://itb.ac.id/"
+    - label: "TU/e"
+      icon: "fas fa-fw fa-link"
+      url: "https://tue.nl/"
 
 defaults:
   # _posts
