@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "8244b12634e03ab2214df4dab9ae01f6"
+        "md5": "fdfbec96c0234d4d764fc641d06a9a7e"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "77476f4f4eedddf3298d0f8b7f9b3abe"
+        "md5": "ca6072b846cb2e9778f10e87c9c387d6"
     },
     {
         "path": "assets/js",
@@ -102,37 +102,37 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "0332cae82b1cbe1cd96082ba0329d458"
+        "md5": "26398c5f1839ee5b9d98cbd69129a091"
     },
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "287681d76704cee2d71bc7f1404c7cbc"
+        "md5": "066f85f08f1aca4b0b4dbbae60f9a674"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "61cc13dc339c3b01b2ce45bcf52affd6"
+        "md5": "58cefc75fab71612c0b99af1c445a535"
     },
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "239b5b455adef97ba32a73b97efcf882"
+        "md5": "e880d11b0959542e60abcbf7da4ef99a"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "738ae608def3c90184a719ff257e435d"
+        "md5": "b5d82e2573c69831fca66d1a7f59d678"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "c1933156c5e15a4d1eb0206445bbeb6c"
+        "md5": "df93e78745de86b8346f6689015e9d20"
     },
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "e7c609af017d41da7292d404fecc2f16"
+        "md5": "a59c7dc104dd3247b3fc1ee468e4cd09"
     },
     {
         "path": "media",
@@ -240,14 +240,54 @@
         "md5": "9742a6c01ac9ac2be0b77db1b7d6de92"
     },
     {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/rect2250.png",
+        "type": "file",
+        "md5": "0c648621ef86c644bbadc81340ebe764"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/rect2250-xs.png",
+        "type": "file",
+        "md5": "62e1d2e0d8d565685c6c249fc3b1bf2e"
+    },
+    {
+        "path": "/media/website/responsive/text1203-2-xs.png",
+        "type": "file",
+        "md5": "c7eebb7e869f642fa8b5fd020d1d3b65"
+    },
+    {
+        "path": "/media/website/responsive/text2206-xs.png",
+        "type": "file",
+        "md5": "908d38d5c32eba6d0c86c971e7464cb6"
+    },
+    {
+        "path": "/media/website/text1203-2.png",
+        "type": "file",
+        "md5": "aad6313652777e039727ef067d96f225"
+    },
+    {
+        "path": "/media/website/text2206.png",
+        "type": "file",
+        "md5": "a8aa52e276c6da127aafad5b7c309b78"
+    },
+    {
         "path": "organizers.html",
         "type": "file",
-        "md5": "14d3d7b05b2899c38b1c46bc4973389b"
+        "md5": "d290b6460633e6503d4ad1e20a1c6e3b"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "ed1c1c752cb3f00c0f4e81167f1b8494"
+        "md5": "d34b890a3ccb59c00f45f919e56e77a5"
     },
     {
         "path": "robots.txt",
@@ -257,7 +297,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "49749a9f7c7b712fc72f16e3099f1d51"
+        "md5": "70df1370203a322b1b20e0b27a39bb6e"
     },
     {
         "path": "tags",
@@ -267,6 +307,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "67c50db7d9c3e03f68b7527b51cb274d"
+        "md5": "58bdfacf263c7cfaf9d5142724e4ed86"
     }
 ]
