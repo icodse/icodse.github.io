@@ -195,6 +195,11 @@
         "md5": false
     },
     {
+        "path": "/media/posts/8/UiTMlogo.gif",
+        "type": "file",
+        "md5": "ec5ac761999e3a1619b3c3da2dc4efca"
+    },
+    {
         "path": "/media/posts/8/logo_itb_1024.png",
         "type": "file",
         "md5": "c03d70f9d3ce6179577eb39b2eadf276"
@@ -282,7 +287,7 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "fd5333bab1ad1e25d4c81a7f9f93ea2f"
+        "md5": "7049a4add3a45fd54808fdf09c74ba10"
     },
     {
         "path": "registration.html",
