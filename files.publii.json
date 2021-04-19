@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "9a3a352b306ec9ec29f0358fa6e484f4"
+        "md5": "6958fc519f8fe44b26a44b710ffdb209"
     },
     {
         "path": "assets",
@@ -102,37 +102,37 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "ec767ce1a1e15aa0d467897e5086bb3f"
+        "md5": "bd58a6972eb375eca661f81a8c46c494"
     },
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "4672638be94309019387e92abbb03984"
+        "md5": "42cab4660973e497bc85ffffc03368d5"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "56eccee16d2fc89abd98c6dfd5c7f25b"
+        "md5": "639791c66efab6b10a7354d77fffbb70"
     },
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "1864154634433b6eeff51463655d86b5"
+        "md5": "58727d41e34be527c56cf48249cc0c24"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "58f534a44329db26a144176091b8b4c0"
+        "md5": "11ca07aa9b60fc51b09c9b0713618794"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "3fdea54eaf0a2fc710cc001699d920cb"
+        "md5": "752f088bb8f90f8eca4489f11ad9fd8f"
     },
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "19a366b76fa59620d12864767aecb1f7"
+        "md5": "2df1450dc9598eb4798fde854e30b409"
     },
     {
         "path": "media",
@@ -287,12 +287,12 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "7049a4add3a45fd54808fdf09c74ba10"
+        "md5": "8123c65d8cd83fd7afca402a913766d1"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "218a3569d3c34e529d11ac2628326fbb"
+        "md5": "693979bd9ad53609af6a57a7589a55d2"
     },
     {
         "path": "robots.txt",
@@ -302,7 +302,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "2a47b3ec19c35d987584fb45ae2389b1"
+        "md5": "6644ab24f8c03a5dbfb6fe01d1f93e83"
     },
     {
         "path": "tags",
@@ -312,6 +312,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "c5568667656041fe8df8011f3e438d09"
+        "md5": "ea44487bc1efec7d05ce29eedd97c2df"
     }
 ]
