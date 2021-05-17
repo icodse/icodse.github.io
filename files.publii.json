@@ -107,7 +107,7 @@
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "5511314390bdacba0ee3099b20ab126e"
+        "md5": "e7ededec1a95f344a799a44d8809c3f1"
     },
     {
         "path": "committee.html",
@@ -122,7 +122,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1432af73fcbe020604e8061171a63f9b"
+        "md5": "61e41f1c5d0c8ebf6239562ad93890ca"
     },
     {
         "path": "instruction-for-authors.html",
@@ -132,7 +132,7 @@
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "2df1450dc9598eb4798fde854e30b409"
+        "md5": "f29db8fcf904ec82d9bed00847793bf2"
     },
     {
         "path": "media",
@@ -150,9 +150,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/1/ITB.jpeg",
+        "path": "/media/posts/1/Asset-1-2.png",
         "type": "file",
-        "md5": "1c205c37425aea4934df4d1188e3d719"
+        "md5": "a1646963b54208bf81085f5fd0bd4904"
     },
     {
         "path": "media/posts/1/responsive",
@@ -160,34 +160,149 @@
         "md5": false
     },
     {
-        "path": "/media/posts/1/responsive/ITB-2xl.jpeg",
+        "path": "/media/posts/1/responsive/Asset-1-2-2xl.png",
         "type": "file",
-        "md5": "3e70ca293796b04cfe226acc731a41a3"
+        "md5": "6c9a09dd4549c840b8506054b87c600d"
     },
     {
-        "path": "/media/posts/1/responsive/ITB-lg.jpeg",
+        "path": "/media/posts/1/responsive/Asset-1-2-lg.png",
         "type": "file",
-        "md5": "a8c1c6a41c7813d6991a00cc0c9dd7f6"
+        "md5": "fb95ed75a2923b9daf5ae28f876b46e4"
     },
     {
-        "path": "/media/posts/1/responsive/ITB-md.jpeg",
+        "path": "/media/posts/1/responsive/Asset-1-2-md.png",
         "type": "file",
-        "md5": "d8de55bb58010926ca8f6eda50a564e5"
+        "md5": "a17a42ff3707cf193f400ec31d1ad235"
     },
     {
-        "path": "/media/posts/1/responsive/ITB-sm.jpeg",
+        "path": "/media/posts/1/responsive/Asset-1-2-sm.png",
         "type": "file",
-        "md5": "be2bdfe7bc8ea2d03c933941921d42cb"
+        "md5": "97d3c5b82d8a114da55c349606699f25"
     },
     {
-        "path": "/media/posts/1/responsive/ITB-xl.jpeg",
+        "path": "/media/posts/1/responsive/Asset-1-2-xl.png",
         "type": "file",
-        "md5": "ee80c38603a6406e48524ffef8318f1e"
+        "md5": "6c9a09dd4549c840b8506054b87c600d"
     },
     {
-        "path": "/media/posts/1/responsive/ITB-xs.jpeg",
+        "path": "/media/posts/1/responsive/Asset-1-2-xs.png",
         "type": "file",
-        "md5": "075cea3cb94e398d8da782e6823c0051"
+        "md5": "6dacb5e8e66fe70f6c6ce21a6e96be6b"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/sitohang-2xl.jpg",
+        "type": "file",
+        "md5": "a16d0479617b583b8fbf887cd4eabdf9"
+    },
+    {
+        "path": "/media/posts/3/responsive/sitohang-lg.jpg",
+        "type": "file",
+        "md5": "a16d0479617b583b8fbf887cd4eabdf9"
+    },
+    {
+        "path": "/media/posts/3/responsive/sitohang-md.jpg",
+        "type": "file",
+        "md5": "bc272e90c79da5a8dc13abe33def946a"
+    },
+    {
+        "path": "/media/posts/3/responsive/sitohang-sm.jpg",
+        "type": "file",
+        "md5": "98e96f8f1a6eb85bf7335033bd0c4c13"
+    },
+    {
+        "path": "/media/posts/3/responsive/sitohang-xl.jpg",
+        "type": "file",
+        "md5": "a16d0479617b583b8fbf887cd4eabdf9"
+    },
+    {
+        "path": "/media/posts/3/responsive/sitohang-xs.jpg",
+        "type": "file",
+        "md5": "300de8910260cf6aa668f48cd482cbba"
+    },
+    {
+        "path": "/media/posts/3/responsive/tjoa-2xl.jpg",
+        "type": "file",
+        "md5": "3aefbe64c0b6ac8f5356a1f5be1911c8"
+    },
+    {
+        "path": "/media/posts/3/responsive/tjoa-lg.jpg",
+        "type": "file",
+        "md5": "3aefbe64c0b6ac8f5356a1f5be1911c8"
+    },
+    {
+        "path": "/media/posts/3/responsive/tjoa-md.jpg",
+        "type": "file",
+        "md5": "3aefbe64c0b6ac8f5356a1f5be1911c8"
+    },
+    {
+        "path": "/media/posts/3/responsive/tjoa-sm.jpg",
+        "type": "file",
+        "md5": "be1ab1ed85bf08153fa57c1f7a02537f"
+    },
+    {
+        "path": "/media/posts/3/responsive/tjoa-xl.jpg",
+        "type": "file",
+        "md5": "3aefbe64c0b6ac8f5356a1f5be1911c8"
+    },
+    {
+        "path": "/media/posts/3/responsive/tjoa-xs.jpg",
+        "type": "file",
+        "md5": "2ea8af265695e6da8faa285d00ff422d"
+    },
+    {
+        "path": "/media/posts/3/responsive/treude-2xl.jpg",
+        "type": "file",
+        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+    },
+    {
+        "path": "/media/posts/3/responsive/treude-lg.jpg",
+        "type": "file",
+        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+    },
+    {
+        "path": "/media/posts/3/responsive/treude-md.jpg",
+        "type": "file",
+        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+    },
+    {
+        "path": "/media/posts/3/responsive/treude-sm.jpg",
+        "type": "file",
+        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+    },
+    {
+        "path": "/media/posts/3/responsive/treude-xl.jpg",
+        "type": "file",
+        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+    },
+    {
+        "path": "/media/posts/3/responsive/treude-xs.jpg",
+        "type": "file",
+        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+    },
+    {
+        "path": "/media/posts/3/sitohang.jpg",
+        "type": "file",
+        "md5": "fc0ee85dfe7f7cb8dac4ee0a9e9b0576"
+    },
+    {
+        "path": "/media/posts/3/tjoa.jpg",
+        "type": "file",
+        "md5": "ed78b77443ad8178867e2be0f41b010d"
+    },
+    {
+        "path": "/media/posts/3/treude.jpg",
+        "type": "file",
+        "md5": "7fa92548f16fc158fe479de50db52419"
     },
     {
         "path": "media/posts/8",
