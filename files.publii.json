@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "6958fc519f8fe44b26a44b710ffdb209"
+        "md5": "23fa9c24c606569f6171bc1ed52592d8"
     },
     {
         "path": "assets",
@@ -102,37 +102,37 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "bd58a6972eb375eca661f81a8c46c494"
+        "md5": "01bf8e6a7adba33a769b278e07f423b5"
     },
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "e7ededec1a95f344a799a44d8809c3f1"
+        "md5": "dd679397bfe1590ce2eb2aa321b31c87"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "cd23f92c84bbc38154e191acfdef8866"
+        "md5": "d8c47138d4212ed46600687684769073"
     },
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "58727d41e34be527c56cf48249cc0c24"
+        "md5": "3513074f38f182ef2bf1d5c092652006"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "61e41f1c5d0c8ebf6239562ad93890ca"
+        "md5": "49c48cbc74d7daecf8bb3cbc7be1454d"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "752f088bb8f90f8eca4489f11ad9fd8f"
+        "md5": "0b585ab53ae470507394a2ff65c47434"
     },
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "dedeccf908e8add5af0dfd0c84f0f8aa"
+        "md5": "7e67d2dfed4461d401592883e7985107"
     },
     {
         "path": "media",
@@ -315,6 +315,11 @@
         "md5": "ec5ac761999e3a1619b3c3da2dc4efca"
     },
     {
+        "path": "/media/posts/8/ieee-mb-blue.png",
+        "type": "file",
+        "md5": "b242b1f5b4a0426a5184bab2242d5ec1"
+    },
+    {
         "path": "/media/posts/8/logo_itb_1024.png",
         "type": "file",
         "md5": "c03d70f9d3ce6179577eb39b2eadf276"
@@ -323,6 +328,36 @@
         "path": "media/posts/8/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/ieee-mb-blue-2xl.png",
+        "type": "file",
+        "md5": "a7743bda37950309810660a0e99f42ec"
+    },
+    {
+        "path": "/media/posts/8/responsive/ieee-mb-blue-lg.png",
+        "type": "file",
+        "md5": "a7743bda37950309810660a0e99f42ec"
+    },
+    {
+        "path": "/media/posts/8/responsive/ieee-mb-blue-md.png",
+        "type": "file",
+        "md5": "a7743bda37950309810660a0e99f42ec"
+    },
+    {
+        "path": "/media/posts/8/responsive/ieee-mb-blue-sm.png",
+        "type": "file",
+        "md5": "a7743bda37950309810660a0e99f42ec"
+    },
+    {
+        "path": "/media/posts/8/responsive/ieee-mb-blue-xl.png",
+        "type": "file",
+        "md5": "a7743bda37950309810660a0e99f42ec"
+    },
+    {
+        "path": "/media/posts/8/responsive/ieee-mb-blue-xs.png",
+        "type": "file",
+        "md5": "a7743bda37950309810660a0e99f42ec"
     },
     {
         "path": "/media/posts/8/responsive/logo_itb_1024-2xl.png",
@@ -402,12 +437,12 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "8123c65d8cd83fd7afca402a913766d1"
+        "md5": "33a30f7388c2612e7cf07d77be0e9daa"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "0d88bcbd44b56f6d1f5584086426576b"
+        "md5": "98663c17bcd3c7a7917af8415b57f059"
     },
     {
         "path": "robots.txt",
@@ -417,7 +452,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "6644ab24f8c03a5dbfb6fe01d1f93e83"
+        "md5": "3455e06258df8730564765ce8ecc52c5"
     },
     {
         "path": "tags",
@@ -427,6 +462,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "ea44487bc1efec7d05ce29eedd97c2df"
+        "md5": "223821a53fc3175b1ef06f59c9bb5aa7"
     }
 ]
