@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "d56cac5c21b141cf8043233deb5a78c9"
+        "md5": "fb359347c04b8ac83cb91e722f156949"
     },
     {
         "path": "assets",
@@ -102,37 +102,37 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "fef22b22c92db77192114b4894e4b2b1"
+        "md5": "738ca963cfa6b96e57e2e5d7169263cc"
     },
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "f70c07738c5f6426ece358d26fad6cc4"
+        "md5": "a034142505cba6fc237a5a200ede7a15"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "9e407363d350c12dc499e56e33a9a8e4"
+        "md5": "a8a4a7c0c4b03528cbbdb3a5e17e40cc"
     },
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "d6af56754539aedeb67fd60f6bcc01a9"
+        "md5": "0715937ffbef1ac0b2ea72c01f7ddb18"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "46fdb1b794c3f3fd10da05569f5b2e20"
+        "md5": "8939f96b2674d84a9ad4b37c733a1adf"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "09a116160b929f1f24a7ad8b003471c5"
+        "md5": "80fdb6f750e2e025ac5a5940c4f0d973"
     },
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "d1efc74ad0aee8f59f2313b482bac976"
+        "md5": "33585b50c952905dd6678df7a8eb81a2"
     },
     {
         "path": "media",
@@ -188,6 +188,51 @@
         "path": "/media/posts/1/responsive/Asset-1-2-xs.png",
         "type": "file",
         "md5": "6dacb5e8e66fe70f6c6ce21a6e96be6b"
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/WhatsApp-Image-2021-10-13-at-7.36.02-PM.jpeg",
+        "type": "file",
+        "md5": "9188e97ffd972d2cd7976db182bd6ec9"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/WhatsApp-Image-2021-10-13-at-7.36.02-PM-2xl.jpeg",
+        "type": "file",
+        "md5": "fafa1dd632a7ed2d50664e54abd5311a"
+    },
+    {
+        "path": "/media/posts/10/responsive/WhatsApp-Image-2021-10-13-at-7.36.02-PM-lg.jpeg",
+        "type": "file",
+        "md5": "fe841a44dc7542420153289b5e44fd7e"
+    },
+    {
+        "path": "/media/posts/10/responsive/WhatsApp-Image-2021-10-13-at-7.36.02-PM-md.jpeg",
+        "type": "file",
+        "md5": "9a8138de05baac9e07ce1522e0cd4fc9"
+    },
+    {
+        "path": "/media/posts/10/responsive/WhatsApp-Image-2021-10-13-at-7.36.02-PM-sm.jpeg",
+        "type": "file",
+        "md5": "698a92a3ee54f6d603d23352c5c4347f"
+    },
+    {
+        "path": "/media/posts/10/responsive/WhatsApp-Image-2021-10-13-at-7.36.02-PM-xl.jpeg",
+        "type": "file",
+        "md5": "fafa1dd632a7ed2d50664e54abd5311a"
+    },
+    {
+        "path": "/media/posts/10/responsive/WhatsApp-Image-2021-10-13-at-7.36.02-PM-xs.jpeg",
+        "type": "file",
+        "md5": "55bce5cc3579b3c84b57524889b26200"
     },
     {
         "path": "media/posts/3",
@@ -437,12 +482,17 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "56a276f1900fa7bfda62205f8778833a"
+        "md5": "98f935599347a29c2abab8ca706d128b"
+    },
+    {
+        "path": "pre-event-pitching-competition.html",
+        "type": "file",
+        "md5": "7fda514d5b0b46524b92a157a2161643"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "269b2585f6364c5f606c7a31378b052b"
+        "md5": "3d06bddad4333f1d9cb72eaade95dc0a"
     },
     {
         "path": "robots.txt",
@@ -452,7 +502,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "e697ba022518611821fc81136d91ca17"
+        "md5": "33367412f08a39a5d65f1972676ba1f9"
     },
     {
         "path": "tags",
@@ -462,6 +512,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "3f3f10903915e89ee050fa679a840f60"
+        "md5": "dd40a24ea58bdf9881edc929fb841cef"
     }
 ]
