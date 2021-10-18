@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "fb359347c04b8ac83cb91e722f156949"
+        "md5": "7d27953a77459bda6ae31363a9af45a8"
     },
     {
         "path": "assets",
@@ -102,37 +102,37 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "738ca963cfa6b96e57e2e5d7169263cc"
+        "md5": "2a826a20984b3e26da304f958cdc6d21"
     },
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "a034142505cba6fc237a5a200ede7a15"
+        "md5": "a0c3995ae77ed23bb796dfca1996ea32"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "a8a4a7c0c4b03528cbbdb3a5e17e40cc"
+        "md5": "4218ddc4f742867ea9193e621379037e"
     },
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "48893ebc3b2eb5dc81c5388ad42f1e40"
+        "md5": "c61d25481e36dfc363f01d3604fe0494"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "8939f96b2674d84a9ad4b37c733a1adf"
+        "md5": "1132ecea68278068eb9f1bea7ad079b2"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "be8cf878fa6f3714388d3aa06731823e"
+        "md5": "e31f12c9d8dcc91c8d0d085a949f910b"
     },
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "33585b50c952905dd6678df7a8eb81a2"
+        "md5": "af83e8815ca80e01f1e42eb0b9703497"
     },
     {
         "path": "media",
@@ -482,17 +482,22 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "98f935599347a29c2abab8ca706d128b"
+        "md5": "3b74ddc99971e62bc8cbd2b89a3c7ded"
+    },
+    {
+        "path": "pre-event-dse-day.html",
+        "type": "file",
+        "md5": "a8dc5b667a474eb8e7164e2eff76692b"
     },
     {
         "path": "pre-event-pitching-competition.html",
         "type": "file",
-        "md5": "7fda514d5b0b46524b92a157a2161643"
+        "md5": "5733ec86e0c885e7e552eaac40b5d24d"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "84942e8341802762f1ae28faa31a4198"
+        "md5": "dca41e99689922e77b5696d7614d40b1"
     },
     {
         "path": "robots.txt",
@@ -502,7 +507,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "33367412f08a39a5d65f1972676ba1f9"
+        "md5": "876565fc98a0de44a96a754ff85afb88"
     },
     {
         "path": "tags",
@@ -512,6 +517,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "dd40a24ea58bdf9881edc929fb841cef"
+        "md5": "2d1fd4727ccf5cbe1b312a60587df463"
     }
 ]
