@@ -102,7 +102,7 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "2a826a20984b3e26da304f958cdc6d21"
+        "md5": "b4d9012ceccd582a0b4599cf69cd73ce"
     },
     {
         "path": "call-for-papers.html",
@@ -127,7 +127,7 @@
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "fefeda1d539921dc9ab08eae2f726acb"
+        "md5": "811d310de8cb03e7fc99883c17c4a3b6"
     },
     {
         "path": "keynote.html",
@@ -487,17 +487,17 @@
     {
         "path": "pre-event-dse-day.html",
         "type": "file",
-        "md5": "a9178c869b5f89012f0a7ce8c8ae9918"
+        "md5": "80977d6ad14010a0cb9665b13543e389"
     },
     {
         "path": "pre-event-pitching-competition.html",
         "type": "file",
-        "md5": "5733ec86e0c885e7e552eaac40b5d24d"
+        "md5": "11401d2915fa2089f3c38bfee0f10917"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "dca41e99689922e77b5696d7614d40b1"
+        "md5": "79ddd420e81169067c68be38eb7d02af"
     },
     {
         "path": "robots.txt",
