@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "7d27953a77459bda6ae31363a9af45a8"
+        "md5": "f32aef1e5cb555bb2047fb9bb09384a1"
     },
     {
         "path": "assets",
@@ -102,37 +102,42 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "b4d9012ceccd582a0b4599cf69cd73ce"
+        "md5": "7bc8164fef45f3d0e82e3d8edd0a45a9"
     },
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "a0c3995ae77ed23bb796dfca1996ea32"
+        "md5": "4b27b19f5de721f3b5fd96136ff890a2"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "4218ddc4f742867ea9193e621379037e"
+        "md5": "df4150d844ddc6f3d602226817b609e7"
+    },
+    {
+        "path": "dse-day-webinar.html",
+        "type": "file",
+        "md5": "6bfcd66f8a1be08b7c33f8fdbec9be63"
     },
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "c61d25481e36dfc363f01d3604fe0494"
+        "md5": "55594c67006946a2b8d8ff050af40cbd"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1132ecea68278068eb9f1bea7ad079b2"
+        "md5": "a8e392c81175368b623d1c178c3526dd"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "ab13bf9bb9b803e99d85c28ba3c1774e"
+        "md5": "7d5d796efdfc71f8209eecd213fc31d7"
     },
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "589e87500e4e4855ef4e0497c64c45d9"
+        "md5": "3d78e3e9146870dbe31a518499cf0e0d"
     },
     {
         "path": "media",
@@ -233,6 +238,51 @@
         "path": "/media/posts/10/responsive/WhatsApp-Image-2021-10-13-at-7.36.02-PM-xs.jpeg",
         "type": "file",
         "md5": "55bce5cc3579b3c84b57524889b26200"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/Poster-DSE-days.png",
+        "type": "file",
+        "md5": "dc85be20263e1a9051fe18d8fe936d20"
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/Poster-DSE-days-2xl.png",
+        "type": "file",
+        "md5": "d47efac0e9b3b3ef8784a7d56856d432"
+    },
+    {
+        "path": "/media/posts/12/responsive/Poster-DSE-days-lg.png",
+        "type": "file",
+        "md5": "618f9229a0b8eb892166ccd7abe4d0ca"
+    },
+    {
+        "path": "/media/posts/12/responsive/Poster-DSE-days-md.png",
+        "type": "file",
+        "md5": "eeaa458eb5b1e0cdfa0d5fdd125795ec"
+    },
+    {
+        "path": "/media/posts/12/responsive/Poster-DSE-days-sm.png",
+        "type": "file",
+        "md5": "554bc250b11cea0bff1fcc0227f6161c"
+    },
+    {
+        "path": "/media/posts/12/responsive/Poster-DSE-days-xl.png",
+        "type": "file",
+        "md5": "7441f1920145a7a204fc4b1c94216a23"
+    },
+    {
+        "path": "/media/posts/12/responsive/Poster-DSE-days-xs.png",
+        "type": "file",
+        "md5": "82acb939ca90e7bb7491ff38fb97b581"
     },
     {
         "path": "media/posts/3",
@@ -482,22 +532,22 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "3b74ddc99971e62bc8cbd2b89a3c7ded"
+        "md5": "f3c8bad7f8631166ef7864b5ffaa8171"
     },
     {
         "path": "pre-event-dse-day.html",
         "type": "file",
-        "md5": "377200234b97a3aaea5e909f598da40b"
+        "md5": "c0b806db156f7cbfcb0d5c5e6bfdd10e"
     },
     {
         "path": "pre-event-pitching-competition.html",
         "type": "file",
-        "md5": "11401d2915fa2089f3c38bfee0f10917"
+        "md5": "7f982b90e372c3f70a59fae14c8a39ec"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "68ff7db5e64548d6538d9284d44807fd"
+        "md5": "7c82f7fc454c03882881b190b1a1949c"
     },
     {
         "path": "robots.txt",
@@ -507,7 +557,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "876565fc98a0de44a96a754ff85afb88"
+        "md5": "615c8d912435b04019a0f9ae18139776"
     },
     {
         "path": "tags",
@@ -517,6 +567,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "2d1fd4727ccf5cbe1b312a60587df463"
+        "md5": "ddbbb34a62fb881d6cafe426774f5464"
     }
 ]
