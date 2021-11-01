@@ -102,7 +102,7 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "74f552b98e524c360cb2536c550a6b5a"
+        "md5": "e8af461d0deb46a56eab3eeab9535068"
     },
     {
         "path": "call-for-papers.html",
@@ -120,6 +120,11 @@
         "md5": "1433c362465d8e7f8753343fd60d2991"
     },
     {
+        "path": "icodse-2021-is-starting-soon.html",
+        "type": "file",
+        "md5": "91932ac6add88477e36760ea953a94cb"
+    },
+    {
         "path": "important-dates.html",
         "type": "file",
         "md5": "55594c67006946a2b8d8ff050af40cbd"
@@ -127,7 +132,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a8e392c81175368b623d1c178c3526dd"
+        "md5": "48eb90ce313eb870c2fdc420c0efbe63"
     },
     {
         "path": "instruction-for-authors.html",
@@ -283,6 +288,51 @@
         "path": "/media/posts/12/responsive/Poster-DSE-days-xs.png",
         "type": "file",
         "md5": "82acb939ca90e7bb7491ff38fb97b581"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/Asset-1.png",
+        "type": "file",
+        "md5": "a1646963b54208bf81085f5fd0bd4904"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/Asset-1-2xl.png",
+        "type": "file",
+        "md5": "6c9a09dd4549c840b8506054b87c600d"
+    },
+    {
+        "path": "/media/posts/13/responsive/Asset-1-lg.png",
+        "type": "file",
+        "md5": "fb95ed75a2923b9daf5ae28f876b46e4"
+    },
+    {
+        "path": "/media/posts/13/responsive/Asset-1-md.png",
+        "type": "file",
+        "md5": "a17a42ff3707cf193f400ec31d1ad235"
+    },
+    {
+        "path": "/media/posts/13/responsive/Asset-1-sm.png",
+        "type": "file",
+        "md5": "97d3c5b82d8a114da55c349606699f25"
+    },
+    {
+        "path": "/media/posts/13/responsive/Asset-1-xl.png",
+        "type": "file",
+        "md5": "6c9a09dd4549c840b8506054b87c600d"
+    },
+    {
+        "path": "/media/posts/13/responsive/Asset-1-xs.png",
+        "type": "file",
+        "md5": "6dacb5e8e66fe70f6c6ce21a6e96be6b"
     },
     {
         "path": "media/posts/3",
@@ -537,7 +587,7 @@
     {
         "path": "pre-event-dse-day.html",
         "type": "file",
-        "md5": "4d042ba42d1635dcf27e53c23e0f8055"
+        "md5": "b49db86a91ccb61f3c4544f4e0a9f4f8"
     },
     {
         "path": "pre-event-pitching-competition.html",
