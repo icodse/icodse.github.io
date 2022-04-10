@@ -112,7 +112,7 @@
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "0d7f9f4c453cc1d20686227c308b1c01"
+        "md5": "f45218ed9354c4ba012b8b68f00690eb"
     },
     {
         "path": "dse-day-webinar.html",
@@ -127,7 +127,7 @@
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "bf56cce4c41451025c24d926c99ffc86"
+        "md5": "0512f84bc2fd5ed49b70a77c5245a664"
     },
     {
         "path": "index.html",
@@ -137,7 +137,7 @@
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "08b7c5bd7cc76d52bc79fdc4c6b8d7ba"
+        "md5": "5c28c778fe6f733caf1feb52cd61aecb"
     },
     {
         "path": "keynote.html",
@@ -148,6 +148,16 @@
         "path": "media",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/ieee_conference_paper_template.doc",
+        "type": "file",
+        "md5": "6520d26c28aeb76537e42f784fcbf09b"
     },
     {
         "path": "media/posts",
