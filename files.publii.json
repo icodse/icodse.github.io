@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "15d406b6b1448dae3f649663452715f7"
+        "md5": "b6618b738bbb9e36dd410acd65e04ce6"
     },
     {
         "path": "assets",
@@ -102,47 +102,47 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "c28d2a52284bc4958e3cafe8b1037692"
+        "md5": "84c62bf377162b44c52a19be625e2253"
     },
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "ce756603cd830f8e92b65bb06602aced"
+        "md5": "698d21eea7b7ba838e4f57eb76916598"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "f45218ed9354c4ba012b8b68f00690eb"
+        "md5": "87b47489c1fb2f7ade17660c1f11ca3a"
     },
     {
         "path": "dse-day-webinar.html",
         "type": "file",
-        "md5": "39a92cd3652d27cf6c750673c62b4b49"
+        "md5": "76f12c59649ee4e247a3a45d129c2e2f"
     },
     {
         "path": "icodse-2021-is-starting-soon.html",
         "type": "file",
-        "md5": "b74f040c5711b6d8b89df68ca03d890b"
+        "md5": "1d9eb7016e33ed7a67f97a6c109f2819"
     },
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "0512f84bc2fd5ed49b70a77c5245a664"
+        "md5": "b2eff9c6b7a0470afec51e0aa7e8b8cb"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "793bd18d14764dad7156a239c69beb31"
+        "md5": "e5be2126becc0270443810c9c740a529"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "5c28c778fe6f733caf1feb52cd61aecb"
+        "md5": "c58104c00ff0f9fdaf2877a309da4f32"
     },
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "9cfe8ca03705866abaa54cf5080ae2f4"
+        "md5": "c9667e88efc8cf72867c57f69f5a0581"
     },
     {
         "path": "media",
@@ -465,9 +465,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/8/ieee-mb-blue.png",
+        "path": "/media/posts/8/logo-tu-wien-2.png",
         "type": "file",
-        "md5": "b242b1f5b4a0426a5184bab2242d5ec1"
+        "md5": "77ff585e5b356dbb6fe67550a819f89c"
+    },
+    {
+        "path": "/media/posts/8/logo-unud-2.png",
+        "type": "file",
+        "md5": "31cc3f6bc6df1fc338d44dd868dbe75f"
     },
     {
         "path": "/media/posts/8/logo_itb_1024.png",
@@ -480,34 +485,64 @@
         "md5": false
     },
     {
-        "path": "/media/posts/8/responsive/ieee-mb-blue-2xl.png",
+        "path": "/media/posts/8/responsive/logo-tu-wien-2-2xl.png",
         "type": "file",
-        "md5": "a7743bda37950309810660a0e99f42ec"
+        "md5": "a67dfab19ba2e5e135d67d7172fb3aef"
     },
     {
-        "path": "/media/posts/8/responsive/ieee-mb-blue-lg.png",
+        "path": "/media/posts/8/responsive/logo-tu-wien-2-lg.png",
         "type": "file",
-        "md5": "a7743bda37950309810660a0e99f42ec"
+        "md5": "a67dfab19ba2e5e135d67d7172fb3aef"
     },
     {
-        "path": "/media/posts/8/responsive/ieee-mb-blue-md.png",
+        "path": "/media/posts/8/responsive/logo-tu-wien-2-md.png",
         "type": "file",
-        "md5": "a7743bda37950309810660a0e99f42ec"
+        "md5": "a67dfab19ba2e5e135d67d7172fb3aef"
     },
     {
-        "path": "/media/posts/8/responsive/ieee-mb-blue-sm.png",
+        "path": "/media/posts/8/responsive/logo-tu-wien-2-sm.png",
         "type": "file",
-        "md5": "a7743bda37950309810660a0e99f42ec"
+        "md5": "a67dfab19ba2e5e135d67d7172fb3aef"
     },
     {
-        "path": "/media/posts/8/responsive/ieee-mb-blue-xl.png",
+        "path": "/media/posts/8/responsive/logo-tu-wien-2-xl.png",
         "type": "file",
-        "md5": "a7743bda37950309810660a0e99f42ec"
+        "md5": "a67dfab19ba2e5e135d67d7172fb3aef"
     },
     {
-        "path": "/media/posts/8/responsive/ieee-mb-blue-xs.png",
+        "path": "/media/posts/8/responsive/logo-tu-wien-2-xs.png",
         "type": "file",
-        "md5": "a7743bda37950309810660a0e99f42ec"
+        "md5": "39e41c57a7e59dc91aaadfc2dd34e08e"
+    },
+    {
+        "path": "/media/posts/8/responsive/logo-unud-2-2xl.png",
+        "type": "file",
+        "md5": "174dd023436e5ec76fb757e01ee4953d"
+    },
+    {
+        "path": "/media/posts/8/responsive/logo-unud-2-lg.png",
+        "type": "file",
+        "md5": "174dd023436e5ec76fb757e01ee4953d"
+    },
+    {
+        "path": "/media/posts/8/responsive/logo-unud-2-md.png",
+        "type": "file",
+        "md5": "174dd023436e5ec76fb757e01ee4953d"
+    },
+    {
+        "path": "/media/posts/8/responsive/logo-unud-2-sm.png",
+        "type": "file",
+        "md5": "174dd023436e5ec76fb757e01ee4953d"
+    },
+    {
+        "path": "/media/posts/8/responsive/logo-unud-2-xl.png",
+        "type": "file",
+        "md5": "174dd023436e5ec76fb757e01ee4953d"
+    },
+    {
+        "path": "/media/posts/8/responsive/logo-unud-2-xs.png",
+        "type": "file",
+        "md5": "174dd023436e5ec76fb757e01ee4953d"
     },
     {
         "path": "/media/posts/8/responsive/logo_itb_1024-2xl.png",
@@ -540,24 +575,19 @@
         "md5": "29dc89e408d93ec2ab3123e436096bc3"
     },
     {
-        "path": "/media/posts/8/tue.svg",
-        "type": "file",
-        "md5": "c8259f4961ce748287b72b6593eac694"
-    },
-    {
         "path": "media/website",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/website/logo2022temp-1.png",
+        "path": "/media/website/logo2022temp-3.png",
         "type": "file",
-        "md5": "8ab2ebc669fc437f8c289d62cea986b0"
+        "md5": "5d9848f182508adcb979eba9370b4915"
     },
     {
-        "path": "/media/website/logo2022temp-2.png",
+        "path": "/media/website/logo2022temp-4.png",
         "type": "file",
-        "md5": "dd6ea7c548831a769303af5f1005afd6"
+        "md5": "e0934bb10243b313a6f244c6f8c23166"
     },
     {
         "path": "/media/website/rect2250.png",
@@ -570,14 +600,14 @@
         "md5": false
     },
     {
-        "path": "/media/website/responsive/logo2022temp-1-xs.png",
+        "path": "/media/website/responsive/logo2022temp-3-xs.png",
         "type": "file",
-        "md5": "99d999d16b0965e08a00368b26508226"
+        "md5": "36d60d4b7c9261ddbcb3deae24c4b1c0"
     },
     {
-        "path": "/media/website/responsive/logo2022temp-2-xs.png",
+        "path": "/media/website/responsive/logo2022temp-4-xs.png",
         "type": "file",
-        "md5": "9b467911f54552e8a9cf39d9d88f5554"
+        "md5": "e172190eeee4b3e9bcc8fe6beac133e6"
     },
     {
         "path": "/media/website/responsive/rect2250-xs.png",
@@ -587,22 +617,22 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "49e1b255977fbc189e089eba6cc76cca"
+        "md5": "98aa504af18212acf6a50f6482515f49"
     },
     {
         "path": "pre-event-dse-day.html",
         "type": "file",
-        "md5": "ddc2d3b3f8d74a02bdd1fdd1f91f7e02"
+        "md5": "2dc3c4a3143ea866df58a98701de4ac0"
     },
     {
         "path": "pre-event-pitching-competition.html",
         "type": "file",
-        "md5": "246ddd4f06d51a1161d174fffe1708df"
+        "md5": "87560c4a523752bf24a70d671bdf488c"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "d4b4accbe38c70303c6c9bb24be73f33"
+        "md5": "5db9f2eb91a90623861958466809c6e5"
     },
     {
         "path": "robots.txt",
@@ -612,7 +642,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "2efb097491fc771d1e71ef87a3613f8c"
+        "md5": "371ab7b981435833ad4a39882c0a7b2b"
     },
     {
         "path": "tags",
@@ -622,6 +652,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "e1fa7838cbcc48a46b1287eac359f62e"
+        "md5": "c716f361a5c70172a23ee7e4eea75a83"
     }
 ]
