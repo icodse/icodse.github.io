@@ -142,7 +142,7 @@
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "c9667e88efc8cf72867c57f69f5a0581"
+        "md5": "4ca12456314e71396c058b48c14a39ad"
     },
     {
         "path": "media",
@@ -355,6 +355,36 @@
         "md5": false
     },
     {
+        "path": "/media/posts/3/responsive/russello-2-2xl.jpeg",
+        "type": "file",
+        "md5": "3a3ec3341fdbb30b05a621e6dba76b73"
+    },
+    {
+        "path": "/media/posts/3/responsive/russello-2-lg.jpeg",
+        "type": "file",
+        "md5": "3a3ec3341fdbb30b05a621e6dba76b73"
+    },
+    {
+        "path": "/media/posts/3/responsive/russello-2-md.jpeg",
+        "type": "file",
+        "md5": "3a3ec3341fdbb30b05a621e6dba76b73"
+    },
+    {
+        "path": "/media/posts/3/responsive/russello-2-sm.jpeg",
+        "type": "file",
+        "md5": "3a3ec3341fdbb30b05a621e6dba76b73"
+    },
+    {
+        "path": "/media/posts/3/responsive/russello-2-xl.jpeg",
+        "type": "file",
+        "md5": "3a3ec3341fdbb30b05a621e6dba76b73"
+    },
+    {
+        "path": "/media/posts/3/responsive/russello-2-xs.jpeg",
+        "type": "file",
+        "md5": "04536296153270587f56c1c633701182"
+    },
+    {
         "path": "/media/posts/3/responsive/sitohang-2xl.jpg",
         "type": "file",
         "md5": "a16d0479617b583b8fbf887cd4eabdf9"
@@ -415,34 +445,39 @@
         "md5": "2ea8af265695e6da8faa285d00ff422d"
     },
     {
-        "path": "/media/posts/3/responsive/treude-2xl.jpg",
+        "path": "/media/posts/3/responsive/wicaksono-2-2xl.JPG",
         "type": "file",
-        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+        "md5": "d336fa0261a29c414fc2cd5c1d895eef"
     },
     {
-        "path": "/media/posts/3/responsive/treude-lg.jpg",
+        "path": "/media/posts/3/responsive/wicaksono-2-lg.JPG",
         "type": "file",
-        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+        "md5": "d336fa0261a29c414fc2cd5c1d895eef"
     },
     {
-        "path": "/media/posts/3/responsive/treude-md.jpg",
+        "path": "/media/posts/3/responsive/wicaksono-2-md.JPG",
         "type": "file",
-        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+        "md5": "d336fa0261a29c414fc2cd5c1d895eef"
     },
     {
-        "path": "/media/posts/3/responsive/treude-sm.jpg",
+        "path": "/media/posts/3/responsive/wicaksono-2-sm.JPG",
         "type": "file",
-        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+        "md5": "bb8385605811b614fd6fc5df3e2838cf"
     },
     {
-        "path": "/media/posts/3/responsive/treude-xl.jpg",
+        "path": "/media/posts/3/responsive/wicaksono-2-xl.JPG",
         "type": "file",
-        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+        "md5": "d336fa0261a29c414fc2cd5c1d895eef"
     },
     {
-        "path": "/media/posts/3/responsive/treude-xs.jpg",
+        "path": "/media/posts/3/responsive/wicaksono-2-xs.JPG",
         "type": "file",
-        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+        "md5": "c561bdd6f84aad039b6564c47893a3a8"
+    },
+    {
+        "path": "/media/posts/3/russello-2.jpeg",
+        "type": "file",
+        "md5": "167ba5e6ab80974b1578cb900916244c"
     },
     {
         "path": "/media/posts/3/sitohang.jpg",
@@ -455,9 +490,9 @@
         "md5": "ed78b77443ad8178867e2be0f41b010d"
     },
     {
-        "path": "/media/posts/3/treude.jpg",
+        "path": "/media/posts/3/wicaksono-2.JPG",
         "type": "file",
-        "md5": "7fa92548f16fc158fe479de50db52419"
+        "md5": "d9ea3d1c97eac5b92c8d0f59eeb8bd29"
     },
     {
         "path": "media/posts/8",
