@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "b6618b738bbb9e36dd410acd65e04ce6"
+        "md5": "d95f594b52708265afebb752a9d3eb97"
     },
     {
         "path": "assets",
@@ -102,47 +102,47 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "84c62bf377162b44c52a19be625e2253"
+        "md5": "7e4661038ef7a81c26de25335b426e89"
     },
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "29af71dad68960f55ecbffde2285eb89"
+        "md5": "d59523b082d0f205451ae6fbde4838e0"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "87b47489c1fb2f7ade17660c1f11ca3a"
+        "md5": "e8ca21188ef9976c75829e7644c8e6ba"
     },
     {
         "path": "dse-day-webinar.html",
         "type": "file",
-        "md5": "76f12c59649ee4e247a3a45d129c2e2f"
+        "md5": "e7c7fc5a41d9dc81d46ab06bb397d0d4"
     },
     {
         "path": "icodse-2021-is-starting-soon.html",
         "type": "file",
-        "md5": "1d9eb7016e33ed7a67f97a6c109f2819"
+        "md5": "62dce968e526f2648ca4da39ee97716f"
     },
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "72cf3aabe9b14400dec5c6c952cfdd7c"
+        "md5": "4b26c7445cc1b507e703b77770d45a57"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1ff436cadd1930c511b2498f323cfba2"
+        "md5": "6ade972923c92d6c646446d27844ca7d"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "39ca0f77736527eeb720d370fa5d86b6"
+        "md5": "c557dcd7effede6cf7e9c0ae887d6620"
     },
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "4ca12456314e71396c058b48c14a39ad"
+        "md5": "e308103180db50eec3833ae23a15a39a"
     },
     {
         "path": "media",
@@ -500,6 +500,16 @@
         "md5": false
     },
     {
+        "path": "/media/posts/8/logo-40thif.png",
+        "type": "file",
+        "md5": "fde0f618ab0a525218913dcbf1649590"
+    },
+    {
+        "path": "/media/posts/8/logo-ieee.png",
+        "type": "file",
+        "md5": "b087384de43916501b06828d36493481"
+    },
+    {
         "path": "/media/posts/8/logo-tu-wien-2.png",
         "type": "file",
         "md5": "77ff585e5b356dbb6fe67550a819f89c"
@@ -652,22 +662,22 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "98aa504af18212acf6a50f6482515f49"
+        "md5": "9463c839262210239c6a456b5ead72c5"
     },
     {
         "path": "pre-event-dse-day.html",
         "type": "file",
-        "md5": "2dc3c4a3143ea866df58a98701de4ac0"
+        "md5": "499f0fb99c606dd9b0044b403bda8b5a"
     },
     {
         "path": "pre-event-pitching-competition.html",
         "type": "file",
-        "md5": "87560c4a523752bf24a70d671bdf488c"
+        "md5": "ebfb235859c882617191593bed9120fb"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "a8bc546b595edc246ba7afff8dec8d87"
+        "md5": "e3566222c567e2a1eff6345fa0b25dda"
     },
     {
         "path": "robots.txt",
@@ -677,7 +687,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "371ab7b981435833ad4a39882c0a7b2b"
+        "md5": "a8a9685abb9075d608867ed7b49a779d"
     },
     {
         "path": "tags",
@@ -687,6 +697,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "c716f361a5c70172a23ee7e4eea75a83"
+        "md5": "9b21939d562a14e06ac567c82257b23f"
     }
 ]
