@@ -107,12 +107,12 @@
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "d59523b082d0f205451ae6fbde4838e0"
+        "md5": "3fd76db128b38a48fd36e590343ba24d"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "e8ca21188ef9976c75829e7644c8e6ba"
+        "md5": "949db84b504e5fb9bd11041a860f1af1"
     },
     {
         "path": "dse-day-webinar.html",
@@ -127,17 +127,17 @@
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "d0af4abdc9f94705257b2ace5478340c"
+        "md5": "8fca8467f450b844a2aa89d47e2ecb59"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "6ade972923c92d6c646446d27844ca7d"
+        "md5": "7febf3c8d9166d831307a65f585282dd"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "c557dcd7effede6cf7e9c0ae887d6620"
+        "md5": "0a09e2000c70552a7c61e9be5fd5eec8"
     },
     {
         "path": "keynote.html",
@@ -500,16 +500,6 @@
         "md5": false
     },
     {
-        "path": "/media/posts/8/logo-40thif.png",
-        "type": "file",
-        "md5": "fde0f618ab0a525218913dcbf1649590"
-    },
-    {
-        "path": "/media/posts/8/logo-ieee.png",
-        "type": "file",
-        "md5": "b087384de43916501b06828d36493481"
-    },
-    {
         "path": "/media/posts/8/logo-tu-wien-2.png",
         "type": "file",
         "md5": "77ff585e5b356dbb6fe67550a819f89c"
@@ -662,7 +652,7 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "9463c839262210239c6a456b5ead72c5"
+        "md5": "922a04bfe5061ffee419940ad5fad882"
     },
     {
         "path": "pre-event-dse-day.html",
@@ -677,7 +667,7 @@
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "e3566222c567e2a1eff6345fa0b25dda"
+        "md5": "6e1113eb467361f6a6efba6aa3706cc3"
     },
     {
         "path": "robots.txt",
