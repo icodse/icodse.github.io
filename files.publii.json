@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "6084b1eccde44823e79571aadb2cda3a"
+        "md5": "7787b18a3df89fd44087215495dd10db"
     },
     {
         "path": "assets",
@@ -102,47 +102,47 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "f9dcd2bc5a31be476802d9b5024e195c"
+        "md5": "6a5b22cd09f4f571b1ca362b22e1d6ec"
     },
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "abdae7d2904a9133246ca7b1e31c2103"
+        "md5": "30b5590b1be047b0f1350ee2d373f7ee"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "0a6a1aec8af4be3550abe5b4626fdab1"
+        "md5": "f442966772294b09b0561692cd581031"
     },
     {
         "path": "dse-day-webinar.html",
         "type": "file",
-        "md5": "1beb9757280efabb8bd5ef30e8e58bff"
+        "md5": "9b4c70c6bfbd917720e801d9943ab027"
     },
     {
         "path": "icodse-2021-is-starting-soon.html",
         "type": "file",
-        "md5": "550aa5da80c98357e5b1714dca6e5c05"
+        "md5": "2f12d2346f75f4f93b602fc6015213e5"
     },
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "c3a061e2d21a9a35f65adc7d51d6ecc3"
+        "md5": "c7af453ac8b7915a9387439abddfd284"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "250e58b6632b50d6c54ea1c9191012b5"
+        "md5": "fea6061423a0e243ea48ca8a751f4a8b"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "e6ae2e067ee35f1ed9b4c20b69bfc710"
+        "md5": "40336782e893970cab200a5c3620173e"
     },
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "5217a01145e2a4c9cf93bf6738621d79"
+        "md5": "743b7647839a1e98520e968483cfc340"
     },
     {
         "path": "media",
@@ -505,9 +505,9 @@
         "md5": "77ff585e5b356dbb6fe67550a819f89c"
     },
     {
-        "path": "/media/posts/8/logo-unud-2.png",
+        "path": "/media/posts/8/logo-unud-baru.png",
         "type": "file",
-        "md5": "31cc3f6bc6df1fc338d44dd868dbe75f"
+        "md5": "4a4251be04383f75eb22c9d687ff3584"
     },
     {
         "path": "/media/posts/8/logo_itb_1024.png",
@@ -652,22 +652,22 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "7f35b03a7221f71d2f56bcb8dc0626c2"
+        "md5": "393da3785d4a4423c73db7bc12617473"
     },
     {
         "path": "pre-event-dse-day.html",
         "type": "file",
-        "md5": "ffb2182810d6f5e69c7acd955279ea71"
+        "md5": "7125cb557e947f849e940c15fc42ed87"
     },
     {
         "path": "pre-event-pitching-competition.html",
         "type": "file",
-        "md5": "58193c0c6bc5892ba1908834f510d884"
+        "md5": "cc03318995a539cb664ea268df49cd58"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "3e325dd4c66c28e536832d7c017f18f4"
+        "md5": "7c7312090589ac26696aff6b77d1b8ee"
     },
     {
         "path": "robots.txt",
@@ -677,7 +677,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "65617a290cb512dba541756a45bcfc40"
+        "md5": "49ca17399d125fe968c7289a143fb012"
     },
     {
         "path": "tags",
@@ -687,6 +687,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "bfb56192d58878d0ff957d70962a8b4c"
+        "md5": "f17f912d97527b367e5650042a594c94"
     }
 ]
