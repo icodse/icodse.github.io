@@ -107,7 +107,7 @@
     {
         "path": "call-for-papers-2.html",
         "type": "file",
-        "md5": "f5c221af6553f810c9755eeed307ba21"
+        "md5": "8db89889f72619a1a928b3f34cf6fc4a"
     },
     {
         "path": "call-for-papers.html",
@@ -137,12 +137,12 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "47d96748b18563ac4fea0a39e9ccc267"
+        "md5": "dbda395387049b7c476221cbe579220d"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "c2bd2bea1b8e7429d0906b372efbda68"
+        "md5": "3ab4bd659ca569362ae4768585a734de"
     },
     {
         "path": "keynote.html",
@@ -393,6 +393,41 @@
         "path": "/media/posts/14/responsive/bali-xs.png",
         "type": "file",
         "md5": "6d13bffc4f96a8993ecaef52a56c3dd2"
+    },
+    {
+        "path": "/media/posts/14/responsive/swisshotel-bali-2-2xl.jpg",
+        "type": "file",
+        "md5": "80db93ea382c676fd560fa6486da913d"
+    },
+    {
+        "path": "/media/posts/14/responsive/swisshotel-bali-2-lg.jpg",
+        "type": "file",
+        "md5": "e6cf151c1d7a164e1114639fc9a47efd"
+    },
+    {
+        "path": "/media/posts/14/responsive/swisshotel-bali-2-md.jpg",
+        "type": "file",
+        "md5": "4c4fd481efb1fdd2038476b0a110816e"
+    },
+    {
+        "path": "/media/posts/14/responsive/swisshotel-bali-2-sm.jpg",
+        "type": "file",
+        "md5": "c8f2e3d05961c5f534b033898c03c99f"
+    },
+    {
+        "path": "/media/posts/14/responsive/swisshotel-bali-2-xl.jpg",
+        "type": "file",
+        "md5": "aac0548b28d5dd63062af726bda6873c"
+    },
+    {
+        "path": "/media/posts/14/responsive/swisshotel-bali-2-xs.jpg",
+        "type": "file",
+        "md5": "5749a04e20c1a428ec7d870992f977f5"
+    },
+    {
+        "path": "/media/posts/14/swisshotel-bali-2.jpg",
+        "type": "file",
+        "md5": "21540176f2e1db54696d5744a4af9c30"
     },
     {
         "path": "media/posts/3",
@@ -698,6 +733,11 @@
         "path": "/media/website/responsive/rect2250-xs.png",
         "type": "file",
         "md5": "62e1d2e0d8d565685c6c249fc3b1bf2e"
+    },
+    {
+        "path": "/media/website/swisshotel-bali.jpg",
+        "type": "file",
+        "md5": "21540176f2e1db54696d5744a4af9c30"
     },
     {
         "path": "organizers.html",
