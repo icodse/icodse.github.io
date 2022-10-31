@@ -102,12 +102,12 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "0f149648d2196ab846d85395c1a0bde9"
+        "md5": "a126d2d86cdced9b7a7a656f57894009"
     },
     {
         "path": "call-for-papers-2.html",
         "type": "file",
-        "md5": "8db89889f72619a1a928b3f34cf6fc4a"
+        "md5": "5273cd022af0c1c9a1f6223fd7865b80"
     },
     {
         "path": "call-for-papers.html",
@@ -127,7 +127,7 @@
     {
         "path": "icodse-2021-is-starting-soon.html",
         "type": "file",
-        "md5": "ae58c6a6cdb6ec8309e6ad420f81cf23"
+        "md5": "409044602e9bf4be672eec1d98f605bf"
     },
     {
         "path": "important-dates.html",
@@ -137,7 +137,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "dbda395387049b7c476221cbe579220d"
+        "md5": "a627f1dca4ef3b102c06dd32f8b49407"
     },
     {
         "path": "instruction-for-authors.html",
@@ -310,9 +310,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/13/Asset-1.png",
+        "path": "/media/posts/13/bali.png",
         "type": "file",
-        "md5": "a1646963b54208bf81085f5fd0bd4904"
+        "md5": "a51624cf0768bd5d52bb5a94984ce0ec"
     },
     {
         "path": "media/posts/13/responsive",
@@ -320,34 +320,34 @@
         "md5": false
     },
     {
-        "path": "/media/posts/13/responsive/Asset-1-2xl.png",
+        "path": "/media/posts/13/responsive/bali-2xl.png",
         "type": "file",
-        "md5": "6c9a09dd4549c840b8506054b87c600d"
+        "md5": "8ef1646e735cd464c9b4b4994b5e0373"
     },
     {
-        "path": "/media/posts/13/responsive/Asset-1-lg.png",
+        "path": "/media/posts/13/responsive/bali-lg.png",
         "type": "file",
-        "md5": "fb95ed75a2923b9daf5ae28f876b46e4"
+        "md5": "7a220e42bddd77763400a40e0d1ede60"
     },
     {
-        "path": "/media/posts/13/responsive/Asset-1-md.png",
+        "path": "/media/posts/13/responsive/bali-md.png",
         "type": "file",
-        "md5": "a17a42ff3707cf193f400ec31d1ad235"
+        "md5": "bab50be5593ade215582a6484c339da5"
     },
     {
-        "path": "/media/posts/13/responsive/Asset-1-sm.png",
+        "path": "/media/posts/13/responsive/bali-sm.png",
         "type": "file",
-        "md5": "97d3c5b82d8a114da55c349606699f25"
+        "md5": "8fbf106590843210a1562e5fd8505e15"
     },
     {
-        "path": "/media/posts/13/responsive/Asset-1-xl.png",
+        "path": "/media/posts/13/responsive/bali-xl.png",
         "type": "file",
-        "md5": "6c9a09dd4549c840b8506054b87c600d"
+        "md5": "4893ca094f936fbf0d932b25c37059de"
     },
     {
-        "path": "/media/posts/13/responsive/Asset-1-xs.png",
+        "path": "/media/posts/13/responsive/bali-xs.png",
         "type": "file",
-        "md5": "6dacb5e8e66fe70f6c6ce21a6e96be6b"
+        "md5": "6d13bffc4f96a8993ecaef52a56c3dd2"
     },
     {
         "path": "media/posts/14",
@@ -733,11 +733,6 @@
         "path": "/media/website/responsive/rect2250-xs.png",
         "type": "file",
         "md5": "62e1d2e0d8d565685c6c249fc3b1bf2e"
-    },
-    {
-        "path": "/media/website/swisshotel-bali.jpg",
-        "type": "file",
-        "md5": "21540176f2e1db54696d5744a4af9c30"
     },
     {
         "path": "organizers.html",
