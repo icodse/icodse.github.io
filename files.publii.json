@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "06be46b14461bd42252e58b7210d0428"
+        "md5": "02eb549f7f334231b668748edc8bc7f1"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "f66f710bfb02ba0ca2f0a4b026de102b"
+        "md5": "0a824327401642b0e15c5d3954b8c39d"
     },
     {
         "path": "assets/js",
@@ -102,52 +102,52 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "a126d2d86cdced9b7a7a656f57894009"
+        "md5": "1b3442baad1d6d9054a795a4abda9a57"
     },
     {
         "path": "call-for-papers-2.html",
         "type": "file",
-        "md5": "5273cd022af0c1c9a1f6223fd7865b80"
+        "md5": "6a1c0d5e83684cf43610e94c8b710824"
     },
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "d5b26630c4db2f24acba5ea7bbd51426"
+        "md5": "0e37efcf866dd8e239143760fe0b42e8"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "8ca921aef8cfb7538dd8ea3219964fc8"
+        "md5": "caf567d3f3bb0d416f76dc088d83ca85"
     },
     {
         "path": "dse-day-webinar.html",
         "type": "file",
-        "md5": "7d237cbc284dccec9c3909ef7bb1ba7c"
+        "md5": "674dfb6a842c0985029074397cfc5e31"
     },
     {
         "path": "icodse-2021-is-starting-soon.html",
         "type": "file",
-        "md5": "e64a4af8796cf52161238bac7fb5dcf2"
+        "md5": "0c37aa27fed1d64d2175baa80bb6f217"
     },
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "cbc91442730eeb9bc7ed04547c9d1e44"
+        "md5": "c4b820c98b225933e942964b97c631b6"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "532849327576f1cb94d46964274442ec"
+        "md5": "9b62855675de7a9db24b7e23355e0c74"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "8b043d3498cc6cdba32964fc2be46d28"
+        "md5": "784c34af3fac642236d85c1e41dfcef0"
     },
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "4ac637129e050e8d5f97f7fca584eccf"
+        "md5": "f1c5d84208698106f23138afc3ad1d19"
     },
     {
         "path": "media",
@@ -175,9 +175,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/1/bali.png",
+        "path": "/media/posts/1/danau-toba.jpg",
         "type": "file",
-        "md5": "a51624cf0768bd5d52bb5a94984ce0ec"
+        "md5": "d2d521dd44ba769a65c5a157313a0e17"
     },
     {
         "path": "media/posts/1/responsive",
@@ -185,34 +185,34 @@
         "md5": false
     },
     {
-        "path": "/media/posts/1/responsive/bali-2xl.png",
+        "path": "/media/posts/1/responsive/danau-toba-2xl.jpg",
         "type": "file",
-        "md5": "8ef1646e735cd464c9b4b4994b5e0373"
+        "md5": "944a4dce904afd339f6ea4b815199181"
     },
     {
-        "path": "/media/posts/1/responsive/bali-lg.png",
+        "path": "/media/posts/1/responsive/danau-toba-lg.jpg",
         "type": "file",
-        "md5": "7a220e42bddd77763400a40e0d1ede60"
+        "md5": "29f2e88f4b81c0887ae3aa4be1b706f2"
     },
     {
-        "path": "/media/posts/1/responsive/bali-md.png",
+        "path": "/media/posts/1/responsive/danau-toba-md.jpg",
         "type": "file",
-        "md5": "bab50be5593ade215582a6484c339da5"
+        "md5": "dfaab456c153348f42fb2620a641ab70"
     },
     {
-        "path": "/media/posts/1/responsive/bali-sm.png",
+        "path": "/media/posts/1/responsive/danau-toba-sm.jpg",
         "type": "file",
-        "md5": "8fbf106590843210a1562e5fd8505e15"
+        "md5": "b803e4704a34c6a3e4e11a197fb369e3"
     },
     {
-        "path": "/media/posts/1/responsive/bali-xl.png",
+        "path": "/media/posts/1/responsive/danau-toba-xl.jpg",
         "type": "file",
-        "md5": "4893ca094f936fbf0d932b25c37059de"
+        "md5": "44c65664111ef69c1327ddecc1cfca1e"
     },
     {
-        "path": "/media/posts/1/responsive/bali-xs.png",
+        "path": "/media/posts/1/responsive/danau-toba-xs.jpg",
         "type": "file",
-        "md5": "6d13bffc4f96a8993ecaef52a56c3dd2"
+        "md5": "c704435b933376a73d0d0f4c3b58d21f"
     },
     {
         "path": "media/posts/10",
@@ -700,14 +700,14 @@
         "md5": false
     },
     {
-        "path": "/media/website/logo2022new1.png",
+        "path": "/media/website/icodse-2023-logo-2.png",
         "type": "file",
-        "md5": "5b8f2808b84c756aa06c8bab0d190314"
+        "md5": "ab6599dcd8a2ee6be0d9ac7f9eb69d3f"
     },
     {
-        "path": "/media/website/logo2022new2.png",
+        "path": "/media/website/icodse-2023-logo.png",
         "type": "file",
-        "md5": "813b268b2aac2930c9e2cdbfa76c8d1b"
+        "md5": "ab6599dcd8a2ee6be0d9ac7f9eb69d3f"
     },
     {
         "path": "/media/website/rect2250.png",
@@ -720,14 +720,14 @@
         "md5": false
     },
     {
-        "path": "/media/website/responsive/logo2022new1-xs.png",
+        "path": "/media/website/responsive/icodse-2023-logo-2-xs.png",
         "type": "file",
-        "md5": "1ead9cb67022c83529bd6fea9aaf6d62"
+        "md5": "49ed6985e520ec8dfd4f683b3cf01d5a"
     },
     {
-        "path": "/media/website/responsive/logo2022new2-xs.png",
+        "path": "/media/website/responsive/icodse-2023-logo-xs.png",
         "type": "file",
-        "md5": "2a6934454b495ad7a2d7154c5b7b99a1"
+        "md5": "49ed6985e520ec8dfd4f683b3cf01d5a"
     },
     {
         "path": "/media/website/responsive/rect2250-xs.png",
@@ -737,22 +737,22 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "4f588776ced17d532f872a138cbd4a09"
+        "md5": "6d4188299ffaebd4042bbaccd1da2430"
     },
     {
         "path": "pre-event-dse-day.html",
         "type": "file",
-        "md5": "73503c6630d08edf95a71af01e51e886"
+        "md5": "a1a531c9e10c226f75a116bec0ddf034"
     },
     {
         "path": "pre-event-pitching-competition.html",
         "type": "file",
-        "md5": "224a5b219289a4dafc9e44babf6bb4d8"
+        "md5": "873ea2e722ed77b797e343fc9dd9e17a"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "5253dbf572e83d4f798ca0dd0cf72101"
+        "md5": "41296bfa6d07c285d70b6e1f36a7aa09"
     },
     {
         "path": "robots.txt",
@@ -762,7 +762,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "07d03aa24d69b746abe1b9e8e68f0314"
+        "md5": "821aeff268ba2c38ecb69d3c572817cc"
     },
     {
         "path": "tags",
@@ -772,6 +772,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "9bcdbd88076f713d1b73cebe61f88899"
+        "md5": "ee3a27a8b5afaa810b9cdaf3703652d2"
     }
 ]
