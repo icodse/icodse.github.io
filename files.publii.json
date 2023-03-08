@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "045c42f0b21e0e780d920caa4cd73b10"
+        "md5": "26d109858c01bd9ab2f4b4823c6fbaf3"
     },
     {
         "path": "assets",
@@ -102,52 +102,52 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "4ccf312494b53faea376be9c2c60b441"
+        "md5": "73a3f7591296924a7b5f2bc5ef2ad4a6"
     },
     {
         "path": "call-for-papers-2.html",
         "type": "file",
-        "md5": "091b07ebbfe393212638a73ce8a01c19"
+        "md5": "8381ef78d50e7fa29173da9c0282c6d1"
     },
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "cbc73aa15d8701ec425d25435a3c465d"
+        "md5": "f698baa057861f10b41dd334d2b8e995"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "7462b503d0445182e1312efd16df6352"
+        "md5": "bf37ebc1999fd28441d51fa1482a6006"
     },
     {
         "path": "dse-day-webinar.html",
         "type": "file",
-        "md5": "ffc9c249cd53d069bee6baa6d21a882c"
+        "md5": "fce0060edebf42d2a7c2b0f3bd436caf"
     },
     {
         "path": "icodse-2021-is-starting-soon.html",
         "type": "file",
-        "md5": "9e204f2e55afc39e3428b08b43791815"
+        "md5": "0e99d8cfc8491ebb857d32580c679534"
     },
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "7e1060c973d9513e2c9e608a291a1490"
+        "md5": "fd5aeb1bd360ddfc93b1fa17608711b0"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "07df32200d2d1116a52509f5753d562a"
+        "md5": "ba43f49cb84fb3b6adc9f6ceba26f939"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "652da6690f35a0cc6d788e3b6986b263"
+        "md5": "3e664ae7faf09b9eee7db4e979fd495c"
     },
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "ac3b1a5230daa4b47566827ffd51ae4c"
+        "md5": "e23616b41174b1b28f8f8aec6aa76a2b"
     },
     {
         "path": "media",
@@ -737,22 +737,22 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "6c940727ed4f88a16d9812083d226912"
+        "md5": "89cfa6bec4d90feeb5e6eeeb04c4d3f6"
     },
     {
         "path": "pre-event-dse-day.html",
         "type": "file",
-        "md5": "309639ad5002710095bf4be18ab55a97"
+        "md5": "1ef3d046e8afe68505b3e5a12afb5b96"
     },
     {
         "path": "pre-event-pitching-competition.html",
         "type": "file",
-        "md5": "b925b1fc289501d4075287147141a3c6"
+        "md5": "8abfd3a3dafd1206f62ce1573218e629"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "58feb34dcc573d6b8d3f4550cb916135"
+        "md5": "23c9edab535637e8fa50e5b3b4a294f3"
     },
     {
         "path": "robots.txt",
@@ -762,7 +762,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "692e736f1f3c2f9b0958d7f80c484d46"
+        "md5": "e958a2fdb3a37e7b005f3678ca700386"
     },
     {
         "path": "tags",
@@ -772,6 +772,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "b86abed170f50e013ad0129e2defdfc5"
+        "md5": "1221fd35d8337ca460693fc90245be85"
     }
 ]
