@@ -112,12 +112,12 @@
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "f698baa057861f10b41dd334d2b8e995"
+        "md5": "29ee4f0f2c6ddd8403e2fe17b59b1b2c"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "bf37ebc1999fd28441d51fa1482a6006"
+        "md5": "6230957d81879da591f1e2c84ca5a1f3"
     },
     {
         "path": "dse-day-webinar.html",
@@ -137,7 +137,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ba43f49cb84fb3b6adc9f6ceba26f939"
+        "md5": "8c54c20e0b7cf168d57465303cf6c5fa"
     },
     {
         "path": "instruction-for-authors.html",
@@ -585,14 +585,14 @@
         "md5": false
     },
     {
+        "path": "/media/posts/8/logo-itdel.png",
+        "type": "file",
+        "md5": "422ff2558c76554a851038df64d36b6d"
+    },
+    {
         "path": "/media/posts/8/logo-tu-wien-2.png",
         "type": "file",
         "md5": "77ff585e5b356dbb6fe67550a819f89c"
-    },
-    {
-        "path": "/media/posts/8/logo-unud-baru.png",
-        "type": "file",
-        "md5": "4a4251be04383f75eb22c9d687ff3584"
     },
     {
         "path": "/media/posts/8/logo_itb_1024.png",
@@ -603,6 +603,36 @@
         "path": "media/posts/8/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/logo-itdel-2xl.png",
+        "type": "file",
+        "md5": "422ff2558c76554a851038df64d36b6d"
+    },
+    {
+        "path": "/media/posts/8/responsive/logo-itdel-lg.png",
+        "type": "file",
+        "md5": "422ff2558c76554a851038df64d36b6d"
+    },
+    {
+        "path": "/media/posts/8/responsive/logo-itdel-md.png",
+        "type": "file",
+        "md5": "422ff2558c76554a851038df64d36b6d"
+    },
+    {
+        "path": "/media/posts/8/responsive/logo-itdel-sm.png",
+        "type": "file",
+        "md5": "422ff2558c76554a851038df64d36b6d"
+    },
+    {
+        "path": "/media/posts/8/responsive/logo-itdel-xl.png",
+        "type": "file",
+        "md5": "422ff2558c76554a851038df64d36b6d"
+    },
+    {
+        "path": "/media/posts/8/responsive/logo-itdel-xs.png",
+        "type": "file",
+        "md5": "422ff2558c76554a851038df64d36b6d"
     },
     {
         "path": "/media/posts/8/responsive/logo-tu-wien-2-2xl.png",
@@ -737,7 +767,7 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "89cfa6bec4d90feeb5e6eeeb04c4d3f6"
+        "md5": "aa64cd9670cc55ccb28bf9068c97cc09"
     },
     {
         "path": "pre-event-dse-day.html",
