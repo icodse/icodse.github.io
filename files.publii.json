@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "c068ad4139df0ae19f1cb0ea52b9a40d"
+        "md5": "938d37894c6249f7d8c6b7e685df020d"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "0a824327401642b0e15c5d3954b8c39d"
+        "md5": "e20d291e78b2aff736306f5a1c252cb9"
     },
     {
         "path": "assets/js",
@@ -102,52 +102,52 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "dc100089d4686d4998f4015dbcc03196"
+        "md5": "c38efa04facd4182f46b0e0be228e279"
     },
     {
         "path": "call-for-papers-2.html",
         "type": "file",
-        "md5": "5ff4d0d8cce24f4b23f5be7d66b2398b"
+        "md5": "8e661587fc5d4c48a3d469a81f269aac"
     },
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "35643c15070bc643fc7ff1276544f6df"
+        "md5": "2b534b3071a4a2ba413909131b8dc289"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "e072b2075b095138fbbe8f9b508e49d5"
+        "md5": "24a0f9218ebb2fa8b2cc91748866cd67"
     },
     {
         "path": "dse-day-webinar.html",
         "type": "file",
-        "md5": "f14a2b80b8879e83d9537cedd7a82e56"
+        "md5": "a50da72e9e0bfd91307501c99fa98ff6"
     },
     {
         "path": "icodse-2021-is-starting-soon.html",
         "type": "file",
-        "md5": "65d87f4f8d68a03a3f8c473985be010e"
+        "md5": "eeb6a1baeb36b7c17462b4663812028b"
     },
     {
         "path": "important-dates.html",
         "type": "file",
-        "md5": "583210d1abbd19c1e8ee569ee72057da"
+        "md5": "a871983f9969a4c3fffa7b4b1c8a579a"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "734255e584c3d2ed3a74470496216dbf"
+        "md5": "f492505d5ed02d570e8bfeea67235061"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "41ca1e81476f17cc2c603114ade31f79"
+        "md5": "e0b51007bb25584df60bd8cd1168b90d"
     },
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "d23d4c2f3d08de796a03be04afc1ef23"
+        "md5": "db8ade3336fc4c7a9ee89e4476744032"
     },
     {
         "path": "media",
@@ -765,14 +765,14 @@
         "md5": false
     },
     {
-        "path": "/media/website/icodse-2023-logo-3.png",
+        "path": "/media/website/ICoDSE2023-3-2.png",
         "type": "file",
-        "md5": "9467dc5ec25fc237096cb2332cae8076"
+        "md5": "36b9cbf89a31bd1862b0c4eda41b67ad"
     },
     {
-        "path": "/media/website/icodse-2023-logo-4.png",
+        "path": "/media/website/ICoDSE2023-3.png",
         "type": "file",
-        "md5": "9467dc5ec25fc237096cb2332cae8076"
+        "md5": "ccaee673d15a76def2e035ffe93382b8"
     },
     {
         "path": "/media/website/rect2250.png",
@@ -785,14 +785,14 @@
         "md5": false
     },
     {
-        "path": "/media/website/responsive/icodse-2023-logo-3-xs.png",
+        "path": "/media/website/responsive/ICoDSE2023-3-2-xs.png",
         "type": "file",
-        "md5": "6222b0ad42fee9f7a855c0fb2006d4dd"
+        "md5": "9ab0d1bf83824d34f1b94548021a7f5a"
     },
     {
-        "path": "/media/website/responsive/icodse-2023-logo-4-xs.png",
+        "path": "/media/website/responsive/ICoDSE2023-3-xs.png",
         "type": "file",
-        "md5": "6222b0ad42fee9f7a855c0fb2006d4dd"
+        "md5": "231a7c35566295ae7440b178dbd8494e"
     },
     {
         "path": "/media/website/responsive/rect2250-xs.png",
@@ -802,22 +802,22 @@
     {
         "path": "organizers.html",
         "type": "file",
-        "md5": "4d63669298615a53f928b210765d7e3c"
+        "md5": "c651ef9d3daa97c30838f3c5b3667311"
     },
     {
         "path": "pre-event-dse-day.html",
         "type": "file",
-        "md5": "b9e2724bd6e3d3f85a4c06a2ee2ef418"
+        "md5": "181e806574a598a03db66697e688715f"
     },
     {
         "path": "pre-event-pitching-competition.html",
         "type": "file",
-        "md5": "8d37b8f47275c99998489f9c9f040478"
+        "md5": "fdfb57a47231c6d510816fe8ccf8bfbd"
     },
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "0ccfe41c3dbc322b16d4d9898e9ebef4"
+        "md5": "a5e834e9940dd103514916a3476d816b"
     },
     {
         "path": "robots.txt",
@@ -827,7 +827,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "bbef325b9a072d9a526615e871aa47ba"
+        "md5": "ff0e1502473eb3ce253582fda1d58091"
     },
     {
         "path": "tags",
@@ -837,6 +837,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "530c3823ee91d72f7b70289d644bfe84"
+        "md5": "3dc03ac39c23236cce36ff554fe69d10"
     }
 ]
