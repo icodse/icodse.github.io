@@ -112,12 +112,12 @@
     {
         "path": "call-for-papers.html",
         "type": "file",
-        "md5": "b7319529129f87fce78b4536e5cbf302"
+        "md5": "9d01a6e0b39ffb07a808bd62e3800d7c"
     },
     {
         "path": "committee.html",
         "type": "file",
-        "md5": "89cb28f00809f2c9bf4a95c76e78f090"
+        "md5": "742872789d60f0c49c6482831ecd6e5b"
     },
     {
         "path": "dse-day-webinar.html",
@@ -137,7 +137,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "30773a58def154f7065055c48fa16246"
+        "md5": "a07381db81fb7a31445a111ed057e8a1"
     },
     {
         "path": "instruction-for-authors.html",
@@ -147,7 +147,7 @@
     {
         "path": "keynote.html",
         "type": "file",
-        "md5": "36694fbba5beb47bfff1c0f99dfd7cab"
+        "md5": "ec2cd6a141a367a1d9231ee2e38d1138"
     },
     {
         "path": "media",
@@ -782,7 +782,7 @@
     {
         "path": "registration.html",
         "type": "file",
-        "md5": "fd940ff68528c7f4e40aa2f23dc3ef98"
+        "md5": "24d68c460131ad0a00f96c73c969463c"
     },
     {
         "path": "robots.txt",
