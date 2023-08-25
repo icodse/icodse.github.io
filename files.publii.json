@@ -107,7 +107,7 @@
     {
         "path": "/authors/chair/index.html",
         "type": "file",
-        "md5": "63180d6a1ef445a6f00353540478d94c"
+        "md5": "c3aa1e786abd2ce345b01afdfcbbd213"
     },
     {
         "path": "call-for-papers-2.html",
@@ -130,6 +130,11 @@
         "md5": "87af99235c00a49cfb755fcd8bccc0bf"
     },
     {
+        "path": "icodse-2021-is-starting-soon-2.html",
+        "type": "file",
+        "md5": "6f0aff285057e63fa45642aed27f99b4"
+    },
+    {
         "path": "icodse-2021-is-starting-soon.html",
         "type": "file",
         "md5": "1c6348a7b2ded00fa1aaa1c96e81dd45"
@@ -142,12 +147,12 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "18ece3518dc28ab5520f51a7af1814d5"
+        "md5": "1a67ebe6008266207260765c47a2c7e6"
     },
     {
         "path": "instruction-for-authors.html",
         "type": "file",
-        "md5": "4f0eed23fa547054340152d50f8998e8"
+        "md5": "c68093c0fd3a8fd435af21038d60a9c4"
     },
     {
         "path": "keynote.html",
@@ -433,6 +438,51 @@
         "path": "/media/posts/14/swisshotel-bali-2.jpg",
         "type": "file",
         "md5": "21540176f2e1db54696d5744a4af9c30"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/banner.jpg",
+        "type": "file",
+        "md5": "95beb58e30073c67925ced089c5e1dba"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/banner-2xl.jpg",
+        "type": "file",
+        "md5": "c48cd20e6736d14ed461332939cbcff4"
+    },
+    {
+        "path": "/media/posts/16/responsive/banner-lg.jpg",
+        "type": "file",
+        "md5": "44b592dc21721dee171790674e034377"
+    },
+    {
+        "path": "/media/posts/16/responsive/banner-md.jpg",
+        "type": "file",
+        "md5": "c62f67abec016edaa94fb51abbf37cfc"
+    },
+    {
+        "path": "/media/posts/16/responsive/banner-sm.jpg",
+        "type": "file",
+        "md5": "1acc7b4591fa4d54a8f233b3ed5e9fcc"
+    },
+    {
+        "path": "/media/posts/16/responsive/banner-xl.jpg",
+        "type": "file",
+        "md5": "319326a066d9e682f3a745f825f6e82f"
+    },
+    {
+        "path": "/media/posts/16/responsive/banner-xs.jpg",
+        "type": "file",
+        "md5": "53b17cc4570cabc8497060a90c01d478"
     },
     {
         "path": "media/posts/3",
