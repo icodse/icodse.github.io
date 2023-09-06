@@ -132,7 +132,7 @@
     {
         "path": "icodse-2021-is-starting-soon-2.html",
         "type": "file",
-        "md5": "8f19f6095d69c2b4e191f43767d74346"
+        "md5": "24297b24a122b0c18542d8a02140b727"
     },
     {
         "path": "icodse-2021-is-starting-soon.html",
@@ -147,7 +147,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "776767290d8d0fd626ce4b838c171bc5"
+        "md5": "f12e790b483f5cb22cc10685d1659bdc"
     },
     {
         "path": "instruction-for-authors.html",
@@ -805,6 +805,11 @@
         "md5": "ccaee673d15a76def2e035ffe93382b8"
     },
     {
+        "path": "/media/website/ICoDSE2023-icon.png",
+        "type": "file",
+        "md5": "b93f4718bc5cf3cba674b2c88058a728"
+    },
+    {
         "path": "/media/website/rect2250.png",
         "type": "file",
         "md5": "0c648621ef86c644bbadc81340ebe764"
@@ -823,6 +828,11 @@
         "path": "/media/website/responsive/ICoDSE2023-3-xs.png",
         "type": "file",
         "md5": "231a7c35566295ae7440b178dbd8494e"
+    },
+    {
+        "path": "/media/website/responsive/ICoDSE2023-icon-xs.png",
+        "type": "file",
+        "md5": "cc94d83a9b4811612b4fb9f176a98d26"
     },
     {
         "path": "/media/website/responsive/rect2250-xs.png",
