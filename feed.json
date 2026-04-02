@@ -15,7 +15,7 @@
             "url": "https://icodse.org/2025-icodse-coming-soon.html",
             "title": "2026 IEEE ICoDSE",
             "summary": "2026 IEEE International Conference on Data and Software Engineering (ICoDSE) ICoDSE (International Conference on Data and Software Engineering) is an international conference focused on the latest developments in data and software engineering. It brings together researchers, practitioners, and professionals to share knowledge on topics such as big data processing, software development, artificial intelligence, and more. ICoDSE 2026, the 12th edition of the conference, will focus on Generative AI seen from the lens of practitioners and the body of software and data engineering. The conference will explore how generative AI and other AI technology enhances secure systems development through intelligent code&hellip;",
-            "content_html": "<h2>2026 IEEE International Conference on Data and Software Engineering (ICoDSE) </h2>\n<p>ICoDSE (International Conference on Data and Software Engineering) is an international conference focused on the latest developments in data and software engineering. It brings together researchers, practitioners, and professionals to share knowledge on topics such as big data processing, software development, artificial intelligence, and more.<br><br>ICoDSE 2026, the 12th edition of the conference, will focus on Generative AI seen from the lens of practitioners and the body of software and data engineering. The conference will explore how generative AI and other AI technology enhances secure systems development through intelligent code generation, intelligent test automation, and synthetic data creation. It will also emphasize the importance of solid data and software engineering foundations &amp; clean data pipelines, scalable architectures, and robust deployment practices in supporting AI applications for secure systems. This symbiotic relationship forms a cycle where generative AI advances of software/data engineering, and vice versa.</p>\n<p><strong>Venue</strong><br><em>Aula Timur, Institut Teknologi Bandung</em></p>\n<h2>Program Schedule</h2>\n<p>Coming Soon</p>\n<!--\n<h4><span data-sheets-root=\"1\">General Rules of Parallel Session Presentations</span></h4>\n<ol>\n<li>Each presenter (online or offline) is allocated a maximum of 20 minutes, consisting of 15 minutes for the presentation (including setup time) and 5 minutes for Q&amp;A.</li>\n<li>For online presenters:\n<ul>\n<li>Please join the Zoom meeting using the link below and enter your assigned parallel session breakout room at the designated time.<br><a href=\"https://zoom.us/j/92874153505?pwd=VpL9bUp5SgqYgW3aBmkUvdzuXjSojV.1\">https://zoom.us/j/92874153505?pwd=VpL9bUp5SgqYgW3aBmkUvdzuXjSojV.1</a><br>Meeting ID: 928 7415 3505<br>Passcode: 856891</li>\n<li>Please share your own slides live during your presentation. The slides and videos submitted to the conference organizers will be used only if any technical issues occur.</li>\n</ul>\n</li>\n</ol>-->",
+            "content_html": "<h2>2026 IEEE International Conference on Data and Software Engineering (ICoDSE) </h2>\n<p>ICoDSE (International Conference on Data and Software Engineering) is an international conference focused on the latest developments in data and software engineering. It brings together researchers, practitioners, and professionals to share knowledge on topics such as big data processing, software development, artificial intelligence, and more.<br><br>ICoDSE 2026, the 12th edition of the conference, will focus on Generative AI seen from the lens of practitioners and the body of software and data engineering. The conference will explore how generative AI and other AI technology enhances secure systems development through intelligent code generation, intelligent test automation, and synthetic data creation. It will also emphasize the importance of solid data and software engineering foundations &amp; clean data pipelines, scalable architectures, and robust deployment practices in supporting AI applications for secure systems. This symbiotic relationship forms a cycle where generative AI advances of software/data engineering, and vice versa.</p>\n<p><strong>Venue</strong><br><em>Aula Barat, Institut Teknologi Bandung</em></p>\n<h2>Program Schedule</h2>\n<p>Coming Soon</p>\n<!--\n<h4><span data-sheets-root=\"1\">General Rules of Parallel Session Presentations</span></h4>\n<ol>\n<li>Each presenter (online or offline) is allocated a maximum of 20 minutes, consisting of 15 minutes for the presentation (including setup time) and 5 minutes for Q&amp;A.</li>\n<li>For online presenters:\n<ul>\n<li>Please join the Zoom meeting using the link below and enter your assigned parallel session breakout room at the designated time.<br><a href=\"https://zoom.us/j/92874153505?pwd=VpL9bUp5SgqYgW3aBmkUvdzuXjSojV.1\">https://zoom.us/j/92874153505?pwd=VpL9bUp5SgqYgW3aBmkUvdzuXjSojV.1</a><br>Meeting ID: 928 7415 3505<br>Passcode: 856891</li>\n<li>Please share your own slides live during your presentation. The slides and videos submitted to the conference organizers will be used only if any technical issues occur.</li>\n</ul>\n</li>\n</ol>-->",
             "image": "https://icodse.org/media/posts/30/aulta-timur-itb-2.jpeg",
             "author": {
                 "name": "Chair"
@@ -23,21 +23,21 @@
             "tags": [
             ],
             "date_published": "2025-10-20T00:12:25+07:00",
-            "date_modified": "2026-04-02T21:57:22+07:00"
+            "date_modified": "2026-04-02T22:18:35+07:00"
         },
         {
             "id": "https://icodse.org/venue-2.html",
             "url": "https://icodse.org/venue-2.html",
             "title": "Venue",
-            "summary": "Aula Timur, Institut Teknologi Bandung",
-            "content_html": "<h3 class=\"msg msg--highlight \">Aula Timur, Institut Teknologi Bandung</h3>\n<p> </p>",
+            "summary": "Aula Barat, Institut Teknologi Bandung",
+            "content_html": "<h3 class=\"msg msg--highlight \">Aula Barat, Institut Teknologi Bandung</h3>\n<p> </p>",
             "author": {
                 "name": "Chair"
             },
             "tags": [
             ],
             "date_published": "2025-08-12T11:57:27+07:00",
-            "date_modified": "2026-04-02T21:46:36+07:00"
+            "date_modified": "2026-04-02T22:18:46+07:00"
         },
         {
             "id": "https://icodse.org/cfp-poster.html",
