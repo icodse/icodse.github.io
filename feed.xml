@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>icodse.org</title>
+    <link href="https://icodse.org/feed.xml" rel="self" />
+    <link href="https://icodse.org" />
+    <updated>2026-04-02T14:06:43+07:00</updated>
+    <author>
+        <name>Chair</name>
+    </author>
+    <id>https://icodse.org</id>
+
+    <entry>
+        <title>2025 IEEE ICoDSE</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/2025-icodse-coming-soon.html"/>
+        <id>https://icodse.org/2025-icodse-coming-soon.html</id>
+        <media:content url="https://icodse.org/media/posts/30/batam-bridge.jpg" medium="image" />
+
+        <updated>2025-10-20T00:12:25+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://icodse.org/media/posts/30/batam-bridge.jpg" alt="gorontalo" />
+                    2026 IEEE International Conference on Data and Software Engineering (ICoDSE) “Generative AI Meets Data and Software Engineering: Challenges and Innovations” Date October 28-29, 2025 Venue Technopark Politeknik Negeri Batam (hybrid online + offline) Time in the program schedule is in Western Indonesia Time / Waktu&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://icodse.org/media/posts/30/batam-bridge.jpg" class="type:primaryImage" alt="gorontalo" /></p>
+                <h2>2026 IEEE International Conference on Data and Software Engineering (ICoDSE) </h2>
+<p><em>“Generative AI Meets Data and Software Engineering: Challenges and Innovations</em><em>”</em></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Ij4tidIa-VU?si=d7T5hq2cd8MiezVi&amp;controls=0" title="ICoDSE 2025 Live Streaming" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<p><strong>Date<br></strong>October 28-29, 2025</p>
+<p><strong>Venue</strong><br>Technopark Politeknik Negeri Batam (hybrid online + offline)</p>
+<h2><figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/30/251015-icodse-poster-new.jpeg" alt="" width="1980" height="2560" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/30/responsive/251015-icodse-poster-new-xs.jpeg 300w ,https://icodse.org/media/posts/30/responsive/251015-icodse-poster-new-sm.jpeg 480w ,https://icodse.org/media/posts/30/responsive/251015-icodse-poster-new-md.jpeg 768w ,https://icodse.org/media/posts/30/responsive/251015-icodse-poster-new-lg.jpeg 1024w ,https://icodse.org/media/posts/30/responsive/251015-icodse-poster-new-xl.jpeg 1360w ,https://icodse.org/media/posts/30/responsive/251015-icodse-poster-new-2xl.jpeg 1600w"></figure></h2>
+<h2>Program Schedule</h2>
+<p><span style="font-weight: 400;">Time in the program schedule is in Western Indonesia Time / Waktu Indonesia Barat (WIB; GMT+7). Please pay attention and adjust it to your local time. Current time in WIB can be found on </span><a href="time.is/Batam"><span style="font-weight: 400;">time.is/</span><span style="font-weight: 400;">Batam</span></a><span style="font-weight: 400;">.</span></p>
+<h4><strong>Day I – Tuesday, October 28, 2025</strong></h4>
+<table>
+<tbody>
+<tr style="height: 78.8125px;">
+<td style="width: 150px; height: 78.8125px;">
+<p>08.00–08.30</p>
+</td>
+<td style="width: 565px; height: 78.8125px;">
+<p>Registration Day 1</p>
+</td>
+</tr>
+<tr style="height: 78.8125px;">
+<td style="width: 150px; height: 78.8125px;">
+<p>08.30–09.45</p>
+</td>
+<td style="width: 565px; height: 78.8125px;">
+<p><span style="color: #02192b;">Opening Ceremony</span></p>
+</td>
+</tr>
+<tr style="height: 78.8125px;">
+<td style="width: 150px; height: 78.8125px;">
+<p>09.45-10.00</p>
+</td>
+<td style="width: 565px; height: 78.8125px;">
+<p><span style="color: #02192b;">Coffe Break</span></p>
+</td>
+</tr>
+<tr style="height: 137.062px;">
+<td style="width: 150px; height: 137.062px;">
+<p>10.00–11.00</p>
+</td>
+<td style="width: 565px; height: 137.062px;">
+<p><span style="color: #02192b;"><strong>Keynote Speech 1: </strong></span><span style="color: #02192b;"><span style="font-weight: 400;">Assoc. Prof. Dr. Ir. G.A. Putri Saptawati <br>(Knowledge and Software Engineering Research Group; <br>Institut Teknologi Bandung (ITB); Indonesia)</span></span></p>
+</td>
+</tr>
+<tr style="height: 137.062px;">
+<td style="width: 150px; height: 137.062px;">
+<p>11.00–12.00</p>
+</td>
+<td style="width: 565px; height: 137.062px;">
+<p><strong>Keynote Speech 2: </strong><span style="font-weight: 400;">Prof. Marta Sabou, Ph.D. <br>(Institute of Data, Process, and Knowledge Management;<br>Vienna University of Economics and Business (WU); Austria)</span></p>
+</td>
+</tr>
+<tr style="height: 78.8125px;">
+<td style="width: 150px; height: 78.8125px;">
+<p>12.00–13.00</p>
+</td>
+<td style="width: 565px; height: 78.8125px;">
+<p><span style="color: #02192b;">Lunch Break</span></p>
+</td>
+</tr>
+<tr style="height: 137.062px;">
+<td style="width: 150px; height: 137.062px;">
+<p>13.00-15.00</p>
+</td>
+<td style="width: 565px; height: 137.062px;">
+<p><span style="font-weight: 400;"><strong>Special Track</strong>: Generative AI for Education</span></p>
+<p><strong>Parallel Session I</strong></p>
+</td>
+</tr>
+<tr style="height: 108.271px;">
+<td style="width: 150px; height: 108.271px;">
+<p>15.00–16.00</p>
+</td>
+<td style="width: 565px; height: 108.271px;">
+<p><strong>Keynote Speech 3: <span style="font-weight: 400;">AP. Cristoph Treude, Ph.D. <br>(Computing and Information Systems; <br>Singapore Management University (SMU); Singapore)</span></strong></p>
+</td>
+</tr>
+<tr style="height: 79.4792px;">
+<td style="width: 150px; height: 79.4792px;">
+<p>16.00–18.00</p>
+</td>
+<td style="width: 565px; height: 79.4792px;">
+<p><a href="#p2"></a><strong>Parallel Session II</strong></p>
+</td>
+</tr>
+<tr style="height: 78.8125px;">
+<td style="width: 150px; height: 78.8125px;">
+<p>18.00–19.00</p>
+</td>
+<td style="width: 565px; height: 78.8125px;">
+<p>Preparation for Gala Dinner</p>
+</td>
+</tr>
+<tr style="height: 78.8125px;">
+<td style="width: 150px; height: 78.8125px;">
+<p>19.00–21.00</p>
+</td>
+<td style="width: 565px; height: 78.8125px;">
+<p>Gala Dinner</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Day II – Wednesday, October 29, 2025</strong></h4>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 22.2444%;">
+<p>08.00–08.30</p>
+</td>
+<td style="width: 77.708%;">
+<p><span style="color: #02192b;">Registration Day 2</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 22.2444%;">
+<p>08.30–09.30</p>
+</td>
+<td style="width: 77.708%;">
+<p><strong>Keynote Speech 4:  <span style="font-weight: 400;">Shrinath Thube <br>(IBM Software Developer; IEEE Senior Member; <br>IEEE CISOSE 2025; USA)</span></strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 22.2444%;">
+<p>09.30–11.30</p>
+</td>
+<td style="width: 77.708%;">
+<p><span style="color: #02192b;"><strong>Parallel Session III</strong></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 22.2444%;">
+<p>11.30–12.00</p>
+</td>
+<td style="width: 77.708%;">
+<p><span style="color: #02192b;">Closing</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 22.2444%;">
+<p>14.00–18.00 </p>
+</td>
+<td style="width: 77.708%;">
+<p><span style="color: #02192b;"><strong>Social Event:</strong> sightseeing around Batam</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Parallel Session</h2>
+<h3><span data-sheets-root="1">Parallel Session I: Tue, Oct 28, 2025 13.00-15.00</span></h3>
+<h4><strong>Session I-A</strong></h4>
+<p>Room: Sungai Harapan (1st Floor), Full-Offline *)</p>
+<ul>
+<li><span data-sheets-root="1"><strong>Hybrid Powered Library Chatbot: A LLM Solution for Book Recommendations and Service Assistance in Academic Libraries</strong><br>Rahmad Naibaho and Ryan Wijaya</span></li>
+<li><strong>Performance Analysis of CNN and SVM Approaches for Text-Based Emotion Classification</strong><br><span data-sheets-root="1">Herimanto Pardede, Tegar Arifin Prasetyo, Ranty Deviana Siahaan, Putri Ruth Berliana Siahaan and Cheilint Claudina Siallagan</span></li>
+<li><strong>Creation of BAPOLAIC: An AI-Powered Chatbot for Document Recognition and Voice Assistance</strong><br><span data-sheets-root="1">Rival Fahreji, Ryan Satria Wijaya, Anugerah Wibisana and Senanjung Prayoga</span></li>
+<li><strong>Cross-Lingual SynthDocs: A Large-Scale Synthetic Corpus for Any to Arabic OCR and Document Understanding</strong><br><span data-sheets-root="1">Haneen Al-Homoud, Asma Ibrahim, Murtadha Al-Jubran, Fahad Al-Otaibi, Yazeed Al-Harbi, Daulet Toibazar, Kesen Wang and Pedro J. Moreno</span></li>
+<li><strong>Weak Labeling for Emotion Recognition: A CLIP Auto-Curation Approach</strong><br><span data-sheets-root="1">Rina Yulius, Muchamad Fajri Amirul Nasrullah and Rajabul Haris</span></li>
+<li><strong>Machine Learning-Based Class Grouping for Differentiated Instruction under the Merdeka Curriculum</strong><br><span data-sheets-root="1">Berta Erwin Slam, Nolan Efranda, Rifaldi Herikson and Rafi Dio</span></li>
+</ul>
+<h4><strong>Session I-B</strong></h4>
+<p>Room: Batam Center (2nd Floor), Hybrid - All Presenters Online</p>
+<ul>
+<li><strong>Spoken Language Recognition for Indonesian Local Languages Using Deep Learning</strong><br>Andree Panjaitan and Amalia Zahra</li>
+<li><strong>BISINDO Gloss to Indonesian Text Translation and Indonesian Text to BISINDO Gloss Translation Using Transfer Learning</strong><br>Arawinda Dinakaramani, Erdefi Rakun, Kurniawati Azizah and Evi Yulianti</li>
+<li><strong>An Automated System for Citation Intent Classification using SciBERT</strong><br>Jimly Firdaus and Fariska Zakhralativa Ruskanda</li>
+<li><strong>ASTE-RL: A Reinforcement Learning-Based Aspect Sentiment Triplet Extraction in Bahasa Indonesia</strong><br>Meganingrum Arista Jiwanggi and Iis Afriyanti</li>
+<li><strong>Sentiment Analysis on Indonesian Stock Market Texts: A Comparative Study of Support Vector Machine (SVM) and IndoBERT</strong><br>Reena Simanihuruk, Evi Yulianti, Kurniawati Azizah and Wisnu Jatmiko</li>
+<li><strong>Ensemble Learning for Stock Price Prediction using Financial Statements and News Sentiment</strong><br>Hobert Jonatan and Fariska Zakhralativa Ruskanda</li>
+</ul>
+<h4>Session I-C</h4>
+<p>Room: Muka Kuning (2nd Floor), Hybrid - All Presenters Online</p>
+<ul>
+<li><strong>Machine Learning Module in a Web Application Firewall for Multi-Label Web Attacks Detection</strong><br>Muhammad Bangkit Dwi Cahyono and Muhammad Zuhri Catur Candra</li>
+<li><strong>HyperQR: A Secure Multi-Frame QR Encoding Framework for Data Compression and Temporal Access Control</strong><br>Noortaz Ahmed, Maslinia Sujnus Shifa and Nishat Tasnim Niloy</li>
+<li><strong>Enhancing Phishing Detection with Machine Learning: A Study on the Effectiveness of Feature Selection Techniques</strong><br>Akbar Hamonangan, Dhanu Ahsan Fatih and Andi Sunyoto</li>
+<li><strong>Comparative Analysis of Static and Dynamic Evasion Techniques in Packers for Security Product Evaluation</strong><br>Muhammad Haidar Akita Tresnadi, Moch. Sofyan Firdaus, Frankie Huang and Robithoh Annur</li>
+<li><strong>Analysis of Antivirus Resilience and Efficiency Against Crypto Ransomware Attacks</strong><br>Frankie Huang, Muhammad Haidar Akita Tresnadi, Moch Sofyan Firdaus and Robithoh Annur</li>
+<li><strong>Iris Liveness Detection for Video Replay Attack using Quality Metrics and EfficientNetB7</strong><br>Vaishali Kulloli and Maheshwari Biradar</li>
+</ul>
+<h4>Session I-D</h4>
+<p>Room: Batu Ampar (2nd Floor), Hybrid - All Presenters Online</p>
+<ul>
+<li><strong>The Effectiveness of Implementing Android’s TalkBack Screen Reader and Braille-Based Gestures on Android Application in Facilitating Visually Impaired Users in Music Learning</strong><br>Samantha Michelle and Sonya Manalu</li>
+<li><strong>A Reusable Library for Secure Attendance Systems: Fraud Mitigation Based on QR Code and Geolocation</strong><br>Akmal Oktavian, Wawan Gunawan and Mezan el-Khaeri Kesuma</li>
+<li><strong>Solvio: An Interactive and Gamified Platform for Teaching Computational Thinking</strong><br>Raditya Naufal Abiyu, Hosea Nathanael Abetnego, Razzan Daksana Yoni, Adi Mulyanto and Agung Dewandaru</li>
+<li><strong>Hein Method: Hybrid Content-Based Filtering for College Major Recommendation</strong><br>Farhan H Haq, Yuranan R Gartiwa and Shofiyati N Karimah</li>
+<li><strong>Affective Mood Tracking Task Reminders Powered by Machine Learning and Virtual Companion</strong><br>Aisyah Farhana Faizal, Suziah Sulaiman, Mahdiyeh Moosavi and Frederic Merienne</li>
+<li><strong>Machine Learning-Based CO₂ Emission Prediction and Industry Classification for Malaysia</strong><br>Khairunisah Mohd Hamdan and Ts. Nazleeni Samiha Haron</li>
+</ul>
+<h4>Session I-E</h4>
+<p>Full-Online</p>
+<ul>
+<li><strong>Decentralizaing the Tender Process Using Blockchain and Off-Chain Storage</strong><br>Ariel Jovananda and Muhammad Zuhri Catur Candra</li>
+<li><strong>Generation and Visualization of BPMN from Legal Documents</strong><br>Willy Wilsen, Agung Dewandaru and Muhammad Zuhri Catur Candra</li>
+<li><strong>Neuro-Symbolic Compliance-as-Code: Toward Explainable, Adaptive, and Self-Evolving Governance Systems</strong><br>Sajal Nigam and Sagar Patel</li>
+<li><strong>Unit Test Case Generation from Source Code Based On Control Flow Graph</strong><br>Azmi Hasna Zahrani and Yani Widyani</li>
+<li><strong>Measurement of Modularity and Reusability Quality in Refactoring Object-Oriented Program Code</strong><br>Siti Rochimah, Bintang Nuralamsyah, Glenaya and Tiara Rahmania Hadiningrum</li>
+</ul>
+<h4>Session I-F: Special Session on Generative AI for Education</h4>
+<p>Room: TP 301 Tanjung Piayu (3rd Floor), Hybrid</p>
+<ul>
+<li><strong><span data-sheets-root="1">Self‑Supervised Pretraining for High School Chemistry Problem Generation Using Conditional GANs.<br></span></strong>Invited Speaker: Hendra Kurniawan<strong><span data-sheets-root="1"><br></span></strong></li>
+<li><strong>Contextualized Hybrid Model for AI Ethics Governance in Malaysia’s TVET Sector</strong><br>Aminah Bibi Bawamohiddin and Noreen Izza Arshad</li>
+<li><strong>A Critical Review of Privacy, Bias, and Trust Challenges in Generative AI for Educational Contexts</strong><br>Raja Vavekanand and Ganesh Kumar</li>
+<li><strong>Automated Student Supervisor Allocation System Using Large Language Models and Linear Programming</strong><br>Sean Hou Yin Yee, Woan Ning Lim, Ganesh Kumar, and Muhammed Basheer Jasser</li>
+<li><strong>Generative AI for Software Project Management: Towards Adaptive, Personalized, and Project-Centered Learning</strong><br>Hasiah Mohamed, Norulhidayah Isa and Zawawi Ismail</li>
+</ul>
+<h3>Parallel Session II: Tue, Oct 28, 2025 16.00-18.00</h3>
+<h4>Session II-A</h4>
+<p>Room: Sungai Harapan (1st Floor), Full-Offline *)</p>
+<ul>
+<li><strong>Developing a FAIR-Compliant RDM Framework: Insights from TU Wien and ITB</strong><br>Wikan Danar Sunindyo, Hari Purnama, Saiful Akbar, Dicky Prima Satya, Martin Weise, Florina Piroi and Andreas Rauber</li>
+<li><strong>A Context-Sensitive Roadmap Framework for Digital Government Transformation in Resource-Constrained Regions: The Case of Mimika Regency, Indonesia</strong><br>Wikan Danar Sunindyo, Windy Gambetta and Neng Ayu Herawati</li>
+<li><strong>Index Selection in Database Based on Query Arrival Rate Prediction</strong><br>Ulung Adi Putra and Fazat Nur Azizah</li>
+<li><strong>Optimization of Circulation Route Connectivity Between Historic Buildings in the Penyengat Island Tourist Area Based on Graph Theory</strong><br>Sepli Yandri, Yessy Christanti Silaban, Bagas Giar Pratama, Emhade Arman Erhaqim and Rusydina Sabila Fauzi</li>
+<li><strong>Quality Evaluation of LLM-based Generated Test Case: A Literature Review</strong><br>Novi Setiani and Alifia</li>
+</ul>
+<h4>Session II-B</h4>
+<p>Room: Batam Center (2nd Floor), Full-Offline *)</p>
+<ul>
+<li><strong>Implementing End-to-End Encryption based on Messaging Layer Security in a Community-based Instant Messaging Application</strong><br>Salman Ma'Arif Achsien and Yudistira Asnar</li>
+<li><strong>Virtual Firewall Implementation with eBPF for Distributed Denial of Service Attacks in Cloud-Native Environments</strong><br>Irsyad Basuki and Yudistira Asnar</li>
+<li><strong>QoS Evaluation and Predictive Modeling of Ubidots and ThingSpeak for Smart Home Water Flow Data</strong><br>Asri Arganing Hasanah, Nurul Khairani, Heru Wijanarko and Muhammad Naufal Airlangga Diputra</li>
+<li><strong>Development of a Gamified Virtual Reality Application for Solar Activity Education</strong><br>Christian Albert Hasiholan, Addin Munawwar Yusuf, Agung Dewandaru and Erwin Rezasyah</li>
+<li><strong>An Empirical Study of Generative AI for CRUD Code: A PHP Case with Tutorial Based Novice Baselines</strong><br>Fortia Magfira, Feri Irawan and Basyaruddin Harahap</li>
+</ul>
+<h4>Session II-C</h4>
+<p>Room: Muka Kuning (2nd Floor), Hybrid - All Presenters Online</p>
+<ul>
+<li><strong>Buah Batu-Samsat Bandung Traffic Intersections Optimization with Multi-Agent Attention-Based Soft Actor-Critic (MASAC) using Real Data</strong><br>Ahmad Azhar Za and Anggera Bayuwindra</li>
+<li><strong>Community Detection in Dynamic Social Networks with Deep Learning Approaches</strong><br>Kevin John Wesley Hutabarat, Muhammad Zuhri Catur Candra and Maya Nabila</li>
+<li><strong>Causal Graph Extraction from Medical Literature using Large Language Models for Hetionet</strong><br>Mohammad Farhan Fahrezy, Agung Dewandaru, Gusti Ayu Putri Saptawati Soekidjo and Hendro Wicaksono</li>
+<li><strong>Information Retrieval System with Knowledge Graph–Based Retrieval-Augmented Generation Using Hetionet for the Medical Domain</strong><br>Mutawally Nawwar, Agung Dewandaru, Gusti Ayu Putri Saptawati Soekidjo and Hendro Wicaksono</li>
+<li><strong>Anomaly Detection in Multivariate Time Series Data with Multiple Seasonal Trends</strong><br>Ashton Williams and Soon Chung</li>
+<li><strong>LLMTestCraft: An Automated Framework for Unit Testing via Large Language Models</strong><br>Jamal Abdullahi Nuh, Tieng Wei Koh, Babangida Lawal, Adam Amril Jaharadak and Mohamed Abdullahi Ali</li>
+</ul>
+<h4>Session II-D</h4>
+<p>Room: Batu Ampar (2nd Floor), Hybrid - All Presenters Online</p>
+<ul>
+<li><strong>Human-in-the-Loop Artificial Intelligence for Asset Management: A Systematic Review of Applications, Methods, and Research Challenges</strong><br>Nurvita Arumsari, Moses Laksono Singgih and I Ketut Gunarta</li>
+<li><strong>Optimizing Differential Privacy for Effective Machine Learning-Based Financial Fraud Detection</strong><br>Kevin Fujianto, Fahimsyach Lokanta, Henry Lucky and Derwin Suhartono</li>
+<li><strong>Development of Association Rule Framework based on Particle Swarm Optimization on FP-Growth Weighted</strong><br>Fadly Muhammad and Gusti Ayu Putri Saptawati</li>
+<li><strong>Parallel Mining of Frequent Itemsets Based on AprioriHybrid with a Map-Based Trie</strong><br>Owen Kemp and Soon Chung</li>
+<li><strong>Stochastic Degree-Constrained Spanning Tree for Data-Driven Uncertain Network Optimization</strong><br>Anna Angela Sitinjak, Saib Suwilo, Mardiningsih Mardiningsih and Sutarman</li>
+</ul>
+<h4>Session II-E</h4>
+<p>Full-Online</p>
+<ul>
+<li><strong>Bitcoin’s Halving Cycle and Stock Market Correlation: A Machine Learning Approach</strong><br>Christopher Davin Sasrawan, Wilbert, Henry Lucky and Derwin Suhartono</li>
+<li><strong>Procedural Content Generation with Large Language Models for Three-Dimensional Environment Design</strong><br>Hidayatullah Wildan Ghaly Buchary, Agung Dewandaru and Teguh Budi Wicaksono</li>
+<li><strong>Nusava: Social Media Bot with Behavioral Model for Tourism</strong><br>Juan Christopher Santoso, Alexander Jason, Nathania Calista Djunaedi, Agung Dewandaru and Saiful Akbar</li>
+<li><strong>Intelligent Recommender System for IT Ticket Troubleshooting Using Semantic Embeddings and Collaborative Filtering</strong><br>Gerrald Nathaniel Syarif and Suharjito</li>
+<li><strong>Platform Ecosystem Resilience During Regulatory Disruption: A Causal Machine Learning Analysis of TikTok Shop’s Integration with Tokopedia in Indonesia’s Social Commerce Landscape</strong><br>Sabar Aritonang Rajaguguk</li>
+</ul>
+<h4>Session II-F</h4>
+<p>Full-Online</p>
+<ul>
+<li><strong>A Nomogram Visualization for Energy Management in Virtualized Environment for Product Configuration</strong><br>I Made Murwantara</li>
+<li><strong>User Behavior Analysis Base on Time Series Using Elasticsearch and Kibana</strong><br>Parinya Sornsamdaeng and Jongkol Janruang</li>
+<li><strong>Scalable Back-End for an AI-Based Diabetes Prediction Application</strong><br>Henry Anand Septian Radityo, Bernardus Willson, Raynard Tanadi, Saiful Akbar and Latifa Dwiyanti</li>
+<li><strong>Implementation of Web-Based Production Quality Control Monitoring System Using Scrum Method (Case Study: Automotive Component Company)</strong><br>Indra Akhmad Firdhaus, Anita Rachman, Nanda Amalia Irawan and Riyan Leandros</li>
+<li><strong>Integrating Public Health and Social Media Communications for COVID-19: A High-Quality Dataset with Validated Metrics **)</strong><br>Akhyar Ahmed, Aadil Rasheed, Esther-Maria Antao, Anatol-Fiete Naeher, Lothar H. Wieler and Irina-Catrinel Craciun</li>
+</ul>
+<h3><span data-sheets-root="1">Parallel Session III: Wed, Oct 29, 2025 09.30-11.30</span></h3>
+<h4>Session III-A</h4>
+<p>Room: Sungai Harapan (1st Floor), Full-Offline *)</p>
+<ul>
+<li><strong>Cybersecurity Costs and Financial Performance: Do Firm Assets and Innovation Capabilities Make a Difference?</strong><br>Putri Fariska, Puspita Kencana Sari and Adhi Prasetio</li>
+<li><strong>A Hybrid Framework for Imputing Time Series Air Pollutant Data in Tropical Climates Area</strong><br>Hendra Kurniawan, Nerfita Nikentari, Doli Bonardo, Muhammad Amin, Nina Adriani, Marisha Pertiwi and Bavitra</li>
+<li><strong>Development of an Automated Visual Inspection System for PCB Defect Detection Using YOLOv11n and the SAHI Method</strong><br>Azhani Syahputra, Ryan Satria Wijaya, Rifqi Amalya Fatekha and Senanjung Prayoga</li>
+<li><strong>Satellite Image Analysis for Oil Spill Detection and Classification Using Machine Learning</strong><br>Azlina Kamaruddin, Norma Alias and Yahya Nur Ifriza</li>
+<li><strong>Comparative Analysis of RBF Neural Networks and CNN for Mangrove Identification Using Field Images</strong><br>Nola Ritha, Nurul Hayaty, Dony Apdillah, Martaleli Bettiza, Alramadan Oloansyah Dasopang and Tri Nanda</li>
+<li><strong>Ball Distance Estimation Using Machine Learning on an Omnidirectional Camera for a Middle Size Soccer Robot</strong><br>Danni Syahputra, Anugerah Wibisana, Masdika Aliman and Ichsan Fajar Yudika</li>
+</ul>
+<h4>Session III-B</h4>
+<p>Room: Batam Center (2nd Floor), Hybrid - All Presenters Online</p>
+<ul>
+<li><strong>MediVision: An Explainable and Robust Deep Learning Framework for Knee Osteoarthritis Grading</strong><br>Golam Kibria, Shayan Abrar, B. M. Shahria Alam, Asaduzzaman Rayhan, Mohammad Tahmid Noor, Rafiul Awal and Shamim Ripon</li>
+<li><strong>Hyperparameter Optimization Strategies for Enhancing Modified YOLO11 in Fire Detection</strong><br>Satriadi Putra Santika, Arya Krisna Putra, Abba Suganda Girsang and Ezra Peranginangin</li>
+<li><strong>Enhancing Rice Grain Classification Performance Using EfficientNet-CBAM Model</strong><br>M. Faris Al Hakim, Fariska Ratna Fauziah and Budi Prasetiyo</li>
+<li><strong>YOLOv8 Implementation on ESP32-CAM for IoT-Based Human and Vehicle Detection</strong><br>Asep Trisna Setiawan, Ary Setijadi Prihatmanto, Muhammad Fahmi Nurfadilah, M. Aji Perdana, Mohammad Riza Nurtam, Faiza Kailani Kuswanto, Dika Hastanto, Nina Lestari and Dewi Tresnawati</li>
+<li><strong>Cross-Domain Fine-Tuning of YOLOv8 for Vehicle Detection in Daytime and Nighttime Traffic Surveillance</strong><br>I Nyoman Eddy Indrayana, Made Sudarma, I Ketut Gede Darma Putra and Anak Agung Kompiang Oka Sudana</li>
+<li><strong>Identification of Stroke Level Based on EEG Waves Using Wavelet and Slim UNETR</strong><br>Lucky Bahtiar and Esmeralda Djamal</li>
+</ul>
+<h4>Session III-C</h4>
+<p>Room: Muka Kuning (2nd Floor), Hybrid - All Presenters Online</p>
+<ul>
+<li><strong>Towards a Versatile Hierarchical Data Management System for Numerical Data in Distributed Environments</strong><br>Drestanto Muhammad Dyasputro</li>
+<li><strong>Designing Resilient Cloud Based ETL Systems for Scalable Business Intelligence</strong><br>Sruthi Erra Hareram</li>
+<li><strong>Implementation and Evaluation of Query Performance Prediction Network on The Sakila Schema</strong><br>Matthew Mahendra and Tricya Esterina Widagdo</li>
+<li><strong>Performance benchmark of Embedded Model using MongoDB</strong><br>Marcos Roberto G. Bahiense Junior, Lanier M. Santos, Raimundo N. V. Diniz Junior and Erick C. Bezerra</li>
+<li><strong>Epigenomic Data Storage System to Support Training of Cis-Regulatory Region Activity Prediction Using Feed Forward Neural Network</strong><br>Marco William Langi and Fazat Nur Azizah</li>
+<li><strong>Distributed Micro-Clustering of Streaming Text Data Using MPI on HPC Systems</strong><br>Nathaniel Crossman and Soon Chung</li>
+</ul>
+<h4>Session III-D</h4>
+<p>Room: Batu Ampar (2nd Floor), Hybrid - All Presenters Online</p>
+<ul>
+<li><strong>Rentify: Leveraging Access-Based Consumption to Minimize Waste and Optimize Product Utilization</strong><br>William, Abraham Kefas Wilham, Sonya Rapinta Manalu and Muhammad Keenan Ario</li>
+<li><strong>AuTour: A Mobile App for Disaster-Resilient Tourism Using Feature-Driven Architecture</strong><br>Sherwin Glorioso and Thelma Palaoag</li>
+<li><strong>A Mobile Application Front-End for Presenting Explainable AI Results in Diabetes Risk Estimation</strong><br>Bernardus Willson, Henry Anand Septian Radityo, Raynard Tanadi, Saiful Akbar and Latifa Dwiyanti</li>
+<li><strong>Street View Imagery with Swipe and Push Features for the Interaction Design of Physical Book Search Navigation in the iPusnas Mobile Application</strong><br>Vania Salsabila and Adi Mulyanto</li>
+<li><strong>Improving The Level of Design Through Activity-Centered Design Approach (Case Study: Itinerary Making)</strong><br>Karina Rahadiani and Adi Mulyanto</li>
+<li><strong>A Hybrid Machine Learning Approach for Service Selection in Sidecar Service Mesh</strong><br>Rizky Abdillah Rasyid and Muhammad Zuhri Catur Candra</li>
+</ul>
+<h4>Session III-E</h4>
+<p>Full-Online</p>
+<ul>
+<li><strong>Reverse-Engineering and Automating BDD for Modern Software Development with LLMs</strong><br>Sagar Patel, Sajal Nigam and Shrikanth Mahale</li>
+<li><strong>Enhancing Automated User Story Quality Assessment with Large Language Models</strong><br>Guntur Budi Herwanto, Wicaksono Leksono Muhamad and Waffiq Maaroja</li>
+<li><strong>Software Defect Prediction using Adaptive Differential Evolution-based Quantum Variational Autoencoder-Transformer (ADE-QVAET) Model</strong><br>Mohanakrishnan Hariharan, Seshu Babu Barma and Satish Arvapalli</li>
+<li><strong>Agentic RAG for Software Testing with Hybrid Vector- Graph and Multi-Agent Orchestration</strong><br>Mohanakrishnan Hariharan, Seshu Babu Barma, Satish Arvapalli and Evangeline Sheela</li>
+<li><strong>Development of a Large Language Model-Based Unit Test Case Generator</strong><br>Reza P. Ubaidillah and Yani Widyani</li>
+<li><strong>HiCoS: Hierarchical Commit Summarizer and LLM Benchmarking</strong><br>Thiago Falcão, Jordan Queiroz and Erick Bezerra</li>
+</ul>
+<p>*) The session can still be attended online via Zoom<br>**) In confirmation</p>
+<!--
+<h4><span data-sheets-root="1">General Rules of Parallel Session Presentations</span></h4>
+<ol>
+<li>Each presenter (online or offline) is allocated a maximum of 20 minutes, consisting of 15 minutes for the presentation (including setup time) and 5 minutes for Q&amp;A.</li>
+<li>For online presenters:
+<ul>
+<li>Please join the Zoom meeting using the link below and enter your assigned parallel session breakout room at the designated time.<br><a href="https://zoom.us/j/92874153505?pwd=VpL9bUp5SgqYgW3aBmkUvdzuXjSojV.1">https://zoom.us/j/92874153505?pwd=VpL9bUp5SgqYgW3aBmkUvdzuXjSojV.1</a><br>Meeting ID: 928 7415 3505<br>Passcode: 856891</li>
+<li>Please share your own slides live during your presentation. The slides and videos submitted to the conference organizers will be used only if any technical issues occur.</li>
+</ul>
+</li>
+</ol>-->
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>2025 ICoDSE Workshop</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/2025-icodse-workshop.html"/>
+        <id>https://icodse.org/2025-icodse-workshop.html</id>
+
+        <updated>2025-08-16T06:51:25+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    As part of the 2025 IEEE International Conference on Data and Software Engineering (ICoDSE), we proudly present a hands-on workshop titled “Practical LLMs: Utilizing Language Models for Industry Challenges.” This two-day workshop will take place on September 20–21, 2025 at Technopark, Politeknik Negeri Batam, featuring&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/29/icodse25-workshop-3.jpg" alt="" width="1414" height="2000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/29/responsive/icodse25-workshop-3-xs.jpg 300w ,https://icodse.org/media/posts/29/responsive/icodse25-workshop-3-sm.jpg 480w ,https://icodse.org/media/posts/29/responsive/icodse25-workshop-3-md.jpg 768w ,https://icodse.org/media/posts/29/responsive/icodse25-workshop-3-lg.jpg 1024w ,https://icodse.org/media/posts/29/responsive/icodse25-workshop-3-xl.jpg 1360w ,https://icodse.org/media/posts/29/responsive/icodse25-workshop-3-2xl.jpg 1600w"></figure>
+<p data-start="109" data-end="771">As part of the <strong data-start="124" data-end="204">2025 IEEE International Conference on Data and Software Engineering (ICoDSE)</strong>, we proudly present a hands-on workshop titled <br><strong data-start="252" data-end="324">“Practical LLMs: Utilizing Language Models for Industry Challenges.”</strong> <br>This two-day workshop will take place on <strong data-start="366" data-end="391">September 20–21, 2025</strong> at <strong data-start="395" data-end="434">Technopark, Politeknik Negeri Batam</strong>, featuring expert mentors:</p>
+<ul>
+<li data-start="109" data-end="771"><strong data-start="461" data-end="496">Hari Bagus Firdaus (Radya Labs)</strong></li>
+<li data-start="109" data-end="771"><strong data-start="498" data-end="528">Agung Dewandaru (STEI ITB)</strong></li>
+<li data-start="109" data-end="771"><strong data-start="534" data-end="560">Vaibhav Tupe (Equinix)</strong></li>
+</ul>
+<p data-start="109" data-end="771">Participants will gain insights into the fundamentals and advanced prompting of LLMs, Retrieval-Augmented Generation (RAG), as well as hands-on sessions with local LLMs and multimodal integrations using n8n.</p>
+<p data-start="773" data-end="1363">This workshop offers valuable benefits including guidance from experienced AI practitioners, an official certificate from STEI ITB, networking and collaboration opportunities, live demos, hands-on project templates, and real-world case studies on corporate document RAG. Registration is now open with a <strong data-start="1076" data-end="1152">special early-bird price for the first 10 participants</strong>. Secure your spot today through the following registration link: <a href="https://forms.gle/ahadAeKKZpGzto4W8" target="_new">https://forms.gle/ahadAeKKZpGzto4W8</a>.</p>
+<p data-start="773" data-end="1363"> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Venue</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/venue-2.html"/>
+        <id>https://icodse.org/venue-2.html</id>
+
+        <updated>2025-08-12T11:57:27+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Technopark Politeknik Negeri Batam (Polibatam) Technopark Polibatam is an innovation and technology development hub located in the strategic area of Batam, Riau Islands. Established to foster collaboration between industry, academia, and government, Technopark Polibatam offers modern facilities such as conference halls, technology laboratories, coworking spaces,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4>Technopark Politeknik Negeri Batam (Polibatam)</h4>
+<p><img loading="lazy" src="https://www.polibatam.ac.id/wp-content/uploads/2022/06/Technopreneur-Centre-Polibatam-scaled.jpg" data-is-external-image="true"></p>
+<p data-start="107" data-end="832"><strong data-start="107" data-end="131">Technopark Polibatam</strong> is an innovation and technology development hub located in the strategic area of Batam, Riau Islands. Established to foster collaboration between industry, academia, and government, Technopark Polibatam offers modern facilities such as conference halls, technology laboratories, coworking spaces, and product innovation exhibition areas. Designed to inspire creativity and collaboration, it serves as an ideal ecosystem for research activities, product development, and knowledge exchange across various fields, including data science and software engineering. Its close proximity to Batam’s industrial zone makes Technopark a vital bridge between academic innovation and real-world business needs.</p>
+<p data-start="834" data-end="1525">As the <strong data-start="841" data-end="866">venue for ICoDSE 2025</strong>, Technopark Polibatam provides a professional and inspiring conference experience. With state-of-the-art infrastructure, high-speed internet connectivity, and a comfortable environment, it is well-suited for presentations, scientific discussions, and networking among international researchers. Attendees will also benefit from easy access to nearby hotels, culinary spots, and local attractions. Another key advantage is its location—just a short distance from Batam’s international ferry terminals and Hang Nadim Airport—making it convenient for both domestic and international participants, including those planning short trips to Singapore or Malaysia.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Call for Papers</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/cfp-poster.html"/>
+        <id>https://icodse.org/cfp-poster.html</id>
+
+        <updated>2025-05-07T12:14:57+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    CALL FOR PAPERS 2025 IEEE International Conference on Data and Software Engineering (ICoDSE) 📅 October 28–29, 2025 | 📍 Batam, Indonesia (Hybrid) 🌐 https://icodse.org | 📩 icodse@informatika.org Dear Colleagues, We are delighted to invite you to the 2025 IEEE International Conference on Data and Software&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image align-center"><img loading="lazy"  src="https://icodse.org/media/posts/27/icodse25-cfp-dkv-3.jpg" alt="ICoDSE 2025 CfP Poster" width="636" height="899" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/27/responsive/icodse25-cfp-dkv-3-xs.jpg 300w ,https://icodse.org/media/posts/27/responsive/icodse25-cfp-dkv-3-sm.jpg 480w ,https://icodse.org/media/posts/27/responsive/icodse25-cfp-dkv-3-md.jpg 768w ,https://icodse.org/media/posts/27/responsive/icodse25-cfp-dkv-3-lg.jpg 1024w ,https://icodse.org/media/posts/27/responsive/icodse25-cfp-dkv-3-xl.jpg 1360w ,https://icodse.org/media/posts/27/responsive/icodse25-cfp-dkv-3-2xl.jpg 1600w"></figure>
+<p><strong>CALL FOR PAPERS</strong><strong> <br></strong>2025 IEEE International Conference on Data and Software Engineering (ICoDSE)<br>📅 October 28–29, 2025 | 📍 Batam, Indonesia (Hybrid)<br>🌐 https://icodse.org | 📩 icodse@informatika.org<br><br>Dear Colleagues,<br><br>We are delighted to invite you to the 2025 IEEE International Conference on Data and Software Engineering (ICoDSE) — a prestigious, IEEE-indexed event that brings together global researchers, practitioners, and industry experts to discuss groundbreaking advances in software systems, data, and intelligent technologies.</p>
+<p>Organized by:</p>
+<ul>
+<li>School of Electrical Engineering and Informatics, Institut Teknologi Bandung (STEI ITB)</li>
+<li>Politeknik Negeri Batam</li>
+<li>Universiti Teknologi PETRONAS (UTP)</li>
+</ul>
+<p>Also co-organized by:</p>
+<ul>
+<li>Universitas Maritim Raja Ali Haji</li>
+</ul>
+<p>Conference Theme:<br>“Generative AI Meets Data and Software Engineering: Challenges and Innovations”<br><br>This year’s edition focuses on the intersection between Generative AI and Software/Data Engineering, exploring how GenAI transforms development workflows and data pipelines, and how advancements in these fields drive the future of AI.<br><br>🎤 Keynote Speakers:</p>
+<ul>
+<li>Assoc. Prof. Christoph Treude – SMU, Singapore</li>
+<li>Univ. Prof. Marta Sabou, Ph.D. – WU, Austria</li>
+<li>Assoc. Prof. Dr. Ir. G.A. Putri Saptawati, M.Comm. – ITB, Indonesia</li>
+<li>Shrinath Thube – IBM Software Developer and IEEE Senior Member</li>
+</ul>
+<p>Special Session by Dr. Ganesh Kumar: Generative AI for Education — Transforming Learning, Teaching, and Assessment<br>This special session will explore how Generative AI technologies are revolutionizing education from personalized learning and curriculum design to adaptive assessment, intelligent tutoring, and ethical considerations in AI-powered classrooms. Topics include AI assisted content creation, LLM based student support, learning analytics, educational chatbots, and ensuring data privacy and fairness in AI tools for education.<br><br>📆 Important Dates:</p>
+<ul>
+<li>Paper Submission Deadline: <span style="text-decoration: line-through;">Sep 5</span> September 19, 2025 <sup>extended!</sup></li>
+<li>Notification of Acceptance: <span style="text-decoration: line-through;">Oct 4</span> October 11, 2025 <sup>extended!</sup></li>
+<li>Registration: October 4–21, 2025</li>
+<li>Camera-Ready: October 21, 2025</li>
+<li>Conference Dates: October 28–29, 2025</li>
+</ul>
+<p>📄 Paper Submission:</p>
+<ul>
+<li>Format: IEEE standard template (Word or LaTeX)</li>
+<li>Submission Platform: To be announced on the website</li>
+</ul>
+<p>All accepted and presented papers will be submitted to IEEE Xplore for publication and indexing.<br><br>💰 Registration Fee:<br><br>International Participants:</p>
+<ul>
+<li>Presenter: USD 300</li>
+<li>Presenter (IEEE Member): USD 250</li>
+<li>Presenter (Student): USD 250</li>
+<li>Presenter (Student – IEEE): USD 200</li>
+<li>Non-Presenter / Attendee: USD 150</li>
+</ul>
+<p>Domestic Participants:</p>
+<ul>
+<li>Presenter: Rp 3.500.000,-</li>
+<li>Presenter (IEEE Member): Rp 3.000.000,-</li>
+<li>Presenter (Student): Rp 2.500.000,-</li>
+<li>Presenter (Student – IEEE): Rp 2.100.000,-</li>
+<li>Non-Presenter / Attendee: Rp 1.500.000,-</li>
+</ul>
+<p>More information &amp; submission guidelines:<br>🌐 https://icodse.org<br>📩 icodse@informatika.org<br><br>We look forward to receiving your contribution and welcoming you to Batam this October!<br><br>Warm regards,<br>2025 IEEE ICoDSE Organizing Committee<br><br><br><br><br><br></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>2025 IEEE ICoDSE</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/call-for-papers-4.html"/>
+        <id>https://icodse.org/call-for-papers-4.html</id>
+        <media:content url="https://icodse.org/media/posts/26/batam-bridge.jpg" medium="image" />
+
+        <updated>2025-05-02T06:33:50+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://icodse.org/media/posts/26/batam-bridge.jpg" alt="" />
+                    2025 IEEE International Conference on Data and Software Engineering (ICoDSE) 📍 Technopark Politeknik Negeri Batam, (hybrid online + offline) Batam, Indonesia 📅 October 28-29, 2025 “Generative AI Meets Data and Software Engineering: Challenges and Innovations” IEEE International Conference on Data and Software Engineering (ICoDSE) is an&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://icodse.org/media/posts/26/batam-bridge.jpg" class="type:primaryImage" alt="" /></p>
+                <h2 id="2025-ieee-international-conference-on-data-and-software-engineering-icodse">2025 IEEE International Conference on Data and Software Engineering (ICoDSE)</h2>
+<p>📍 Technopark Politeknik Negeri Batam, (<em>hybrid online + offline</em>)<br/>
+Batam, Indonesia<br/>
+📅 October 28-29, 2025</p><p><em>“Generative AI Meets Data and Software Engineering: Challenges and Innovations”</em>
+<figure class="post__image"><img loading="lazy" src="https://icodse.org/media/posts/26/251015-icodse-poster-new.jpeg" alt="Image description" width="1980" height="2560" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/26/responsive/251015-icodse-poster-new-xs.jpeg 300w ,https://icodse.org/media/posts/26/responsive/251015-icodse-poster-new-sm.jpeg 480w ,https://icodse.org/media/posts/26/responsive/251015-icodse-poster-new-md.jpeg 768w ,https://icodse.org/media/posts/26/responsive/251015-icodse-poster-new-lg.jpeg 1024w ,https://icodse.org/media/posts/26/responsive/251015-icodse-poster-new-xl.jpeg 1360w ,https://icodse.org/media/posts/26/responsive/251015-icodse-poster-new-2xl.jpeg 1600w"></figure></p><h3 id="important-dates">Important dates:</h3>
+<ul>
+<li>Paper Submission Deadline: <del>Sep 5</del> September 19, 2025 <sup>extended!</sup></li>
+<li>Notification of Acceptance: <del>Oct 4</del> October 11, 2025 <sup>extended!</sup></li>
+<li>Registration: <del>Oct 4 - 14</del> October 4 - 21, 2025</li>
+<li>Camera Ready Deadline: <del>Oct 14</del> October 21, 2025</li>
+<li>Conference Dates: October 28 - 29, 2025</li>
+</ul>
+<p>IEEE International Conference on Data and Software Engineering (ICoDSE) is an annual event organized by the Knowledge and Software Engineering Research Group (KSE), School of Electrical Engineering and Informatics (STEI), ITB, since 2014. Several editions of ICoDSE have been conducted in collaboration with other universities in Indonesia. The year 2025 marks the 11th edition of ICoDSE, in collaboration with Politeknik Negeri Batam (Indonesia), Universiti Teknologi Petronas (Malaysia), and Universitas Maritim Raja Ali Haji (Indonesia).</p><p>Data/knowledge engineering and software engineering are two developing areas in information and communication technology, which are interrelated and have significant roles in changing the world in many aspects, such as business, education, government, and society. Although these disciplines are pretty mature, research and development in these disciplines are still evolving to provide better performance of offered services or products in different criteria, e.g., efficiency or effectiveness.</p><p>2025 IEEE ICoDSE will bring together scientists, educators, engineers, and practitioners from multiple disciplines to focus on engineering complex software system and data-intensive software systems. The conference will feature world-class keynotes and research &amp; industry presentations to discuss high-quality research results and industry experiences in this field.</p><p>Selected paper title will be invited for submission in JICTRA with extended version of no less than 40% additional materials.</p><p>We are open to a wide range of topics related to data/knowledge engineering and software engineering, including (but are not limited to):</p><h3 id="software-engineering-track">Software Engineering Track</h3>
+<ul>
+<li>Software Engineering Process &amp; Lifecycle</li>
+<li>Software Analysis and Design Methods</li>
+<li>Business Process Management System</li>
+<li>SOA (Service Oriented Architecture)</li>
+<li>Empirical Software Engineering</li>
+<li>Software Engineering Education</li>
+<li>Software Project Management</li>
+<li>Security Software and System</li>
+<li>Software Quality Assurances</li>
+<li>Software Engineering Tools</li>
+<li>Requirements Engineering</li>
+<li>Ultra Large-Scale System</li>
+<li>Software Technologies</li>
+<li>Software Product Line</li>
+<li>Software Architecture</li>
+<li>Open Source Software</li>
+<li>Software Measurement</li>
+<li>Extreme Programming</li>
+<li>Agile Methodology</li>
+<li>Software Industry</li>
+<li>Cloud Computing</li>
+</ul>
+<p><strong><em>Very Relevant to the Theme:</em></strong></p><ul>
+<li>Generative AI for Simulation and Virtual Environment</li>
+<li>Machine Learning Operations</li>
+<li>Model Deployment and Scaling</li>
+<li>Generative AI for Code Generation</li>
+<li>Multimodal AI Systems</li>
+<li>Generative AI in NLP</li>
+<li>Generative AI for Creative and Design Industries</li>
+<li>Generative AI for Security and Fraud Detection</li>
+<li>Digital Twins in Industrial and Enterprise Applications</li>
+<li>XR/AR/VR Health Care and Medical Training</li>
+<li>Innovations in Trraining and Educations using Mixed Reality</li>
+</ul>
+<h3 id="data-engineering-track">Data Engineering Track</h3>
+<ul>
+<li>Data and Knowledge Modeling</li>
+<li>Information Management Practices</li>
+<li>Knowledge-Based Management Systems</li>
+<li>Data and Information Security</li>
+<li>Spatial and Temporal Database</li>
+<li>Knowledge Discovery in Data</li>
+<li>Semantic Web Technology</li>
+<li>Data Visualization &amp; Analytic</li>
+<li>Data/Process Mining</li>
+<li>Business Intelligence</li>
+<li>Distributed Database</li>
+<li>Open Data</li>
+<li>Big Data</li>
+<li>Web Analytics</li>
+<li>Ontology</li>
+<li>Data Science</li>
+<li>Database Technology</li>
+</ul>
+<p><strong><em>Very Relevant to the Theme:</em></strong></p><ul>
+<li>Data-Centric AI Development</li>
+<li>DataPrivacy and Ethical AI</li>
+<li>Generative AI Infrastructure</li>
+<li>AutoML for Generative Models</li>
+<li>Generative AI for Anomaly</li>
+<li>Detection and Predictive Modeling</li>
+</ul>
+<p>Prospective authors are invited to submit full papers under the <a href="https://icodse.org/instruction-for-authors.html"><strong>Submission Guidelines</strong></a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hotel Recommendations</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/hotel-recommendation.html"/>
+        <id>https://icodse.org/hotel-recommendation.html</id>
+
+        <updated>2024-10-26T05:56:31+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Sahid Batam Center Hotel 3 km from venue Maps direction: Click here The Hills Hotel 7.5 km from venue Maps direction: Click here Harris Hotel Batam Center 1.7 km from venue Maps direction: Click here Radisson Golf &amp; Convention Center 5.1 km from venue Maps&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/25/hotel-sahid-batam.jpg" alt="" width="438" height="329" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/25/responsive/hotel-sahid-batam-xs.jpg 300w ,https://icodse.org/media/posts/25/responsive/hotel-sahid-batam-sm.jpg 480w ,https://icodse.org/media/posts/25/responsive/hotel-sahid-batam-md.jpg 768w ,https://icodse.org/media/posts/25/responsive/hotel-sahid-batam-lg.jpg 1024w ,https://icodse.org/media/posts/25/responsive/hotel-sahid-batam-xl.jpg 1360w ,https://icodse.org/media/posts/25/responsive/hotel-sahid-batam-2xl.jpg 1600w"></figure>
+<ul>
+<li><a href="sahidbatamcenter.com">Sahid Batam Center Hotel</a>
+<ul>
+<li>3 km from venue</li>
+<li>Maps direction: <a href="https://maps.app.goo.gl/FBWcCoNTTzW3hSLJ6">Click here</a></li>
+</ul>
+</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/25/hotel-hills-batam.webp" alt="" width="435" height="289" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/25/responsive/hotel-hills-batam-xs.webp 300w ,https://icodse.org/media/posts/25/responsive/hotel-hills-batam-sm.webp 480w ,https://icodse.org/media/posts/25/responsive/hotel-hills-batam-md.webp 768w ,https://icodse.org/media/posts/25/responsive/hotel-hills-batam-lg.webp 1024w ,https://icodse.org/media/posts/25/responsive/hotel-hills-batam-xl.webp 1360w ,https://icodse.org/media/posts/25/responsive/hotel-hills-batam-2xl.webp 1600w"></figure>
+<ul>
+<li><a href="thehillsbatam.com">The Hills Hotel</a>
+<ul>
+<li>7.5 km from venue</li>
+<li>Maps direction: <a href="https://maps.app.goo.gl/pZMbfxjFWzYgoGYT9">Click here</a></li>
+</ul>
+</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/25/hotel-harris-batam.jpg" alt="" width="427" height="252" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/25/responsive/hotel-harris-batam-xs.jpg 300w ,https://icodse.org/media/posts/25/responsive/hotel-harris-batam-sm.jpg 480w ,https://icodse.org/media/posts/25/responsive/hotel-harris-batam-md.jpg 768w ,https://icodse.org/media/posts/25/responsive/hotel-harris-batam-lg.jpg 1024w ,https://icodse.org/media/posts/25/responsive/hotel-harris-batam-xl.jpg 1360w ,https://icodse.org/media/posts/25/responsive/hotel-harris-batam-2xl.jpg 1600w"></figure>
+<ul>
+<li><a href="https://www.discoverasr.com/en/harris/indonesia/harris-hotel-batam-center-batam?utm_source=google&amp;utm_medium=gmb&amp;utm_campaign=-google-gmb-alwayson-20220101-all-en-id-id-HBCT--&amp;utm_content=--">Harris Hotel Batam Center</a>
+<ul>
+<li>1.7 km from venue</li>
+<li>Maps direction: <a href="https://maps.app.goo.gl/RHGAEgVMjufi5vGM9">Click here</a></li>
+</ul>
+</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/25/hotel-radisson-batam.jpg" alt="" width="425" height="319" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/25/responsive/hotel-radisson-batam-xs.jpg 300w ,https://icodse.org/media/posts/25/responsive/hotel-radisson-batam-sm.jpg 480w ,https://icodse.org/media/posts/25/responsive/hotel-radisson-batam-md.jpg 768w ,https://icodse.org/media/posts/25/responsive/hotel-radisson-batam-lg.jpg 1024w ,https://icodse.org/media/posts/25/responsive/hotel-radisson-batam-xl.jpg 1360w ,https://icodse.org/media/posts/25/responsive/hotel-radisson-batam-2xl.jpg 1600w"></figure>
+<ul>
+<li><a href="https://www.radissonhotels.com/en-us/hotels/radisson-batam-golf-convention?cid=a:se+b:gmb+c:apac+i:local+e:rad+d:seap+h:IDBTHGCC">Radisson Golf &amp; Convention Center</a>
+<ul>
+<li>5.1 km from venue</li>
+<li>Maps direction: <a href="https://maps.app.goo.gl/PATjycxUT3cerLow5">Click here</a></li>
+</ul>
+</li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>(2024) Venue</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/venue.html"/>
+        <id>https://icodse.org/venue.html</id>
+
+        <updated>2024-09-04T15:35:16+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Universitas Negeri Gorontalo (UNG) Universitas Negeri Gorontalo (UNG) is located in the heart of Gorontalo, Indonesia. Known for its commitment to excellence in education, UNG offers a wide range of undergraduate and graduate programs across various disciplines, including education, science, engineering, and social sciences. The&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4>Universitas Negeri Gorontalo (UNG)</h4>
+<h4><figure class="post__image align-center"><img loading="lazy"  src="https://icodse.org/media/posts/24/ung-photo.jpg" alt="" width="640" height="360" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/24/responsive/ung-photo-xs.jpg 300w ,https://icodse.org/media/posts/24/responsive/ung-photo-sm.jpg 480w ,https://icodse.org/media/posts/24/responsive/ung-photo-md.jpg 768w ,https://icodse.org/media/posts/24/responsive/ung-photo-lg.jpg 1024w ,https://icodse.org/media/posts/24/responsive/ung-photo-xl.jpg 1360w ,https://icodse.org/media/posts/24/responsive/ung-photo-2xl.jpg 1600w"></figure></h4>
+<p>Universitas Negeri Gorontalo (UNG) is located in the heart of Gorontalo, Indonesia. Known for its commitment to excellence in education, UNG offers a wide range of undergraduate and graduate programs across various disciplines, including education, science, engineering, and social sciences. The university is dedicated to fostering a dynamic academic environment that encourages innovation, critical thinking, and community engagement.</p>
+<h4>Explore Gorontalo: The Hidden Gem of Indonesia</h4>
+<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/24/gorontalo-photo.jpg" alt="" width="960" height="720" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/24/responsive/gorontalo-photo-xs.jpg 300w ,https://icodse.org/media/posts/24/responsive/gorontalo-photo-sm.jpg 480w ,https://icodse.org/media/posts/24/responsive/gorontalo-photo-md.jpg 768w ,https://icodse.org/media/posts/24/responsive/gorontalo-photo-lg.jpg 1024w ,https://icodse.org/media/posts/24/responsive/gorontalo-photo-xl.jpg 1360w ,https://icodse.org/media/posts/24/responsive/gorontalo-photo-2xl.jpg 1600w"></figure>
+<p>Gorontalo, located on the northern coast of Sulawesi, is a province renowned for its stunning natural landscapes, rich cultural heritage, and warm hospitality. This hidden gem of Indonesia offers a unique blend of unspoiled beaches, lush forests, and historical sites, making it a perfect destination for travelers seeking both relaxation and adventure.</p>
+<p>The city of Gorontalo serves as the provincial capital and is the cultural and economic hub of the region. Visitors can explore the city's charming colonial architecture, vibrant markets, and local cuisine, which is influenced by the diverse ethnic groups that call Gorontalo home. Whether you're strolling through the streets of Gorontalo or venturing out into the countryside, you're sure to be captivated by the beauty and tranquility of this region.</p>
+<h4>Swim with Whale Sharks at Botubarani</h4>
+<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/24/botubarani.jpg" alt="" width="1200" height="800" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/24/responsive/botubarani-xs.jpg 300w ,https://icodse.org/media/posts/24/responsive/botubarani-sm.jpg 480w ,https://icodse.org/media/posts/24/responsive/botubarani-md.jpg 768w ,https://icodse.org/media/posts/24/responsive/botubarani-lg.jpg 1024w ,https://icodse.org/media/posts/24/responsive/botubarani-xl.jpg 1360w ,https://icodse.org/media/posts/24/responsive/botubarani-2xl.jpg 1600w"></figure>
+<p>One of the most extraordinary experiences that Gorontalo offers is the opportunity to swim with whale sharks at Botubarani. Located just a short drive from the city, Botubarani is a small coastal village that has gained international recognition as a prime spot for whale shark encounters. These gentle giants, the largest fish in the ocean, can be seen up close in the clear, warm waters of Botubarani.</p>
+<p>The whale shark swimming tour in Botubarani is a once-in-a-lifetime experience. Visitors can snorkel or dive alongside these magnificent creatures, observing their graceful movements as they glide through the water. The tour is carefully managed to ensure the safety of both the sharks and the participants, making it a responsible and sustainable tourism activity.</p>
+<p>The village of Botubarani has embraced its role as a guardian of these incredible animals, and the local community plays an active part in conservation efforts. By participating in this tour, visitors not only get to experience the awe-inspiring presence of whale sharks but also contribute to the preservation of marine life in Gorontalo.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Registration Page</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/registration-2.html"/>
+        <id>https://icodse.org/registration-2.html</id>
+
+        <updated>2024-06-26T11:53:38+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Registration Method Registration link will be provided in this page after acceptance notification date. Online registration for 2025 IEEE ICoDSE is now open. Please prepare your student ID (if applicable), presentation video &amp; slide (for online presenter), and proof of payment before proceeding. Fill the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Registration Method</h2>
+<!--<p>Registration link will be provided in this page after acceptance notification date.</p>-->
+<p>Online registration for 2025 IEEE ICoDSE <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">is now open. Please prepare your <strong>student ID</strong> (if applicable), <strong>presentation video &amp; slide</strong> (for online presenter), and <strong>proof of payment</strong> before proceeding. </span><span style="color: #3598db;"><strong><a href="https://forms.gle/Z6rUs3QR8eHsKJEQ7" target="_blank" rel="noopener noreferrer">Fill the registration form here</a></strong></span>.</p>
+<h2>Registration Fee</h2>
+<p><strong>International</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.2859%;">Presenter</td>
+<td style="width: 33.2859%;">USD</td>
+<td style="width: 33.2859%;">300</td>
+</tr>
+<tr>
+<td style="width: 33.2859%;">Presenter (IEEE)</td>
+<td style="width: 33.2859%;">USD</td>
+<td style="width: 33.2859%;">250</td>
+</tr>
+<tr>
+<td style="width: 33.2859%;">Presenter (Student)</td>
+<td style="width: 33.2859%;">USD</td>
+<td style="width: 33.2859%;">250</td>
+</tr>
+<tr>
+<td style="width: 33.2859%;">Presenter (Student - IEEE)</td>
+<td style="width: 33.2859%;">USD</td>
+<td style="width: 33.2859%;">200</td>
+</tr>
+<tr>
+<td style="width: 33.2859%;">Non Presenter</td>
+<td style="width: 33.2859%;">USD</td>
+<td style="width: 33.2859%;">150</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Domestic</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.2859%;">Presenter</td>
+<td style="width: 33.2859%;">Rp</td>
+<td style="width: 33.2859%;">3.500.000,-</td>
+</tr>
+<tr>
+<td style="width: 33.2859%;">Presenter (IEEE)</td>
+<td style="width: 33.2859%;">Rp</td>
+<td style="width: 33.2859%;">3.000.000,-</td>
+</tr>
+<tr>
+<td style="width: 33.2859%;">Presenter (Student)</td>
+<td style="width: 33.2859%;">Rp</td>
+<td style="width: 33.2859%;">2.500.000,-</td>
+</tr>
+<tr>
+<td style="width: 33.2859%;">Presenter (Student - IEEE)</td>
+<td style="width: 33.2859%;">Rp</td>
+<td style="width: 33.2859%;">2.100.000,-</td>
+</tr>
+<tr>
+<td style="width: 33.2859%;">Non Presenter</td>
+<td style="width: 33.2859%;">Rp</td>
+<td style="width: 33.2859%;">1.500.000,-</td>
+</tr>
+</tbody>
+</table>
+<h2>Registration Method</h2>
+<p>*Student presenters should upload their valid student ID. Recent graduates are eligible by providing proof of graduation date.</p>
+<h2>Methods of Payment</h2>
+<ul>
+<li>The available payment method is by Wire Transfer.</li>
+<li>The conference committee must receive the full amount of the registration fee. Delegates should bear the Service Charge (if any) of the bank in the Sender’s Side. <strong>Please write your paper number on the remark column of the bank slip/transfer receipt</strong>.</li>
+<li>The registration fee covers publication and proceeding.</li>
+<li>An acknowledgement of your registration will be emailed to you, immediately after completion of online registration.</li>
+<li>A Registration Confirmation will be provided after clearance of the full payment. Please note that wire transfer usually takes few days for processing.</li>
+</ul>
+<h3>Wire Transfer</h3>
+<table>
+<tbody>
+<tr>
+<td>Bank</td>
+<td>KB Bank</td>
+</tr>
+<tr>
+<td>Account Number</td>
+<td>1003299241</td>
+</tr>
+<tr>
+<td>Account Name</td>
+<td>RPL 137 BLU POLTEK BTM UTK DK</td>
+</tr>
+<tr>
+<td>Bank Address</td>
+<td>Jl. Sultan A Rahman No. 1 Komplek Sulaiman Blok A No. 7 &amp; 8</td>
+</tr>
+<tr>
+<td>Bank City</td>
+<td>Batam</td>
+</tr>
+<tr>
+<td>SWIFT Code</td>
+<td>BBUKIDJA</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<!-- mau liat halaman sejenis tahun 2022 2023? cek registration page yg sudah di-archive/trashed -->
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>IEEE No-Show Policy</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/ieee-no-show-policy.html"/>
+        <id>https://icodse.org/ieee-no-show-policy.html</id>
+
+        <updated>2024-05-01T14:55:57+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Please take note that IEEE has a strict policy on no-shows. Therefore, if your paper is accepted, one of the authors and their representatives MUST PRESENT their paper at the conference, either by appearing physically or online. Papers with no-show participants without a valid reason&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="CjVfdc">Please take note that IEEE has a strict policy on no-shows. Therefore, if your paper is accepted, one of the authors and their representatives MUST PRESENT their paper at the conference, either by appearing physically or online.</div>
+<div class="CjVfdc">Papers with no-show participants without a valid reason will not be submitted to IEEExplore. No refund of the paid fees may be claimed by the no-show author.</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Program Committee</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/program-committee.html"/>
+        <id>https://icodse.org/program-committee.html</id>
+
+        <updated>2024-05-01T14:53:47+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Reviewers Adi Mulyanto, S.T., M.T., Institut Teknologi Bandung, Indonesia Dr. Agung Dewandaru, S.T., M.Sc, Institut Teknologi Bandung, Indonesia Dr. Fazat Nur Azizah, S.T., M.Sc., Institut Teknologi Bandung, Indonesia Fitra Arifiansyah, S.Kom., M.T., Institut Teknologi Bandung, Indonesia Assoc. Prof. Gusti Ayu Putri Saptawati, M.Comm., Institut Teknologi&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Reviewers</strong></p>
+<ol>
+<li>Adi Mulyanto, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
+<li>Dr. Agung Dewandaru, S.T., M.Sc, Institut Teknologi Bandung, Indonesia</li>
+<li>Dr. Fazat Nur Azizah, S.T., M.Sc., Institut Teknologi Bandung, Indonesia</li>
+<li>Fitra Arifiansyah, S.Kom., M.T., Institut Teknologi Bandung, Indonesia</li>
+<li>Assoc. Prof. Gusti Ayu Putri Saptawati, M.Comm., Institut Teknologi Bandung,Indonesia</li>
+<li>Dr. Phil. Eng. Hari Purnama, S.Si., M.Si., Institut Teknologi Bandung, Indonesia</li>
+<li>Dr. Maya Nabila, S.Si., M.Si., Institut Teknologi Bandung, Indonesia</li>
+<li>Muhamad Koyimatu, S.Si., M.Si., M.Sc., Ph.D., Institut Teknologi Bandung, Indonesia</li>
+<li>Muhammad Romadhon Al-Ghazali, S.T., MBA, Institut Teknologi Bandung, Indonesia</li>
+<li>Dr. techn. Muhammad Zuhri Catur Candra, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
+<li>Dr. Riza Satria Perdana, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
+<li>Dr. techn. Saiful Akbar, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
+<li>Tricya Esterina Widagdo, S.T., M.Sc., Institut Teknologi Bandung, Indonesia</li>
+<li>Dr. techn. Wikan Danar Sunindyo, S.T., M.Sc., Institut Teknologi Bandung,Indonesia</li>
+<li>Dr. Yani Widyani, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
+<li>Yuda Sukmana, S.Pd., M.T., Institut Teknologi Bandung, Indonesia</li>
+<li>Ir. Yudistira Dwi Wardhana Asnar, S.T., Ph.D., Institut Teknologi Bandung, Indonesia</li>
+<li>Ir. Ahmad Riyad Firdaus, S.Si., M.T., Ph.D., Politeknik Negeri Batam, Indonesia</li>
+<li>Dr. Iman Fahruzi, S.T., M.T., Politeknik Negeri Batam, Indonesia</li>
+<li>Mir'atul Khusna Mufida, S.S.T., M.Sc., Ph.D., Politeknik Negeri Batam, Indonesia</li>
+<li>Dr. Ari Wibowo, S.T., M.T., Politeknik Negeri Batam, Indonesia</li>
+<li>Ir. Daniel Sutopo Pamungkas, S.T.,M.T., Ph.D., Politeknik Negeri Batam, Indonesia</li>
+<li>Andy Triwinarko, S.T., M.T., Ph.D., Politeknik Negeri Batam, Indonesia</li>
+<li>Dr. Fariska Zakhralativa Ruskanda, S.T., M.T.*, Institut Teknologi Bandung, Indonesia</li>
+<li>Nugraha Priya Utama, S.T, M.A., Ph.D.*, Institut Teknologi Bandung, Indonesia</li>
+<li>Ir. Robithoh Annur, S.T., M.Eng., Ph.D.*, Institut Teknologi Bandung, Indonesia</li>
+<li>Prof. Anton Prabuwono, Universiti Teknologi Petronas, Malaysia</li>
+<li>Assoc Prof Ts. Dr Mohd Hilmi bin Hasan, Universiti Teknologi Petronas, Malaysia</li>
+<li>Prof. Hidetaka Nambo, Kanazawa University, Japan</li>
+<li>Latifa Dwiyanti, S.T., M.T., Kanazawa University, Japan</li>
+<li>Ardian Umam, S.T., M.Sc., National Yang Ming Chiao Tung University, Taiwan</li>
+<li>Prof. A Min Tjoa, Vienna University of Technology, Austria</li>
+<li>Prof. David Lo, Singapore Management University, Singapore</li>
+<li>Prof. Michel R.V. Chaudron, Eindhoven University of Technology (TU/e), Netherland</li>
+<li>Satrio Adi Rukmono, S.T., M.T., Eindhoven University of Technology (TU/e), Netherland</li>
+<li>Fajar Juang Ekaputra, S.T., M.T., Ph.D., Vienna University of Economics and Business, Austria</li>
+<li>Prof. Hendro Wicaksono, Constructor University Bremen, Germany</li>
+<li>Tori Andika Bukit, S.Kom., M.T., Hankuk University of Foreign Studies, South Korea</li>
+<li>Dr. Eng. Nur Hamid, S.Si., M.Kom., King Fahd University of Petroleum and Minerals, Saudi Arabia</li>
+<li>Candy Olivia Mawalim, S.T., M.S., Ph.D, Japan Advanced Institute of Science and Technology, Japan</li>
+<li>Agi Prasetiadi, S.T., M.Eng., Kanazawa University, Japan</li>
+<li>Dr. Eng., Willy Dharmawan, ST, M.Eng., King Fahd University of Petroleum and Minerals, Saudi Arabia</li>
+<li>Assoc. Prof. Dr. Koh Tieng Wei, Universiti Teknologi Petronas, Malaysia</li>
+<li>Assoc. Prof. Dr. Khaironi Yatim Sharif, Universiti Teknologi Petronas, Malaysia</li>
+<li>Dr. Muhammad Luqman Bin Mahamad Zakaria, Universiti Teknologi Petronas, Malaysia</li>
+<li>Assoc. Prof. Dr. Mohd Hilmi Hasan, Universiti Teknologi Petronas, Malaysia</li>
+<li>Ganesh Kumar, Ph.D., Universiti Teknologi Petronas, Malaysia</li>
+<li>Dr. Arif Bramantoro, Universiti Teknologi Brunei, Brunei Darussalam</li>
+<li>Prof. Dr. Riza Sulaiman, Universiti Kebangsaan Malaysia, Malaysia</li>
+<li>Assoc. Prof. Dr. Azizi Abdullah, Universiti Kebangsaan Malaysia, Malaysia</li>
+<li>Prof. Dr. Ahmad Hoirul Basori, King Abdulaziz University, Saudi Arabia</li>
+<li>Assoc. Prof. Henry Edison, Blekinge Tekniska Högskola, Sweden</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+</feed>
