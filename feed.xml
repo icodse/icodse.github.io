@@ -3,7 +3,7 @@
     <title>ICoDSE 2026</title>
     <link href="https://icodse.org/feed.xml" rel="self" />
     <link href="https://icodse.org" />
-    <updated>2026-04-02T21:57:22+07:00</updated>
+    <updated>2026-04-03T07:45:50+07:00</updated>
     <author>
         <name>Chair</name>
     </author>
@@ -30,7 +30,7 @@
                     <p><img src="https://icodse.org/media/posts/30/aulta-timur-itb-2.jpeg" class="type:primaryImage" alt="gorontalo" /></p>
                 <h2>2026 IEEE International Conference on Data and Software Engineering (ICoDSE) </h2>
 <p>ICoDSE (International Conference on Data and Software Engineering) is an international conference focused on the latest developments in data and software engineering. It brings together researchers, practitioners, and professionals to share knowledge on topics such as big data processing, software development, artificial intelligence, and more.<br><br>ICoDSE 2026, the 12th edition of the conference, will focus on Generative AI seen from the lens of practitioners and the body of software and data engineering. The conference will explore how generative AI and other AI technology enhances secure systems development through intelligent code generation, intelligent test automation, and synthetic data creation. It will also emphasize the importance of solid data and software engineering foundations &amp; clean data pipelines, scalable architectures, and robust deployment practices in supporting AI applications for secure systems. This symbiotic relationship forms a cycle where generative AI advances of software/data engineering, and vice versa.</p>
-<p><strong>Venue</strong><br><em>Aula Timur, Institut Teknologi Bandung</em></p>
+<p><strong>Venue</strong><br><em>Aula Barat, Institut Teknologi Bandung</em></p>
 <h2>Program Schedule</h2>
 <p>Coming Soon</p>
 <!--
@@ -58,12 +58,12 @@
         <updated>2025-08-12T11:57:27+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Aula Timur, Institut Teknologi Bandung
+                    Aula Barat, Institut Teknologi Bandung
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h3 class="msg msg--highlight ">Aula Timur, Institut Teknologi Bandung</h3>
+                <h3 class="msg msg--highlight ">Aula Barat, Institut Teknologi Bandung</h3>
 <p> </p>
             ]]>
         </content>
@@ -147,48 +147,51 @@
         <updated>2024-10-26T05:56:31+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Sahid Batam Center Hotel 3 km from venue Maps direction: Click here The Hills Hotel 7.5 km from venue Maps direction: Click here Harris Hotel Batam Center 1.7 km from venue Maps direction: Click here Radisson Golf &amp; Convention Center 5.1 km from venue Maps direction: Click here
+                    Novotel Bandung Jl. Cihampelas No.23, Bandung Maps direction: Click here Crowne Plaza Bandung (Lembong) Jl. Lembong No.19, Bandung Maps direction: Click here Hilton Bandung (Cicendo) Jl. H.O.S. Cokroaminoto No.42A, Bandung Maps direction: Click here Pullman Bandung Grand Central (Diponegoro) Jl. Diponegoro No.63, Bandung Maps direction: Click here Four Points by Sheraton Bandung Jl. Ir. H. Juanda No.46, Bandung Maps direction: Click here
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/25/hotel-sahid-batam.jpg" alt="" width="438" height="329" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/25/responsive/hotel-sahid-batam-xs.jpg 300w ,https://icodse.org/media/posts/25/responsive/hotel-sahid-batam-sm.jpg 480w ,https://icodse.org/media/posts/25/responsive/hotel-sahid-batam-md.jpg 768w ,https://icodse.org/media/posts/25/responsive/hotel-sahid-batam-lg.jpg 1024w ,https://icodse.org/media/posts/25/responsive/hotel-sahid-batam-xl.jpg 1360w ,https://icodse.org/media/posts/25/responsive/hotel-sahid-batam-2xl.jpg 1600w"></figure>
+                <ul>
+<li><strong>Novotel Bandung</strong>
 <ul>
-<li><a href="sahidbatamcenter.com">Sahid Batam Center Hotel</a>
-<ul>
-<li>3 km from venue</li>
-<li>Maps direction: <a href="https://maps.app.goo.gl/FBWcCoNTTzW3hSLJ6">Click here</a></li>
+<li>Jl. Cihampelas No.23, Bandung</li>
+<li>Maps direction: <a href="https://maps.app.goo.gl/novotel">Click here</a></li>
 </ul>
 </li>
 </ul>
-<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/25/hotel-hills-batam.webp" alt="" width="435" height="289" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/25/responsive/hotel-hills-batam-xs.webp 300w ,https://icodse.org/media/posts/25/responsive/hotel-hills-batam-sm.webp 480w ,https://icodse.org/media/posts/25/responsive/hotel-hills-batam-md.webp 768w ,https://icodse.org/media/posts/25/responsive/hotel-hills-batam-lg.webp 1024w ,https://icodse.org/media/posts/25/responsive/hotel-hills-batam-xl.webp 1360w ,https://icodse.org/media/posts/25/responsive/hotel-hills-batam-2xl.webp 1600w"></figure>
 <ul>
-<li><a href="thehillsbatam.com">The Hills Hotel</a>
+<li><strong>Crowne Plaza Bandung (Lembong)</strong>
 <ul>
-<li>7.5 km from venue</li>
-<li>Maps direction: <a href="https://maps.app.goo.gl/pZMbfxjFWzYgoGYT9">Click here</a></li>
+<li>Jl. Lembong No.19, Bandung</li>
+<li>Maps direction: <a href="https://maps.app.goo.gl/crowneplaza">Click here</a></li>
 </ul>
 </li>
 </ul>
-<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/25/hotel-harris-batam.jpg" alt="" width="427" height="252" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/25/responsive/hotel-harris-batam-xs.jpg 300w ,https://icodse.org/media/posts/25/responsive/hotel-harris-batam-sm.jpg 480w ,https://icodse.org/media/posts/25/responsive/hotel-harris-batam-md.jpg 768w ,https://icodse.org/media/posts/25/responsive/hotel-harris-batam-lg.jpg 1024w ,https://icodse.org/media/posts/25/responsive/hotel-harris-batam-xl.jpg 1360w ,https://icodse.org/media/posts/25/responsive/hotel-harris-batam-2xl.jpg 1600w"></figure>
 <ul>
-<li><a href="https://www.discoverasr.com/en/harris/indonesia/harris-hotel-batam-center-batam?utm_source=google&amp;utm_medium=gmb&amp;utm_campaign=-google-gmb-alwayson-20220101-all-en-id-id-HBCT--&amp;utm_content=--">Harris Hotel Batam Center</a>
+<li><strong>Hilton Bandung (Cicendo)</strong>
 <ul>
-<li>1.7 km from venue</li>
-<li>Maps direction: <a href="https://maps.app.goo.gl/RHGAEgVMjufi5vGM9">Click here</a></li>
+<li>Jl. H.O.S. Cokroaminoto No.42A, Bandung</li>
+<li>Maps direction: <a href="https://maps.app.goo.gl/hilton">Click here</a></li>
 </ul>
 </li>
 </ul>
-<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/25/hotel-radisson-batam.jpg" alt="" width="425" height="319" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/25/responsive/hotel-radisson-batam-xs.jpg 300w ,https://icodse.org/media/posts/25/responsive/hotel-radisson-batam-sm.jpg 480w ,https://icodse.org/media/posts/25/responsive/hotel-radisson-batam-md.jpg 768w ,https://icodse.org/media/posts/25/responsive/hotel-radisson-batam-lg.jpg 1024w ,https://icodse.org/media/posts/25/responsive/hotel-radisson-batam-xl.jpg 1360w ,https://icodse.org/media/posts/25/responsive/hotel-radisson-batam-2xl.jpg 1600w"></figure>
 <ul>
-<li><a href="https://www.radissonhotels.com/en-us/hotels/radisson-batam-golf-convention?cid=a:se+b:gmb+c:apac+i:local+e:rad+d:seap+h:IDBTHGCC">Radisson Golf &amp; Convention Center</a>
+<li><strong>Pullman Bandung Grand Central (Diponegoro)</strong>
 <ul>
-<li>5.1 km from venue</li>
-<li>Maps direction: <a href="https://maps.app.goo.gl/PATjycxUT3cerLow5">Click here</a></li>
+<li>Jl. Diponegoro No.63, Bandung</li>
+<li>Maps direction: <a href="https://maps.app.goo.gl/pullman">Click here</a></li>
 </ul>
 </li>
 </ul>
-<p> </p>
+<ul>
+<li><strong>Four Points by Sheraton Bandung</strong>
+<ul>
+<li>Jl. Ir. H. Juanda No.46, Bandung</li>
+<li>Maps direction: <a href="https://maps.app.goo.gl/fourpoints">Click here</a></li>
+</ul>
+</li>
+</ul>
             ]]>
         </content>
     </entry>
