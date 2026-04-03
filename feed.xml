@@ -3,12 +3,111 @@
     <title>ICoDSE 2026</title>
     <link href="https://icodse.org/feed.xml" rel="self" />
     <link href="https://icodse.org" />
-    <updated>2026-04-03T07:45:50+07:00</updated>
+    <updated>2026-04-03T08:44:54+07:00</updated>
     <author>
         <name>Chair</name>
     </author>
     <id>https://icodse.org</id>
 
+    <entry>
+        <title>Travel Guide</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/travel-guide.html"/>
+        <id>https://icodse.org/travel-guide.html</id>
+
+        <updated>2026-04-03T08:13:55+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Welcome to the conference! Most international participants will arrive at Soekarno-Hatta International Airport (CGK) in Jakarta. To reach the ITB campus in Bandung, please choose from the following transportation options: (source : kcic.co.id) Travel Time: ~45 minutes (train only) + 30 minutes transit. Departure: Halim Station, Jakarta. Arrival at ITB: Take the train to Padalarang Station. Switch to the Feeder Train (included in your ticket) to Bandung Station (City Center). From Bandung Station, ITB is a short 10–15 minute taxi/Grab ride away. Booking: Whoosh Official Website or the Whoosh App. (source: infobanknews.com) This is the most convenient option as it&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-path-to-node="4">Welcome to the conference! Most international participants will arrive at <strong data-path-to-node="4" data-index-in-node="74">Soekarno-Hatta International Airport (CGK)</strong> in Jakarta. To reach the ITB campus in Bandung, please choose from the following transportation options:</p>
+<h3 data-path-to-node="5"><strong data-path-to-node="5" data-index-in-node="0">1. Whoosh High-Speed Rail</strong></h3>
+<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/32/whoosh.jpeg" alt="" width="1600" height="1066" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/32/responsive/whoosh-xs.jpeg 300w ,https://icodse.org/media/posts/32/responsive/whoosh-sm.jpeg 480w ,https://icodse.org/media/posts/32/responsive/whoosh-md.jpeg 768w ,https://icodse.org/media/posts/32/responsive/whoosh-lg.jpeg 1024w ,https://icodse.org/media/posts/32/responsive/whoosh-xl.jpeg 1360w ,https://icodse.org/media/posts/32/responsive/whoosh-2xl.jpeg 1600w"></figure>
+<p class="align-center">(source : kcic.co.id)</p>
+<ul data-path-to-node="6">
+<li>
+<p data-path-to-node="6,0,0"><strong data-path-to-node="6,0,0" data-index-in-node="0">Travel Time:</strong> ~45 minutes (train only) + 30 minutes transit.</p>
+</li>
+<li>
+<p data-path-to-node="6,1,0"><strong data-path-to-node="6,1,0" data-index-in-node="0">Departure:</strong> Halim Station, Jakarta.</p>
+</li>
+<li>
+<p data-path-to-node="6,2,0"><strong data-path-to-node="6,2,0" data-index-in-node="0">Arrival at ITB:</strong> Take the train to <strong data-path-to-node="6,2,0" data-index-in-node="36">Padalarang Station</strong>.</p>
+<ul data-path-to-node="6,2,1">
+<li>
+<p data-path-to-node="6,2,1,0,0">Switch to the <strong data-path-to-node="6,2,1,0,0" data-index-in-node="14">Feeder Train</strong> (included in your ticket) to <strong data-path-to-node="6,2,1,0,0" data-index-in-node="56">Bandung Station (City Center)</strong>.</p>
+</li>
+<li>
+<p data-path-to-node="6,2,1,1,0">From Bandung Station, ITB is a short 10–15 minute taxi/Grab ride away.</p>
+</li>
+</ul>
+</li>
+<li>
+<p data-path-to-node="6,3,0"><strong data-path-to-node="6,3,0" data-index-in-node="0">Booking:</strong> <a _ngcontent-ng-c2471861904="" target="_blank" rel="noopener" externallink="" _nghost-ng-c1255614514="" jslog="197247;track:generic_click,impression,attention;BardVeMetadataKey:[[&quot;r_4bbad49f00c544ef&quot;,&quot;c_6a01c63b75f4d3b8&quot;,null,&quot;rc_e6b3ba6e2dd244c4&quot;,null,null,&quot;en&quot;,null,1,null,null,1,0]]" href="https://ticket.kcic.co.id/" class="ng-star-inserted" data-hveid="0" decode-data-ved="1" data-ved="0CAAQ_4QMahcKEwj6h73ktM-TAxUAAAAAHQAAAAAQWw">Whoosh Official Website</a> or the Whoosh App.</p>
+</li>
+</ul>
+<h3 data-path-to-node="7"><strong data-path-to-node="7" data-index-in-node="0">2. Direct Airport Shuttle</strong></h3>
+<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/32/cititrans-travel.jpg" alt="" width="750" height="500" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/32/responsive/cititrans-travel-xs.jpg 300w ,https://icodse.org/media/posts/32/responsive/cititrans-travel-sm.jpg 480w ,https://icodse.org/media/posts/32/responsive/cititrans-travel-md.jpg 768w ,https://icodse.org/media/posts/32/responsive/cititrans-travel-lg.jpg 1024w ,https://icodse.org/media/posts/32/responsive/cititrans-travel-xl.jpg 1360w ,https://icodse.org/media/posts/32/responsive/cititrans-travel-2xl.jpg 1600w"></figure>
+<p class="align-center">(source: infobanknews.com)</p>
+<p data-path-to-node="8">This is the most convenient option as it avoids transferring luggage between trains and taxis.</p>
+<ul data-path-to-node="9">
+<li>
+<p data-path-to-node="9,0,0"><strong data-path-to-node="9,0,0" data-index-in-node="0">Travel Time:</strong> 3–4 hours (depending on traffic).</p>
+</li>
+<li>
+<p data-path-to-node="9,1,0"><strong data-path-to-node="9,1,0" data-index-in-node="0">Departure:</strong> Direct from Soekarno-Hatta Airport (all terminals).</p>
+</li>
+<li>
+<p data-path-to-node="9,2,0"><strong data-path-to-node="9,2,0" data-index-in-node="0">Recommended Operators for ITB:</strong> <strong data-path-to-node="9,2,0" data-index-in-node="52">City Trans, Jackal Holidays.</strong> These have drop-off points very close to the ITB area (Pasteur / Dipatiukur).</p>
+<ul data-path-to-node="9,2,1">
+<li>
+<p data-path-to-node="9,2,1,0,0"><strong data-path-to-node="9,2,1,0,0" data-index-in-node="0">Primajasa, Xtrans, DayTrans</strong>: Reliable alternatives with various drop-off points.</p>
+</li>
+</ul>
+</li>
+<li>
+<p data-path-to-node="9,3,0"><strong data-path-to-node="9,3,0" data-index-in-node="0">Booking:</strong> Airport counters, <a _ngcontent-ng-c2471861904="" target="_blank" rel="noopener" externallink="" _nghost-ng-c1255614514="" jslog="197247;track:generic_click,impression,attention;BardVeMetadataKey:[[&quot;r_4bbad49f00c544ef&quot;,&quot;c_6a01c63b75f4d3b8&quot;,null,&quot;rc_e6b3ba6e2dd244c4&quot;,null,null,&quot;en&quot;,null,1,null,null,1,0]]" href="https://www.traveloka.com" class="ng-star-inserted" data-hveid="0" decode-data-ved="1" data-ved="0CAAQ_4QMahcKEwj6h73ktM-TAxUAAAAAHQAAAAAQXA">Traveloka</a>, or <a _ngcontent-ng-c2471861904="" target="_blank" rel="noopener" externallink="" _nghost-ng-c1255614514="" jslog="197247;track:generic_click,impression,attention;BardVeMetadataKey:[[&quot;r_4bbad49f00c544ef&quot;,&quot;c_6a01c63b75f4d3b8&quot;,null,&quot;rc_e6b3ba6e2dd244c4&quot;,null,null,&quot;en&quot;,null,1,null,null,1,0]]" href="https://www.redbus.id" class="ng-star-inserted" data-hveid="0" decode-data-ved="1" data-ved="0CAAQ_4QMahcKEwj6h73ktM-TAxUAAAAAHQAAAAAQXQ">RedBus</a>.</p>
+</li>
+</ul>
+<h3 data-path-to-node="10"><strong data-path-to-node="10" data-index-in-node="0">3. Regular Train (KAI)</strong></h3>
+<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/32/kai-train.jpg" alt="" width="1200" height="800" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/32/responsive/kai-train-xs.jpg 300w ,https://icodse.org/media/posts/32/responsive/kai-train-sm.jpg 480w ,https://icodse.org/media/posts/32/responsive/kai-train-md.jpg 768w ,https://icodse.org/media/posts/32/responsive/kai-train-lg.jpg 1024w ,https://icodse.org/media/posts/32/responsive/kai-train-xl.jpg 1360w ,https://icodse.org/media/posts/32/responsive/kai-train-2xl.jpg 1600w"></figure>
+<p class="align-center">(source: traveloka.com)</p>
+<ul data-path-to-node="11">
+<li>
+<p data-path-to-node="11,0,0"><strong data-path-to-node="11,0,0" data-index-in-node="0">Travel Time:</strong> ~2 hours 50 minutes.</p>
+</li>
+<li>
+<p data-path-to-node="11,1,0"><strong data-path-to-node="11,1,0" data-index-in-node="0">Departure:</strong> Gambir Station, Jakarta (Reach this via DAMRI bus or taxi from the airport).</p>
+</li>
+<li>
+<p data-path-to-node="11,2,0"><strong data-path-to-node="11,2,0" data-index-in-node="0">Arrival:</strong> <strong data-path-to-node="11,2,0" data-index-in-node="9">Bandung Station</strong>. From here, ITB is just 3km away.</p>
+</li>
+<li>
+<p data-path-to-node="11,3,0"><strong data-path-to-node="11,3,0" data-index-in-node="0">Booking:</strong> <a _ngcontent-ng-c2471861904="" target="_blank" rel="noopener" externallink="" _nghost-ng-c1255614514="" jslog="197247;track:generic_click,impression,attention;BardVeMetadataKey:[[&quot;r_4bbad49f00c544ef&quot;,&quot;c_6a01c63b75f4d3b8&quot;,null,&quot;rc_e6b3ba6e2dd244c4&quot;,null,null,&quot;en&quot;,null,1,null,null,1,0]]" href="https://www.google.com/search?q=https://booking.kai.id/" class="ng-star-inserted" data-hveid="0" decode-data-ved="1" data-ved="0CAAQ_4QMahcKEwj6h73ktM-TAxUAAAAAHQAAAAAQXg">KAI Official Website</a> or KAI Access app.</p>
+</li>
+</ul>
+<h3 data-path-to-node="15"><strong data-path-to-node="15" data-index-in-node="0">Quick Tips for ITB Visitors:</strong></h3>
+<ul data-path-to-node="16">
+<li>
+<p data-path-to-node="16,0,0"><strong data-path-to-node="16,0,0" data-index-in-node="0">Traffic Alert:</strong> Friday afternoons and holiday weekends can significantly increase travel time by road. If you are arriving during these times, the <strong data-path-to-node="16,0,0" data-index-in-node="146">Whoosh</strong> or <strong data-path-to-node="16,0,0" data-index-in-node="156">Regular Train</strong> is highly recommended to avoid highway congestion.</p>
+</li>
+<li>
+<p data-path-to-node="16,1,0"><strong data-path-to-node="16,1,0" data-index-in-node="0">Local Transport:</strong> Once in Bandung, the easiest way to get to the ITB gate is via <strong data-path-to-node="16,1,0" data-index-in-node="80">Grab</strong> or <strong data-path-to-node="16,1,0" data-index-in-node="88">Gojek</strong> (download the apps in advance).</p>
+</li>
+<li>
+<p data-path-to-node="16,2,0"><strong data-path-to-node="16,2,0" data-index-in-node="0">Station Choice:</strong> If taking the Whoosh, <strong data-path-to-node="16,2,0" data-index-in-node="38">do not</strong> get off at Tegalluar; it is very far from ITB. Always choose <strong data-path-to-node="16,2,0" data-index-in-node="106">Padalarang</strong> and use the Feeder Train to reach the city center.</p>
+</li>
+</ul>
+<p data-path-to-node="17"> </p>
+<h3 data-path-to-node="7"> </h3>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2026 IEEE ICoDSE</title>
         <author>
@@ -147,51 +246,158 @@
         <updated>2024-10-26T05:56:31+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Novotel Bandung Jl. Cihampelas No.23, Bandung Maps direction: Click here Crowne Plaza Bandung (Lembong) Jl. Lembong No.19, Bandung Maps direction: Click here Hilton Bandung (Cicendo) Jl. H.O.S. Cokroaminoto No.42A, Bandung Maps direction: Click here Pullman Bandung Grand Central (Diponegoro) Jl. Diponegoro No.63, Bandung Maps direction: Click here Four Points by Sheraton Bandung Jl. Ir. H. Juanda No.46, Bandung Maps direction: Click here
+                    Here are hotel recommendations, sorted by their proximity to the Institut Teknologi Bandung (ITB) campus. Four Points by Sheraton Bandung is located approximately 1.4 km from the ITB main gate. It is a highly convenient choice for conference participants who want to be near in Dago street. Features a refined atmosphere with modern rooms and suites. Amenities include an outdoor pool with a bar, a fitness center, and on-site dining. Located on the vibrant Jalan Ir. H. Juanda (Dago), close to many cafes and shops. Offers a relaxed environment with an indoor pool and a dedicated bar area. Provides spacious&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <ul>
-<li><strong>Novotel Bandung</strong>
-<ul>
-<li>Jl. Cihampelas No.23, Bandung</li>
-<li>Maps direction: <a href="https://maps.app.goo.gl/novotel">Click here</a></li>
-</ul>
+                <p data-path-to-node="1">Here are hotel recommendations, sorted by their proximity to the <strong data-path-to-node="1" data-index-in-node="71">Institut Teknologi Bandung (ITB)</strong> campus.</p>
+<div class="attachment-container unknown">
+<div class="map-location-reference-container with-review ng-star-inserted">
+<div class="place-card-container ng-star-inserted">
+<div class="place-card-info">
+<div class="place-card-header">
+<h2 class="place-card-title gds-title-s">Four Points by Sheraton Bandung</h2>
+<div class="place-card-header-actions"> </div>
+</div>
+<div class="place-card-rating"><span class="star-rating-text cdk-visually-hidden ng-star-inserted"> Star rating: 4.6 out of 5 stars </span><span class="gds-body-s ng-star-inserted" aria-hidden="true">4.6</span></div>
+<div class="place-card-details gds-body-s">
+<div class="place-card-category ng-star-inserted"><span class="cdk-visually-hidden"> Category: </span>🏨 Hotel</div>
+<div>Location :<a href="https://maps.app.goo.gl/VGEpFodPmi1qJSSS7" target="_blank" rel="noopener noreferrer"> Click Here</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class="place-card-title gds-title-s">Four Points by Sheraton Bandung is located approximately 1.4 km from the ITB main gate. It is a highly convenient choice for conference participants who want to be near in Dago street.</p>
+<ul data-path-to-node="5">
+<li>
+<p data-path-to-node="5,0,0">Features a refined atmosphere with modern rooms and suites.</p>
+</li>
+<li>
+<p data-path-to-node="5,1,0">Amenities include an outdoor pool with a bar, a fitness center, and on-site dining.</p>
+</li>
+<li>
+<p data-path-to-node="5,2,0">Located on the vibrant Jalan Ir. H. Juanda (Dago), close to many cafes and shops.</p>
 </li>
 </ul>
-<ul>
-<li><strong>Crowne Plaza Bandung (Lembong)</strong>
-<ul>
-<li>Jl. Lembong No.19, Bandung</li>
-<li>Maps direction: <a href="https://maps.app.goo.gl/crowneplaza">Click here</a></li>
-</ul>
+<div class="attachment-container unknown">
+<div class="map-location-reference-container with-review ng-star-inserted">
+<div class="place-card-container ng-star-inserted">
+<div class="place-card-info">
+<div class="place-card-header">
+<h2 class="place-card-title gds-title-s">Novotel Bandung</h2>
+<div class="place-card-header-actions"> </div>
+</div>
+<div class="place-card-rating"><span class="star-rating-text cdk-visually-hidden ng-star-inserted"> Star rating: 4.6 out of 5 stars </span><span class="gds-body-s ng-star-inserted" aria-hidden="true">4.6</span></div>
+<div class="place-card-details gds-body-s">
+<div class="place-card-category ng-star-inserted"><span class="cdk-visually-hidden"> Category: </span>🏨 Hotel</div>
+<div>Location : <a href="https://maps.app.goo.gl/2f6ZzsYtfjRWGBwU7" target="_blank" rel="noopener noreferrer">Click Here</a></div>
+<div> </div>
+<div class="place-card-category ng-star-inserted">Novotel Bandung is roughly 2.1 km away from the campus. It sits in a very central area, making it easy for guests to navigate between the university and the Cihampelas shopping district.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul data-path-to-node="8">
+<li>
+<p data-path-to-node="8,0,0">Offers a relaxed environment with an indoor pool and a dedicated bar area.</p>
+</li>
+<li>
+<p data-path-to-node="8,1,0">Provides spacious suites suitable for business travelers.</p>
+</li>
+<li>
+<p data-path-to-node="8,2,0">Situated near the Cihampelas Walk (Ciwalk) mall for easy access to dining and entertainment.</p>
 </li>
 </ul>
-<ul>
-<li><strong>Hilton Bandung (Cicendo)</strong>
-<ul>
-<li>Jl. H.O.S. Cokroaminoto No.42A, Bandung</li>
-<li>Maps direction: <a href="https://maps.app.goo.gl/hilton">Click here</a></li>
-</ul>
+<div class="attachment-container unknown">
+<div class="map-location-reference-container with-review ng-star-inserted">
+<div class="place-card-container ng-star-inserted">
+<div class="place-card-info">
+<div class="place-card-header">
+<h2 class="place-card-title gds-title-s">Pullman Bandung Grand Central</h2>
+<div class="place-card-header-actions"> </div>
+</div>
+<div class="place-card-rating"><span class="star-rating-text cdk-visually-hidden ng-star-inserted"> Star rating: 4.9 out of 5 stars </span><span class="gds-body-s ng-star-inserted" aria-hidden="true">4.9</span></div>
+<div class="place-card-details gds-body-s">
+<div class="place-card-category ng-star-inserted"><span class="cdk-visually-hidden"> Category: </span>🏨 Hotel</div>
+<div>Location : <a href="https://maps.app.goo.gl/aTiMeG98bb8dmLwB6" target="_blank" rel="noopener noreferrer">Click Here</a></div>
+<div> </div>
+<div class="place-card-category ng-star-inserted"><span style="text-align: center; font-size: inherit;">Pullman Bandung is located about 2.2 km from ITB. This is one of Bandung's newer luxury options, positioned right across from the iconic Gedung Sate.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul data-path-to-node="11">
+<li>
+<p data-path-to-node="11,0,0">Known for its upscale atmosphere, rooftop bar, and premium spa services.</p>
+</li>
+<li>
+<p data-path-to-node="11,1,0">Features an outdoor pool and a high-end fitness center.</p>
+</li>
+<li>
+<p data-path-to-node="11,2,0">Its location in the "Grand Central" area provides a prestigious backdrop for international guests.</p>
 </li>
 </ul>
-<ul>
-<li><strong>Pullman Bandung Grand Central (Diponegoro)</strong>
-<ul>
-<li>Jl. Diponegoro No.63, Bandung</li>
-<li>Maps direction: <a href="https://maps.app.goo.gl/pullman">Click here</a></li>
-</ul>
+<div class="attachment-container unknown">
+<div class="map-location-reference-container with-review ng-star-inserted">
+<div class="place-card-container ng-star-inserted">
+<div class="place-card-info">
+<div class="place-card-header">
+<h2 class="place-card-title gds-title-s">Hilton Bandung</h2>
+<div class="place-card-header-actions"> </div>
+</div>
+<div class="place-card-rating"><span class="star-rating-text cdk-visually-hidden ng-star-inserted"> Star rating: 4.7 out of 5 stars </span><span class="gds-body-s ng-star-inserted" aria-hidden="true">4.7</span></div>
+<div class="place-card-details gds-body-s">
+<div class="place-card-category ng-star-inserted"><span class="cdk-visually-hidden"> Category: </span>🏨 Hotel</div>
+<div>Location : <a href="https://maps.app.goo.gl/Ncoynft4rPFk9aNj7" target="_blank" rel="noopener noreferrer">Click Here</a></div>
+<div> </div>
+<div class="place-card-category ng-star-inserted"><span style="text-align: center; font-size: inherit;">Hiltong Bandung is approximately 3.1 km from the ITB campus. While a bit further south near the train station, it offers world-class luxury and is very convenient for those arriving by rail.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul data-path-to-node="14">
+<li>
+<p data-path-to-node="14,0,0">Highlights include a beautiful rooftop pool and a well-regarded day spa.</p>
+</li>
+<li>
+<p data-path-to-node="14,1,0">Offers a 24-hour gym and diverse dining options on-site.</p>
+</li>
+<li>
+<p data-path-to-node="14,2,0">Renowned for its large, modern rooms and consistent service quality.</p>
 </li>
 </ul>
-<ul>
-<li><strong>Four Points by Sheraton Bandung</strong>
-<ul>
-<li>Jl. Ir. H. Juanda No.46, Bandung</li>
-<li>Maps direction: <a href="https://maps.app.goo.gl/fourpoints">Click here</a></li>
-</ul>
+<div class="attachment-container unknown">
+<div class="map-location-reference-container with-review ng-star-inserted">
+<h2 class="place-card-container ng-star-inserted">Crowne Plaza Bandung</h2>
+<div class="place-card-info">
+<div class="place-card-rating"> </div>
+</div>
+</div>
+</div>
+<div class="place-card-rating"><span class="star-rating-text cdk-visually-hidden ng-star-inserted">Star rating: 4.8 out of 5 stars </span><span class="gds-body-s ng-star-inserted" aria-hidden="true">4.8</span></div>
+<div class="place-card-details gds-body-s">
+<div class="place-card-category ng-star-inserted"><span class="cdk-visually-hidden"> Category: </span>🏨 Hotel</div>
+<div>Location : <a href="https://maps.app.goo.gl/yxRpcTNtPqC1cJ2Z9" target="_blank" rel="noopener noreferrer">Click Here</a></div>
+<div> </div>
+<div class="place-card-category ng-star-inserted">Crowne Plaza Bandung is about 3.5 km away from ITB. It is situated in the historic Braga/Lembong area, perfect for guests who want to explore Bandung's heritage after the conference.</div>
+</div>
+<ul data-path-to-node="17">
+<li>
+<p data-path-to-node="17,0,0">Features an infinity pool with expansive views of the city skyline.</p>
+</li>
+<li>
+<p data-path-to-node="17,1,0">Provides four different eateries, ranging from casual to fine dining.</p>
+</li>
+<li>
+<p data-path-to-node="17,2,0">Positioned in the heart of the business district with easy access to the historic Braga Street.</p>
 </li>
 </ul>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -1045,388 +1251,6 @@
 <p><span class="fontstyle0">Data Engineering </span><span class="fontstyle2">and </span><span class="fontstyle0">Software Engineering </span><span class="fontstyle2">are two areas of knowledge that are currently growing in the field of information and communication technology (ICT). They are interrelated and each plays a crucial role in transforming the world in various aspects such as business, education, government, and communities. Although both disciplines have reached a level of maturity, research and development in these fields continue to evolve in order to improve the performance of the services they offer and enhance the success criteria of their products, such as efficiency and effectiveness. Therefore, a platform is needed to publish various research outcomes and product developments in both disciplines.</span></p>
 <p><span class="fontstyle2">ICoDSE is an international conference held annually by the </span><span class="fontstyle0">Knowledge and Software Engineering Research Group (KSE) of STEI ITB</span><span class="fontstyle2">, in collaboration with various universities in Indonesia. In Indonesia, this conference is the first specific conference in the field of software engineering and data/knowledge engineering. At the international level, similar or related conferences are organized by the University of Texas (IC SEDE - International Conference on Software Engineering and Data Engineering) or SEKE (Software Engineering and Knowledge Engineering).</span></p>
 <p><span class="fontstyle2">With the support of sponsorship from IEEE, the ASEAN-European Academic University Network, and the Vienna University of Technology, it is expected that the conference's quality will be enhanced. In addition, the International Journal on Electrical Engineering and Informatics (IJEEI) from ITB (STEI) and the Journal of ICT Research and Applications (JICTRA) from ITB have also agreed to serve as publication venues for selected papers.</span> </p>
--->
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>(2023) IEEE ICoDSE</title>
-        <author>
-            <name>Chair</name>
-        </author>
-        <link href="https://icodse.org/icodse-2021-is-starting-soon-2.html"/>
-        <id>https://icodse.org/icodse-2021-is-starting-soon-2.html</id>
-        <media:content url="https://icodse.org/media/posts/16/banner.jpg" medium="image" />
-
-        <updated>2023-08-25T10:36:26+07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://icodse.org/media/posts/16/banner.jpg" alt="" />
-                    2023 IEEE International Conference on Data and Software Engineering (ICoDSE) “Artificial Intelligence for Supporting Data and Software Engineering” 📍 Institut Teknologi Del (hybrid online + offline) Toba, Sumatera Utara, Indonesia 📅 September 7-8, 2023 Time in the program schedule is in Western Indonesia Time / Waktu Indonesia Barat (WIB; GMT+7). Please pay attention and adjust it to your local time. Time Activity 07.30 - 08.45 Participant Registration Opening Ceremony 09.00 - 09.10 Opening Remarks 09.10 - 09.15 Choir and Opening Dance Performance 09.15 - 09.20 Singing the national anthem “Indonesia Raya” 09.20 - 09.30 Opening speech by Prof. Benhard Sitohang&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://icodse.org/media/posts/16/banner.jpg" class="type:primaryImage" alt="" /></p>
-                <h5>2023 IEEE International Conference on Data and Software Engineering (ICoDSE)</h5>
-<p><em>“Artificial Intelligence for Supporting Data and Software Engineering”</em></p>
-<p>📍 Institut Teknologi Del (<em>hybrid online + offline</em>)<br>Toba, Sumatera Utara, Indonesia<br>📅 September 7-8, 2023</p>
-<h2>Program Schedule</h2>
-<p>Time in the program schedule is in Western Indonesia Time / Waktu Indonesia Barat (WIB; GMT+7). Please pay attention and adjust it to your local time. </p>
-<h5><strong>Day One: Thursday, September 7, 2023</strong></h5>
-<table style="width: 716px;">
-<tbody>
-<tr bgcolor="lightgray">
-<td style="width: 150px;">
-<p><strong>Time</strong></p>
-</td>
-<td style="width: 565px;">
-<p><strong>Activity</strong></p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;">
-<p>07.30 - 08.45</p>
-</td>
-<td style="width: 565px;">
-<p>Participant Registration</p>
-</td>
-</tr>
-<tr>
-<td style="width: 715px;" colspan="2">
-<p><em><strong>Opening Ceremony</strong></em></p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;">
-<p>09.00 - 09.10</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Opening Remarks</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>09.10 - 09.15</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Choir and Opening Dance Performance</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;">
-<p>09.15 - 09.20</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Singing the national anthem “Indonesia Raya”</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>09.20 - 09.30</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Opening speech by Prof. Benhard Sitohang (ITB)</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>09.30 - 09.40</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Welcome speech from Del Institute of Technology</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>09.40 - 09.50</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Welcome speech from Institut Teknologi Bandung</p>
-</td>
-</tr>
-<tr>
-<td style="width: 715px;" colspan="2">
-<p><em><strong>Keynote Speech</strong></em></p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>10.00 - 10.30</p>
-</td>
-<td style="width: 565px;" width="517">Keynote Speech I - Jenderal TNI (Purn.) Luhut Binsar Pandjaitan, M.P.A.
-<p>(Coordinating Minister for Maritime and Investment Affairs Republic of Indonesia)</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>10.30 - 11.00</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Keynote Speech II - Prof. David Lo (Singapore Management University)</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>11.00 - 11.20</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Break</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>11.20 - 11.50</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Keynote Speech III - Prof. Willy Susilo (University of Wollongong Australia)</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>12.00 - 13.00</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Lunch Break</p>
-</td>
-</tr>
-<tr>
-<td style="width: 715px;" colspan="2">
-<p><em><strong>Parallel Sessions</strong></em></p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>13.00 - 15.00</p>
-</td>
-<td style="width: 565px;" width="517">
-<p><a href="#p1">Parallel Presentation Session I</a><a></a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>15.00 - 15.15</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Break</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>15.15 - 17.15</p>
-</td>
-<td style="width: 565px;" width="517">
-<p><a href="#p2">Parallel Presentation Session II</a><a></a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>17.15 - 19.00</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Break</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>19.00 - 21.00</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Dinner</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5><strong>Day Two: Friday, September 8, 2023</strong></h5>
-<table>
-<tbody>
-<tr>
-<td style="width: 715px;" colspan="2">
-<p><em><strong>Best Paper Award &amp; Closing</strong></em></p>
-</td>
-</tr>
-<tr>
-<td width="110">
-<p>09.00 - 09.15</p>
-</td>
-<td width="376">
-<p>Opening</p>
-</td>
-</tr>
-<tr>
-<td width="110">
-<p>09.15 - 11.15</p>
-</td>
-<td width="376">
-<p><a href="#p3">Parallel Presentation Session III</a></p>
-</td>
-</tr>
-<tr>
-<td width="110">
-<p>11.15 - 11.45</p>
-</td>
-<td width="376">
-<p>Best Paper Award &amp; Closing</p>
-</td>
-</tr>
-<tr>
-<td width="110">
-<p>11.45 - 13.00</p>
-</td>
-<td width="376">
-<p>Lunch Break</p>
-</td>
-</tr>
-<tr>
-<td width="110">
-<p>13.00 - 18.00</p>
-</td>
-<td width="376">
-<p>Tour to Sipinsur Park Geosite and Sibandang Island</p>
-</td>
-</tr>
-</tbody>
-</table>
-<!-- parallel session I -->
-<h2 id="p1">Parallel Session I</h2>
-<h4><strong>Session I-A – Data mining and data tools</strong></h4>
-<p><span style="font-weight: 400;">Thursday, 7 September2023, 13:00-15:00 GMT+7, Room A</span></p>
-<ol>
-<li><strong>Promotion Abuse Fraud Detection Application Development using Risk Scoring</strong><br><em><span style="font-weight: 400;">Shafira Naya Aprisadianti and Latifa Dwiyanti</span></em></li>
-<li><strong>Migration From Relational Database to Column-Oriented NoSQL Database</strong><br><em><span style="font-weight: 400;">Rizky Anggita Syarbaini Siregar and Fazat Nur Azizah</span></em></li>
-<li><strong>Structured Spatial Three-Dimensional Objects Data Extension in PostgreSQL</strong><br><em><span style="font-weight: 400;">Kevin Ryan and Tricya Widagdo</span></em></li>
-<li><strong>SQL Interface For CRUD Operations On Cloud Firestore</strong><br><em><span style="font-weight: 400;">Farhan N. H. Denira and Fazat N. Azizah</span></em></li>
-<li><strong>Utilizing PostGIS Extension to Process Spatial Data Stored in Neo4j Database<br></strong><em><span style="font-weight: 400;">Jon Felix Germinian and Tricya Esterina Widagdo</span></em></li>
-</ol>
-<h4><strong>Session I-B – Software and education</strong></h4>
-<p><span style="font-weight: 400;">Thursday, 7 September2023, 13:00-15:00 GMT+7, Room B</span></p>
-<ol>
-<li><strong>Development of Simulator for Learning Scrum</strong><br><em><span style="font-weight: 400;">Irvin Andryan Pratomo and Yani Widyani</span></em></li>
-<li><strong>Development of a Scrum Learning Model Using Gamification with the Battleship Board Game</strong><br><em><span style="font-weight: 400;">Christian Gunawan and Wikan Danar Sunindyo</span></em></li>
-<li><strong>Predicting Students Performance Using Data Mining Approach (Case Study: IT Del)</strong><br><em><span style="font-weight: 400;">Jaime Christ Bonar Sirait, Parmonangan R. Togatorop, Paulus M.L.P Tambunan, Yemima Febe Yanti Marpaung, Samuel I.G Situmeang and Humasak T.A Simanjuntak</span></em></li>
-<li><strong>Dispositions as an Important Component in Computing Curriculum Development in IT Del</strong><br><em><span style="font-weight: 400;">Arlinta Barus, Inggriani Liem, Arnaldo Sinaga, Eka Sinambela, Tahan Sihombing and Sari Silalahi</span></em></li>
-<li><strong>Utilization of Virtual Reality for Docker Learning<br></strong><em><span style="font-weight: 400;">Muhammad Fikri. N and Fitra Arifiansyah</span></em></li>
-</ol>
-<h4><strong>Session I-C<span style="font-weight: 400;"> – Software application development</span></strong></h4>
-<p><span style="font-weight: 400;">Thursday, 7 September2023, 13:00-15:00 GMT+7, Room C</span></p>
-<ol>
-<li><strong>Omnichannel System Development for Integration with Various Marketplace Using Event-Driven Architecture</strong><br><em><span style="font-weight: 400;">Jordan Daniel Joshua and Muhammad Zuhri Catur Candra</span></em></li>
-<li><strong>Development of an End-to-End Form Data Capture Model for an Electronic Election Recapitulation System</strong><br><em><span style="font-weight: 400;">James Chandra, Riza Satria Perdana and Saiful Akbar</span></em></li>
-<li><strong>Offline Data Sharing on Android Application</strong><br><em><span style="font-weight: 400;">Muhammad Dzaki Razaan Faza, Riza Satria Perdana and Saiful Akbar</span></em></li>
-<li><strong>Analysis and The Preliminary Design for Backend Technology of Disaster Management Information System</strong><br><em><span style="font-weight: 400;">Riyanthi Angrainy Sianturi and Jerry Andrianto Pangaribuan</span></em></li>
-<li><strong>Election Data Visualization in Virtual Reality Environment Using Oculus Quest 2<br></strong><em><span style="font-weight: 400;">Vania Alya Qonita and Latifa Dwiyanti</span></em></li>
-</ol>
-<!-- parallel session II -->
-<h2 id="p2">Parallel Session II</h2>
-<h4><strong>Session II-A – AI for software engineering and AI applications</strong></h4>
-<p><span style="font-weight: 400;">Thursday, 7 September2023, 15:15-17:15 GMT+7, Room A</span></p>
-<ol>
-<li><strong>Raw mill Engine Failure Detection from Transformer Gated Convolutional Unit Networks</strong><br><em><span style="font-weight: 400;">Berliana Putri Muliatama, Imam Mukhlash, Mohammad Iqbal, Nurul Hidayat and Masaomi Kimura</span></em></li>
-<li><strong>Experiment on Utilizing GPT-3.5 Language Model to Generate DSL of Data Management for Web Application Development using Qore-Base Platform</strong><br><em><span style="font-weight: 400;">Akifa Ufairah and Yani Widyani</span></em></li>
-<li><strong>Comparison Machine Learning Technique For Grade Classification of Exported Cavendish Banana</strong><br><em><span style="font-weight: 400;">Junanto Prihantoro, Dhika Anbiya, Galuh Prihantoro, Erwin Nashrullah, Zaid Cahya and Riza Riza</span></em></li>
-<li><strong>Driving Digital Transformation: Leveraging Robotic Process Automation (RPA) to Enhance Business Process Efficiency and Reducing Manual Errors</strong><br><em><span style="font-weight: 400;">Laurensius Sakti Lubis and Dwide Elizabeth Sembiring</span></em></li>
-<li><strong>Machine Learning Application Development Guidelines Using CRISP-DM and Scrum Concept<br></strong><span style="font-weight: 400;">Muhammad Tamiramin Hayat Suhendar and Yani Widyani</span></li>
-</ol>
-<h4><strong>Session II-B <span style="font-weight: 400;">– Software fundamentals and experiments</span></strong></h4>
-<p><span style="font-weight: 400;">Thursday, 7 September 2023, 15:15-17:15 GMT+7, Room B</span></p>
-<ol>
-<li><strong>Load Testing and Cost Analysis of Deployment Environments of a Backend System in an Electronic Election Recapitulation System Application</strong><br><em><span style="font-weight: 400;">Gregorius Dimas Baskara, Riza Satria Perdana and Saiful Akbar</span></em></li>
-<li><strong>Evaluation of HTTP and MQTT Protocols in the Design of Telemetry Data for Embedded Systems on Smart Wheelchairs</strong><br><em><span style="font-weight: 400;">Yohanes Vito Rizki Darujati, Laurentius Kuncoro Probo Saputra, Yuan Lukito and Winta Adhitia Guspara</span></em></li>
-<li><strong>Performance Comparison of Katalon Studio with Appium on Investree Application in Funding Module</strong><br><em><span style="font-weight: 400;">Maristella Sere Viona Sitanggang and Arnaldo Maruli Tua Sinaga</span></em></li>
-<li><strong>Comparative Analysis of Big Data Utilization at Vocational and Productivity Training Centers (BBPVP) and the Domestic Job Market</strong><br><em><span style="font-weight: 400;">Aghnia Nadhira Aliya Putri, Fadrian Dwiki Maulanda, Zulfiyandi Zulfiyandi, Devi Adrian and Zulfikar Hakim</span></em></li>
-<li><strong>Achieving High-Level Software Component Summarization via Hierarchical Chain-of-Thought Prompting and Static Code Analysis<br></strong><em><span style="font-weight: 400;">Satrio Adi Rukmono, Lina Ochoa and Michel Chaudron</span></em></li>
-</ol>
-<h4><strong>Session II-C<span style="font-weight: 400;"> – Software UI/UX and testing</span></strong></h4>
-<p><span style="font-weight: 400;">Thursday, 7 September2023, 15:15-17:15 GMT+7, Room C</span></p>
-<ol>
-<li><strong>Website Functionality Testing Using the Automation Tool</strong><br><em><span style="font-weight: 400;">Dr. Arlinta Christy Barus and Aprialdy Sembiring</span></em></li>
-<li><strong>Interaction Design of Indonesian Junior High School Academic Information System using User-Centered Design</strong><br><em><span style="font-weight: 400;">Jeanne D'Arc Amara Hanieka and Fitra Arifiansyah</span></em></li>
-<li><strong>Interaction Design Improvement of Content Preferences, Report, and Homepage feature of Shopee Video Using User-Centered Design</strong><br><em><span style="font-weight: 400;">Chintya Wijaya and Adi Mulyanto</span></em></li>
-<li><strong>Interaction Design for Books Recommendation System to Improve User Satisfaction at EPerpusdikbud</strong><br><em><span style="font-weight: 400;">Falia Aufa Najla, Dana Sulistyo Kusumo and Arfive Gandhi</span></em></li>
-<li><strong>Improving Cultural Objects Portal Application Usability Using User Usability Evaluation<br></strong><em><span style="font-weight: 400;">Budi Susanto, Kristofan Feriadi, Restyandito Restyandito, Gloria Virginia and Umi Proboyekti</span></em></li>
-</ol>
-<!-- parallel session III -->
-<h2 id="p3">Parallel Session III</h2>
-<h4><strong>Session III-A <span style="font-weight: 400;">– Data engineering and tools</span></strong></h4>
-<p><span style="font-weight: 400;">Friday, 8 September2023, 09:15-11:15 GMT+7, Room A</span></p>
-<ol>
-<li><strong>Aspect-Based Sentiment Analysis Model with Local Sentiment Aggregation for Online Travel Reviews</strong><br><em><span style="font-weight: 400;">Renny Pradina Kusumawardani, Mochammad Farrel Arrizal Kusuma, Radityo Prasetianto Wibowo and Aris Tjahyanto</span></em></li>
-<li><strong>The Semantic Overlay Architecture for Data Interoperability and Exchange</strong><br><em><span style="font-weight: 400;">Fajar J. Ekaputra, Christoph Fabianek, Gabriel Unterholzer and Eduard Gringinger</span></em></li>
-<li><strong>The Study Of Data Modeling Methodologies For Column-Oriented Databases</strong><br><em><span style="font-weight: 400;">Raden Haryo Pandu Prakoso and Fazat Nur Azizah</span></em></li>
-<li><strong>Migration of Relational Database to NoSQL Document-Oriented Database</strong><br><em><span style="font-weight: 400;">Wilson Tandya and Fazat Nur Azizah</span></em></li>
-<li><strong>Development of SQL Interface for Spatial Data Processing in XML Databases<br></strong><em><span style="font-weight: 400;">Muhammad Bintang Pananjung and Tricya Esterina Widagdo</span></em></li>
-</ol>
-<h4><strong>Session III-B <span style="font-weight: 400;"> – Secure software and software engineering tools</span></strong></h4>
-<p><span style="font-weight: 400;">Friday, 8 September2023, 09:15-11:15 GMT+7, Room B</span></p>
-<ol>
-<li><strong>Detecting Command Injection and Cross-site Scripting Vulnerabilities Using Graph Representations</strong><br><em><span style="font-weight: 400;">Kevin Fernaldy and Yudistira Asnar</span></em></li>
-<li><strong>Exploring Low Rate Dos Attack Detection Methods: A Bibliometric Analysis and Roadmap for Further Research</strong><br><em><span style="font-weight: 400;">Anteng Widodo, Adian Fatchur Rochim and Budi Warsito</span></em></li>
-<li><strong>A Static IDE Plugin to detect Security Hotspot for Laravel Framework Based Web Application</strong><br><em><span style="font-weight: 400;">Muhammad Anis Al Hilmi, Raswa Raswa, Robi Robiyanto, Daniel Oranova Siahaan, Alifia Puspaningrum and Hernawati Susanti Samosir</span></em></li>
-<li><strong>Integration of Method Editor EssenceBoard with Method Base Management System</strong><br><em><span style="font-weight: 400;">Muhammad Azhar Faturahman and Yani Widyani</span></em></li>
-<li><strong>Expert System Development Guidance in Essence Standard<br></strong><em><span style="font-weight: 400;">Mohammad Yahya Ibrahim and Yani Widyani</span></em></li>
-</ol>
-<h4><strong>Session III-C<span style="font-weight: 400;">  – Domain-specific machine learning models</span></strong></h4>
-<p><span style="font-weight: 400;">Friday, 8 September2023, 09:15-11:15 GMT+7, Room C</span></p>
-<ol>
-<li><strong>Improved Detection and Interpretation of Multilingual Signboards in Natural Scene for Visually Impaired People</strong><br><em><span style="font-weight: 400;">Qamar Zaman, Shah Khusro and A Min Tjoa</span></em></li>
-<li><strong>Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach</strong><br><em><span style="font-weight: 400;">Arief Purnama Muharram, Hollyana Puteri Haryono, Abassi Haji Juma, Ira Puspasari and Nugraha Priya Utama</span></em></li>
-<li><strong>Comparison of Support Vector Regression and Artificial Neural Network Algorithm in Predicting the Number of Prospective Student Registrans</strong><br><em><span style="font-weight: 400;">Herimanto Pardede, Arie Satia Dharma, Hotmangasi Manurung and Agnes Bertua Nababan</span></em></li>
-<li><strong>A Real-Time Multi-Disease Prediction framework using Deep Learning Techniques</strong><br><em><span style="font-weight: 400;">Venkata Ramana Attada, Lakshmana Rao Kalabarige and Srividya Kotagiri</span></em></li>
-<li><strong>Detection of Tuberculosis Disease using Deep Learning Techniques<br></strong><em><span style="font-weight: 400;">Geetamma Tummalapalli, Jami Kousik, Rajasekhar Mungi, Murapaka Rajesh, Kalyani Dinesh and Kadiyam Rajalingeswara Rao</span></em></li>
-</ol>
-<p>Special thanks to <strong>Pertamina</strong> for making this conference happen for the progress of the data and software engineering industry in Indonesia</p>
-<div class="post__iframe"><iframe loading="lazy" width="640" height="480" src="https://drive.google.com/file/d/1BhYl1UELb2X-Usf29UCSIThqDj8os78w/preview" allow="autoplay"></iframe></div>
-<!--
-<h2 id="p1">Parallel Session I</h2>
-<h4><strong>Session I-A</strong></h4>
-<ul>
-	<li><strong>Development of a Multiplication Game for Primary Students to Improve Learning Experience</strong><br><em>Gunawan Kamaruddin, Yani Widyani and Satrio Adi Rukmono</em></li>
-	<li><strong>Identifying Agile Roles in Software Engineering Projects using Repository and Work-Tracking Data</strong><br><em>Benedikt Martens and Jörg Frank</em></li>
-	<li><strong>PREP: A Post-Requirements Effort Estimation Method in Scrum’s Sprint Grooming</strong><br><em>Gusti Raditia Madya, Eko K. Budiardjo and Kodrat Mahatma</em></li>
-	<li><strong>User Story Risk Prioritization Model for Agile Software Development</strong><br><em>Phornhathai Thanomwong and Twittie Senivongse</em></li>
-	<li><strong>Translating UML Class Diagram Models into Key-Value Store Models<br></strong><em>Muhammad R. Valiandi and Fazat N. Azizah</em></li>
-</ul>
-<h4><strong>Session I-B</strong></h4>
-<ul>
-	<li><strong>SQL Interface Development for Spatial Data Retrieval on Cassandra</strong><br><em>William Fu and Tricya Esterina Widagdo</em></li>
-	<li><strong>Application of Convolutional Neural Network for Semantic Segmentation of Bandung Urban Scenes</strong><br><em>Daniel Alexander, Hans Christian Kurniawan, Irfin Afifudin and Hery Heryanto</em></li>
-	<li><strong>Engine Failure Detection of Raw mill Machine via Discrete Variational Auto-encoder<br></strong><em>Izhar Brur Abruzi, Mohammad Iqbal, Imam Mukhlash, Alvida Mustika Rukmi, Nani Kurniati and Masaomi Kimura</em></li>
-	<li><strong>Evaluation of Convolutional Neural Network for Automatic Caries Detection in Digital Radiograph Panoramic on Small Dataset<br></strong><em>Arna Fariza, Rengga Asmara, Eha Renwi Astuti, Ramadhan Hardani Putra and Muhammad Oktavian Fajar Rojaby. </em><strong><br></strong></li>
-</ul>
-<h2 id="p2">Parallel Session II</h2>
-<h4><strong>Session II-A</strong></h4>
-<ul>
-	<li class="p1"><strong>Interaction Design of Fertility Tracking Application Using User-Centered Design</strong><br>Madiha Faizzati and Fitra Arifiansyah</li>
-	<li class="p1"><strong>Development of Audiobook Interaction Design for People with Vision Impairment Based on User-Centered Design Approach</strong><br><em>Izharulhaq Izharulhaq, Dessi Puji Lestari and Rizal Dwi Prayogo</em></li>
-	<li><strong>Development of Vehicle Type Detection System on Multi Lane Free Flow Toll E-Collection</strong><br><em>Okugata Fahmi Nurul Yudho Fauzan, Riza Satria Perdana and Trio Adiono</em></li>
-	<li><strong>Wearable Technology Application for Banjar Language Translator to Support Ease of Communication: Prototyping and Sustainability Opportunities<br></strong><em>Aulia Akhrian Syahidi and Kohei Arai</em></li>
-	<li><strong>Effect of Different Online Learning Screen Sizes During the COVID-19 Pandemic: An EEG Study<br></strong><em>I Putu Agus Eka Darma Udayana, Made Sudarma, I Ketut Gede Darma Putra and I Made Sukarsa</em><strong><br></strong></li>
-</ul>
-<h4><strong>Session II-B</strong></h4>
-<ul>
-	<li class="p1"><strong>GraphQL-based Backend Service Development Tool for CRUD Operations, Authentication, and Authorization</strong><br><em>Moch. Nafkhan Alzamzami and Fazat Nur Azizah</em></li>
-	<li class="p1"><strong>Development of Application for Entity-Relationship Diagram Conversion to Logical Schema of NoSQL Column Oriented</strong><br><em>Muhammad Fauzan Al-Ghifari and Fazat Nur Azizah</em></li>
-	<li class="p1"><strong>Towards A Data Repository for Educational Factories</strong><br><em>Fajar J. Ekaputra, Martin Weise, Katharina Flicker, Mohd. Rizal Bin Salleh, Md. Nizam Abd Rahman, Azrul Azwan Abd Rahman, Tomasz Miksa and Andreas Rauber</em></li>
-	<li class="p1"><strong>Natural Language Interface to Database (NLIDB) for Interrogative Sentences with Temporal Elements in Indonesian Language</strong><br><em>Hansel Grady Daniel Thamrin and Tricya Esterina Widagdo</em><strong><br></strong></li>
-</ul>
-<h2 id="p3">Parallel Session III</h2>
-<h4><strong>Session III-A</strong></h4>
-<ul>
-	<li class="p1"><strong>OSS-AQM: An Open-Source Software Quality Model for Automated Quality Measurement</strong><br><em>Arkom Madaehoh and Twittie Senivongse</em></li>
-	<li class="p1"><strong>Stages of Progression Classification of Alzheimer’s Disease Using Deep Transfer Learning Models with Over-Sampling</strong><br><em>Manop Phankokkruad and Sirirat Wacharawichanant</em></li>
-	<li class="p1"><strong>A Study of Case Sharing System for Efficient and Innovative Software Upcycling</strong><br><em>Takuya Nakata, Sinan Chen, Sachio Saiki and Masahide Nakamura</em></li>
-	<li><strong>Improving Defect Prediction using Combination of Software Metrics</strong><br><em>Ayu Komalasari and Muhammad Zuhri Catur Candra</em></li>
-	<li><strong>Measuring the Effect on Prediction Accuracy When Data Transformation is Overlooked by Predicting the Development Effort of Software Projects<br></strong><em>Cuauhtémoc López-Martín and María Elena Meda-Campaña</em></li>
-	<li><strong>Designing Gamification for Programming Learning Applications<br></strong><em>Evan Pradanika, Yani Widyani and Yanti Rusmawati</em></li>
-</ul>
-<h4><strong>Session III-B</strong></h4>
-<ul>
-	<li class="p1"><strong>GPU-Accelerated Stream Clustering of Geotagged Text Data for Crisis Management</strong><br><em>Nathaniel Crossman and Soon Chung</em></li>
-	<li class="p1"><strong>Library Development for Join Operation in Cassandra Database Management System</strong><br><em>Mohammad Rafi Adyatma and Fazat Nur Azizah</em></li>
-	<li class="p1"><strong>A Data Modeling Method for Machine Learning Systems</strong><br><em>Wenting Shao and Xi Wang</em></li>
-	<li><strong>Emotion Detection on Indonesian Tweets Using CNN and Contextualized Word Embedding</strong><br><em>Muhammad Fikri Heldiansyah and Edi Winarko</em></li>
-	<li><strong>Model Caption Generator Using Visual Geometry, Residual, and Inception Architecture<br></strong><em>Agus Nursikuwagus, Rinaldi Munir and Masayu Leylia Khodra</em></li>
-</ul>
 -->
             ]]>
         </content>
