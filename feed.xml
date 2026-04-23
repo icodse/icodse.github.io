@@ -3,12 +3,70 @@
     <title>ICoDSE 2026</title>
     <link href="https://icodse.org/feed.xml" rel="self" />
     <link href="https://icodse.org" />
-    <updated>2026-04-22T12:31:09+07:00</updated>
+    <updated>2026-04-23T13:50:39+07:00</updated>
     <author>
         <name>Chair</name>
     </author>
     <id>https://icodse.org</id>
 
+    <entry>
+        <title>Organizers</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/organizers-2.html"/>
+        <id>https://icodse.org/organizers-2.html</id>
+
+        <updated>2026-04-23T13:44:40+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Institut Teknologi Bandung Universitas Katolik Parahyangan
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table style="border-collapse: collapse; width: 100%; height: 371.156px;" border="1">
+<tbody>
+<tr style="height: 239.797px;">
+<td style="width: 24.9644%; height: 239.797px;"><a href="https://www.itb.ac.id/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://icodse.org/media/posts/35/logo_itb_1024.png" alt="Bandung Institute of Technology" width="162" height="162" align="right" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/35/responsive/logo_itb_1024-xs.png 300w ,https://icodse.org/media/posts/35/responsive/logo_itb_1024-sm.png 480w ,https://icodse.org/media/posts/35/responsive/logo_itb_1024-md.png 768w ,https://icodse.org/media/posts/35/responsive/logo_itb_1024-lg.png 1024w ,https://icodse.org/media/posts/35/responsive/logo_itb_1024-xl.png 1360w ,https://icodse.org/media/posts/35/responsive/logo_itb_1024-2xl.png 1600w"></a></td>
+<td style="width: 24.9644%; height: 239.797px;"><figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/35/Logo-UNPAR.png" alt="" width="499" height="491" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/35/responsive/Logo-UNPAR-xs.png 300w ,https://icodse.org/media/posts/35/responsive/Logo-UNPAR-sm.png 480w ,https://icodse.org/media/posts/35/responsive/Logo-UNPAR-md.png 768w ,https://icodse.org/media/posts/35/responsive/Logo-UNPAR-lg.png 1024w ,https://icodse.org/media/posts/35/responsive/Logo-UNPAR-xl.png 1360w ,https://icodse.org/media/posts/35/responsive/Logo-UNPAR-2xl.png 1600w"></figure></td>
+<td style="width: 24.9644%; height: 239.797px;"><figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/35/UAJY-LOGOGRAM_-01.png" alt="" width="999" height="1182" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/35/responsive/UAJY-LOGOGRAM_-01-xs.png 300w ,https://icodse.org/media/posts/35/responsive/UAJY-LOGOGRAM_-01-sm.png 480w ,https://icodse.org/media/posts/35/responsive/UAJY-LOGOGRAM_-01-md.png 768w ,https://icodse.org/media/posts/35/responsive/UAJY-LOGOGRAM_-01-lg.png 1024w ,https://icodse.org/media/posts/35/responsive/UAJY-LOGOGRAM_-01-xl.png 1360w ,https://icodse.org/media/posts/35/responsive/UAJY-LOGOGRAM_-01-2xl.png 1600w"></figure></td>
+<td style="width: 24.9644%; height: 239.797px;"><figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/35/Logo-Umrah-Tanjungpinang.gif" alt="" width="1024" height="1024"></figure></td>
+</tr>
+<tr style="height: 131.359px;">
+<td style="width: 24.9644%; height: 131.359px;"><a href="https://www.itb.ac.id/" target="_blank" rel="noopener noreferrer">Institut Teknologi Bandung</a></td>
+<td style="width: 24.9644%; height: 131.359px;">
+<p><a href="https://unpar.ac.id" target="_blank" rel="noopener noreferrer" style="font-size: inherit;">Universitas Katolik Parahyangan</a></p>
+</td>
+<td style="width: 24.9644%; height: 131.359px;"><a href="https://www.uajy.ac.id/id-id" target="_blank" rel="noopener noreferrer">Universitas Atma Jaya Yogyakarta</a></td>
+<td style="width: 24.9644%; height: 131.359px;"><a href="https://umrah.ac.id" target="_blank" rel="noopener noreferrer">Universitas Maritim Raja Ali Haji</a></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Paper Submission</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/paper-submission.html"/>
+        <id>https://icodse.org/paper-submission.html</id>
+
+        <updated>2026-04-23T13:31:44+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Paper submission site: Click Here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--highlight "><strong>Paper submission site: <code><a href="https://edas.info/N35364" title="Paper Submission" target="_blank" rel="noopener noreferrer">Click Here</a></code></strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>📢 CALL FOR PAPERS | ICoDSE 2026</title>
         <author>
@@ -20,16 +78,16 @@
         <updated>2026-04-15T14:26:07+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    2026 IEEE International Conference on Data and Software Engineering "Next Generation of Intelligent Secure Systems" 📍 Location: Bandung, Indonesia (Hybrid Venue) 🗓️ Dates: 21–22 October 2026 🌐 Website: https://icodse.org 📧 Contact: icodse@informatika.org The 2026 IEEE ICoDSE, the 12th installment in the ICoDSE series, is a premier international forum for researchers, practitioners, and industry experts to share the latest innovations in software systems and data engineering. As we navigate the era of autonomous systems and pervasive AI, this year’s theme of Next Generation of Intelligent Secure Systems focuses on the intersection of robust engineering, data-driven intelligence, and cybersecurity. We invite high-quality, original&hellip;
+                    2026 IEEE International Conference on Data and Software Engineering "Next Generation of Intelligent Secure Systems" 📍 Location: Bandung, Indonesia (Hybrid Venue) 🗓️ Dates: 22–23 October 2026 🌐 Website: https://icodse.org 📧 Contact: icodse@informatika.org The 2026 IEEE ICoDSE, the 12th installment in the ICoDSE series, is a premier international forum for researchers, practitioners, and industry experts to share the latest innovations in software systems and data engineering. As we navigate the era of autonomous systems and pervasive AI, this year’s theme of Next Generation of Intelligent Secure Systems focuses on the intersection of robust engineering, data-driven intelligence, and cybersecurity. We invite high-quality, original&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h3><strong>2026 IEEE International Conference on Data and Software Engineering</strong></h3>
 <p><strong>"Next Generation of Intelligent Secure Systems"</strong></p>
-<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/33/ICODSE-9.png" alt="" width="1414" height="2000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/33/responsive/ICODSE-9-xs.png 300w ,https://icodse.org/media/posts/33/responsive/ICODSE-9-sm.png 480w ,https://icodse.org/media/posts/33/responsive/ICODSE-9-md.png 768w ,https://icodse.org/media/posts/33/responsive/ICODSE-9-lg.png 1024w ,https://icodse.org/media/posts/33/responsive/ICODSE-9-xl.png 1360w ,https://icodse.org/media/posts/33/responsive/ICODSE-9-2xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://icodse.org/media/posts/33/ICODSE-10.png" alt="" width="1414" height="2000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://icodse.org/media/posts/33/responsive/ICODSE-10-xs.png 300w ,https://icodse.org/media/posts/33/responsive/ICODSE-10-sm.png 480w ,https://icodse.org/media/posts/33/responsive/ICODSE-10-md.png 768w ,https://icodse.org/media/posts/33/responsive/ICODSE-10-lg.png 1024w ,https://icodse.org/media/posts/33/responsive/ICODSE-10-xl.png 1360w ,https://icodse.org/media/posts/33/responsive/ICODSE-10-2xl.png 1600w"></figure>
 <p><span style="font-weight: 400;">📍 </span><strong>Location:</strong><span style="font-weight: 400;"> Bandung, Indonesia (Hybrid Venue)</span></p>
-<p><span style="font-weight: 400;">🗓️ </span><strong>Dates:</strong><span style="font-weight: 400;"> 21–22 October 2026</span></p>
+<p><span style="font-weight: 400;">🗓️ </span><strong>Dates:</strong><span style="font-weight: 400;"> 22–23 October 2026</span></p>
 <p><span style="font-weight: 400;">🌐 </span><strong>Website:</strong><a href="https://icodse.org/"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">https://icodse.org</span></a></p>
 <p><span style="font-weight: 400;">📧 </span><strong>Contact:</strong><span style="font-weight: 400;"> </span><a href="mailto:icodse@informatika.org"><span style="font-weight: 400;">icodse@informatika.org</span></a></p>
 <h3><strong>Overview</strong></h3>
@@ -50,7 +108,7 @@
 </li>
 </ul>
 <ul>
-<li aria-level="1"><strong>Conference Dates: 21–22 October 2026</strong></li>
+<li aria-level="1"><strong>Conference Dates: 22–23 October 2026</strong></li>
 </ul>
 <h3><strong>Technical Tracks &amp; Topics</strong></h3>
 <p><span style="font-weight: 400;">We welcome submissions in three primary tracks, with a special emphasis on (but not limited to) AI-driven security and data privacy.</span></p>
@@ -82,17 +140,14 @@
 <li style="font-weight: 400;" aria-level="1"><strong>Peer Review:</strong><span style="font-weight: 400;"> All submissions will undergo a rigorous double-blind peer-review process.</span></li>
 <li style="font-weight: 400;" aria-level="1"><strong>Publication:</strong><span style="font-weight: 400;"> Accepted and presented papers will be submitted for inclusion into </span><strong>IEEE Xplore</strong><span style="font-weight: 400;">, subject to meeting IEEE’s scope and quality requirements.</span></li>
 </ul>
-<p><strong>Paper submission site: <a href="https://edas.info/N35364" title="Paper Submission" target="_blank" rel="noopener noreferrer">Click Here</a></strong></p>
-<p><strong>Partners</strong></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Universitas Maritim Raja Ali Haji (UMRAH)</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Universitas Katolik Parahyangan (UNPAR)</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Universitas Atma Jaya Yogyakarta (UAJY)</span></li>
-</ul>
+<p class="msg msg--highlight "><strong>Paper submission site: <code><a href="https://edas.info/N35364" title="Paper Submission" target="_blank" rel="noopener noreferrer">Click Here</a></code></strong></p>
 <p><strong>Organizers</strong></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">School of Electrical Engineering and Informatics, Institut Teknologi Bandung (STEI ITB)</span></li>
 <li style="font-weight: 400;" aria-level="1"><strong>Technical Co-Sponsor:</strong><span style="font-weight: 400;"> IEEE Indonesia Section</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Universitas Maritim Raja Ali Haji (UMRAH)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Universitas Katolik Parahyangan (UNPAR)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Universitas Atma Jaya Yogyakarta (UAJY)</span></li>
 </ul>
 <h3><strong>Note:</strong><span style="font-weight: 400;"> ICoDSE 2026 will be held as a </span><strong>hybrid event</strong><span style="font-weight: 400;">, offering both on-site experiences in the vibrant city of Bandung and virtual participation options for international delegates.</span></h3>
             ]]>
@@ -613,459 +668,6 @@
 </ul>
 <p> </p>
 <!-- mau liat halaman sejenis tahun 2022 2023? cek registration page yg sudah di-archive/trashed -->
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Program Committee</title>
-        <author>
-            <name>Chair</name>
-        </author>
-        <link href="https://icodse.org/program-committee.html"/>
-        <id>https://icodse.org/program-committee.html</id>
-
-        <updated>2024-05-01T14:53:47+07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Reviewers Adi Mulyanto, S.T., M.T., Institut Teknologi Bandung, Indonesia Dr. Agung Dewandaru, S.T., M.Sc, Institut Teknologi Bandung, Indonesia Dr. Fazat Nur Azizah, S.T., M.Sc., Institut Teknologi Bandung, Indonesia Fitra Arifiansyah, S.Kom., M.T., Institut Teknologi Bandung, Indonesia Assoc. Prof. Gusti Ayu Putri Saptawati, M.Comm., Institut Teknologi Bandung,Indonesia Dr. Phil. Eng. Hari Purnama, S.Si., M.Si., Institut Teknologi Bandung, Indonesia Dr. Maya Nabila, S.Si., M.Si., Institut Teknologi Bandung, Indonesia Muhamad Koyimatu, S.Si., M.Si., M.Sc., Ph.D., Institut Teknologi Bandung, Indonesia Muhammad Romadhon Al-Ghazali, S.T., MBA, Institut Teknologi Bandung, Indonesia Dr. techn. Muhammad Zuhri Catur Candra, S.T., M.T., Institut Teknologi Bandung, Indonesia Dr. Riza Satria&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><strong>Reviewers</strong></p>
-<ol>
-<li>Adi Mulyanto, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
-<li>Dr. Agung Dewandaru, S.T., M.Sc, Institut Teknologi Bandung, Indonesia</li>
-<li>Dr. Fazat Nur Azizah, S.T., M.Sc., Institut Teknologi Bandung, Indonesia</li>
-<li>Fitra Arifiansyah, S.Kom., M.T., Institut Teknologi Bandung, Indonesia</li>
-<li>Assoc. Prof. Gusti Ayu Putri Saptawati, M.Comm., Institut Teknologi Bandung,Indonesia</li>
-<li>Dr. Phil. Eng. Hari Purnama, S.Si., M.Si., Institut Teknologi Bandung, Indonesia</li>
-<li>Dr. Maya Nabila, S.Si., M.Si., Institut Teknologi Bandung, Indonesia</li>
-<li>Muhamad Koyimatu, S.Si., M.Si., M.Sc., Ph.D., Institut Teknologi Bandung, Indonesia</li>
-<li>Muhammad Romadhon Al-Ghazali, S.T., MBA, Institut Teknologi Bandung, Indonesia</li>
-<li>Dr. techn. Muhammad Zuhri Catur Candra, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
-<li>Dr. Riza Satria Perdana, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
-<li>Dr. techn. Saiful Akbar, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
-<li>Tricya Esterina Widagdo, S.T., M.Sc., Institut Teknologi Bandung, Indonesia</li>
-<li>Dr. techn. Wikan Danar Sunindyo, S.T., M.Sc., Institut Teknologi Bandung,Indonesia</li>
-<li>Dr. Yani Widyani, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
-<li>Yuda Sukmana, S.Pd., M.T., Institut Teknologi Bandung, Indonesia</li>
-<li>Ir. Yudistira Dwi Wardhana Asnar, S.T., Ph.D., Institut Teknologi Bandung, Indonesia</li>
-<li>Ir. Ahmad Riyad Firdaus, S.Si., M.T., Ph.D., Politeknik Negeri Batam, Indonesia</li>
-<li>Dr. Iman Fahruzi, S.T., M.T., Politeknik Negeri Batam, Indonesia</li>
-<li>Mir'atul Khusna Mufida, S.S.T., M.Sc., Ph.D., Politeknik Negeri Batam, Indonesia</li>
-<li>Dr. Ari Wibowo, S.T., M.T., Politeknik Negeri Batam, Indonesia</li>
-<li>Ir. Daniel Sutopo Pamungkas, S.T.,M.T., Ph.D., Politeknik Negeri Batam, Indonesia</li>
-<li>Andy Triwinarko, S.T., M.T., Ph.D., Politeknik Negeri Batam, Indonesia</li>
-<li>Dr. Fariska Zakhralativa Ruskanda, S.T., M.T.*, Institut Teknologi Bandung, Indonesia</li>
-<li>Nugraha Priya Utama, S.T, M.A., Ph.D.*, Institut Teknologi Bandung, Indonesia</li>
-<li>Ir. Robithoh Annur, S.T., M.Eng., Ph.D.*, Institut Teknologi Bandung, Indonesia</li>
-<li>Prof. Anton Prabuwono, Universiti Teknologi Petronas, Malaysia</li>
-<li>Assoc Prof Ts. Dr Mohd Hilmi bin Hasan, Universiti Teknologi Petronas, Malaysia</li>
-<li>Prof. Hidetaka Nambo, Kanazawa University, Japan</li>
-<li>Latifa Dwiyanti, S.T., M.T., Kanazawa University, Japan</li>
-<li>Ardian Umam, S.T., M.Sc., National Yang Ming Chiao Tung University, Taiwan</li>
-<li>Prof. A Min Tjoa, Vienna University of Technology, Austria</li>
-<li>Prof. David Lo, Singapore Management University, Singapore</li>
-<li>Prof. Michel R.V. Chaudron, Eindhoven University of Technology (TU/e), Netherland</li>
-<li>Satrio Adi Rukmono, S.T., M.T., Eindhoven University of Technology (TU/e), Netherland</li>
-<li>Fajar Juang Ekaputra, S.T., M.T., Ph.D., Vienna University of Economics and Business, Austria</li>
-<li>Prof. Hendro Wicaksono, Constructor University Bremen, Germany</li>
-<li>Tori Andika Bukit, S.Kom., M.T., Hankuk University of Foreign Studies, South Korea</li>
-<li>Dr. Eng. Nur Hamid, S.Si., M.Kom., King Fahd University of Petroleum and Minerals, Saudi Arabia</li>
-<li>Candy Olivia Mawalim, S.T., M.S., Ph.D, Japan Advanced Institute of Science and Technology, Japan</li>
-<li>Agi Prasetiadi, S.T., M.Eng., Kanazawa University, Japan</li>
-<li>Dr. Eng., Willy Dharmawan, ST, M.Eng., King Fahd University of Petroleum and Minerals, Saudi Arabia</li>
-<li>Assoc. Prof. Dr. Koh Tieng Wei, Universiti Teknologi Petronas, Malaysia</li>
-<li>Assoc. Prof. Dr. Khaironi Yatim Sharif, Universiti Teknologi Petronas, Malaysia</li>
-<li>Dr. Muhammad Luqman Bin Mahamad Zakaria, Universiti Teknologi Petronas, Malaysia</li>
-<li>Assoc. Prof. Dr. Mohd Hilmi Hasan, Universiti Teknologi Petronas, Malaysia</li>
-<li>Ganesh Kumar, Ph.D., Universiti Teknologi Petronas, Malaysia</li>
-<li>Dr. Arif Bramantoro, Universiti Teknologi Brunei, Brunei Darussalam</li>
-<li>Prof. Dr. Riza Sulaiman, Universiti Kebangsaan Malaysia, Malaysia</li>
-<li>Assoc. Prof. Dr. Azizi Abdullah, Universiti Kebangsaan Malaysia, Malaysia</li>
-<li>Prof. Dr. Ahmad Hoirul Basori, King Abdulaziz University, Saudi Arabia</li>
-<li>Assoc. Prof. Henry Edison, Blekinge Tekniska Högskola, Sweden</li>
-</ol>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>(2023) IEEE ICoDSE 2023</title>
-        <author>
-            <name>Chair</name>
-        </author>
-        <link href="https://icodse.org/archive-icodse-2023.html"/>
-        <id>https://icodse.org/archive-icodse-2023.html</id>
-
-        <updated>2024-03-05T12:43:57+07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    2023 IEEE International Conference on Data and Software Engineering (ICoDSE) “Artificial Intelligence for Supporting Data and Software Engineering” 📍 Institut Teknologi Del (hybrid online + offline) Toba, Sumatera Utara, Indonesia 📅 September 7-8, 2023 Time in the program schedule is in Western Indonesia Time / Waktu Indonesia Barat (WIB; GMT+7). Please pay attention and adjust it to your local time. Time Activity 07.30 - 08.45 Participant Registration Opening Ceremony 09.00 - 09.10 Opening Remarks 09.10 - 09.15 Choir and Opening Dance Performance 09.15 - 09.20 Singing the national anthem “Indonesia Raya” 09.20 - 09.30 Opening speech by Prof. Benhard Sitohang&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h5>2023 IEEE International Conference on Data and Software Engineering (ICoDSE)</h5>
-<p><em>“Artificial Intelligence for Supporting Data and Software Engineering”</em></p>
-<p>📍 Institut Teknologi Del (<em>hybrid online + offline</em>)<br>Toba, Sumatera Utara, Indonesia<br>📅 September 7-8, 2023</p>
-<h2>Program Schedule</h2>
-<p>Time in the program schedule is in Western Indonesia Time / Waktu Indonesia Barat (WIB; GMT+7). Please pay attention and adjust it to your local time. </p>
-<h5><strong>Day One: Thursday, September 7, 2023</strong></h5>
-<table style="width: 716px;">
-<tbody>
-<tr bgcolor="lightgray">
-<td style="width: 150px;">
-<p><strong>Time</strong></p>
-</td>
-<td style="width: 565px;">
-<p><strong>Activity</strong></p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;">
-<p>07.30 - 08.45</p>
-</td>
-<td style="width: 565px;">
-<p>Participant Registration</p>
-</td>
-</tr>
-<tr>
-<td style="width: 715px;" colspan="2">
-<p><em><strong>Opening Ceremony</strong></em></p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;">
-<p>09.00 - 09.10</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Opening Remarks</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>09.10 - 09.15</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Choir and Opening Dance Performance</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;">
-<p>09.15 - 09.20</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Singing the national anthem “Indonesia Raya”</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>09.20 - 09.30</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Opening speech by Prof. Benhard Sitohang (ITB)</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>09.30 - 09.40</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Welcome speech from Del Institute of Technology</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>09.40 - 09.50</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Welcome speech from Institut Teknologi Bandung</p>
-</td>
-</tr>
-<tr>
-<td style="width: 715px;" colspan="2">
-<p><em><strong>Keynote Speech</strong></em></p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>10.00 - 10.30</p>
-</td>
-<td style="width: 565px;" width="517">Keynote Speech I - Jenderal TNI (Purn.) Luhut Binsar Pandjaitan, M.P.A.
-<p>(Coordinating Minister for Maritime and Investment Affairs Republic of Indonesia)</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>10.30 - 11.00</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Keynote Speech II - Prof. David Lo (Singapore Management University)</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>11.00 - 11.20</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Break</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>11.20 - 11.50</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Keynote Speech III - Prof. Willy Susilo (University of Wollongong Australia)</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>12.00 - 13.00</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Lunch Break</p>
-</td>
-</tr>
-<tr>
-<td style="width: 715px;" colspan="2">
-<p><em><strong>Parallel Sessions</strong></em></p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>13.00 - 15.00</p>
-</td>
-<td style="width: 565px;" width="517">
-<p><a href="#p1">Parallel Presentation Session I</a><a></a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>15.00 - 15.15</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Break</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>15.15 - 17.15</p>
-</td>
-<td style="width: 565px;" width="517">
-<p><a href="#p2">Parallel Presentation Session II</a><a></a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>17.15 - 19.00</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Break</p>
-</td>
-</tr>
-<tr>
-<td style="width: 150px;" width="110">
-<p>19.00 - 21.00</p>
-</td>
-<td style="width: 565px;" width="517">
-<p>Dinner</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5><strong>Day Two: Friday, September 8, 2023</strong></h5>
-<table>
-<tbody>
-<tr>
-<td style="width: 715px;" colspan="2">
-<p><em><strong>Best Paper Award &amp; Closing</strong></em></p>
-</td>
-</tr>
-<tr>
-<td width="110">
-<p>09.00 - 09.15</p>
-</td>
-<td width="376">
-<p>Opening</p>
-</td>
-</tr>
-<tr>
-<td width="110">
-<p>09.15 - 11.15</p>
-</td>
-<td width="376">
-<p><a href="#p3">Parallel Presentation Session III</a></p>
-</td>
-</tr>
-<tr>
-<td width="110">
-<p>11.15 - 11.45</p>
-</td>
-<td width="376">
-<p>Best Paper Award &amp; Closing</p>
-</td>
-</tr>
-<tr>
-<td width="110">
-<p>11.45 - 13.00</p>
-</td>
-<td width="376">
-<p>Lunch Break</p>
-</td>
-</tr>
-<tr>
-<td width="110">
-<p>13.00 - 18.00</p>
-</td>
-<td width="376">
-<p>Tour to Sipinsur Park Geosite and Sibandang Island</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><!-- parallel session I --></p>
-<h2 id="p1">Parallel Session I</h2>
-<h4><strong>Session I-A – Data mining and data tools</strong></h4>
-<p><span style="font-weight: 400;">Thursday, 7 September2023, 13:00-15:00 GMT+7, Room A</span></p>
-<ol>
-<li><strong>Promotion Abuse Fraud Detection Application Development using Risk Scoring</strong><br><em><span style="font-weight: 400;">Shafira Naya Aprisadianti and Latifa Dwiyanti</span></em></li>
-<li><strong>Migration From Relational Database to Column-Oriented NoSQL Database</strong><br><em><span style="font-weight: 400;">Rizky Anggita Syarbaini Siregar and Fazat Nur Azizah</span></em></li>
-<li><strong>Structured Spatial Three-Dimensional Objects Data Extension in PostgreSQL</strong><br><em><span style="font-weight: 400;">Kevin Ryan and Tricya Widagdo</span></em></li>
-<li><strong>SQL Interface For CRUD Operations On Cloud Firestore</strong><br><em><span style="font-weight: 400;">Farhan N. H. Denira and Fazat N. Azizah</span></em></li>
-<li><strong>Utilizing PostGIS Extension to Process Spatial Data Stored in Neo4j Database<br></strong><em><span style="font-weight: 400;">Jon Felix Germinian and Tricya Esterina Widagdo</span></em></li>
-</ol>
-<h4><strong>Session I-B – Software and education</strong></h4>
-<p><span style="font-weight: 400;">Thursday, 7 September2023, 13:00-15:00 GMT+7, Room B</span></p>
-<ol>
-<li><strong>Development of Simulator for Learning Scrum</strong><br><em><span style="font-weight: 400;">Irvin Andryan Pratomo and Yani Widyani</span></em></li>
-<li><strong>Development of a Scrum Learning Model Using Gamification with the Battleship Board Game</strong><br><em><span style="font-weight: 400;">Christian Gunawan and Wikan Danar Sunindyo</span></em></li>
-<li><strong>Predicting Students Performance Using Data Mining Approach (Case Study: IT Del)</strong><br><em><span style="font-weight: 400;">Jaime Christ Bonar Sirait, Parmonangan R. Togatorop, Paulus M.L.P Tambunan, Yemima Febe Yanti Marpaung, Samuel I.G Situmeang and Humasak T.A Simanjuntak</span></em></li>
-<li><strong>Dispositions as an Important Component in Computing Curriculum Development in IT Del</strong><br><em><span style="font-weight: 400;">Arlinta Barus, Inggriani Liem, Arnaldo Sinaga, Eka Sinambela, Tahan Sihombing and Sari Silalahi</span></em></li>
-<li><strong>Utilization of Virtual Reality for Docker Learning<br></strong><em><span style="font-weight: 400;">Muhammad Fikri. N and Fitra Arifiansyah</span></em></li>
-</ol>
-<h4><strong>Session I-C<span style="font-weight: 400;"> – Software application development</span></strong></h4>
-<p><span style="font-weight: 400;">Thursday, 7 September2023, 13:00-15:00 GMT+7, Room C</span></p>
-<ol>
-<li><strong>Omnichannel System Development for Integration with Various Marketplace Using Event-Driven Architecture</strong><br><em><span style="font-weight: 400;">Jordan Daniel Joshua and Muhammad Zuhri Catur Candra</span></em></li>
-<li><strong>Development of an End-to-End Form Data Capture Model for an Electronic Election Recapitulation System</strong><br><em><span style="font-weight: 400;">James Chandra, Riza Satria Perdana and Saiful Akbar</span></em></li>
-<li><strong>Offline Data Sharing on Android Application</strong><br><em><span style="font-weight: 400;">Muhammad Dzaki Razaan Faza, Riza Satria Perdana and Saiful Akbar</span></em></li>
-<li><strong>Analysis and The Preliminary Design for Backend Technology of Disaster Management Information System</strong><br><em><span style="font-weight: 400;">Riyanthi Angrainy Sianturi and Jerry Andrianto Pangaribuan</span></em></li>
-<li><strong>Election Data Visualization in Virtual Reality Environment Using Oculus Quest 2<br></strong><em><span style="font-weight: 400;">Vania Alya Qonita and Latifa Dwiyanti</span></em></li>
-</ol>
-<p><!-- parallel session II --></p>
-<h2 id="p2">Parallel Session II</h2>
-<h4><strong>Session II-A – AI for software engineering and AI applications</strong></h4>
-<p><span style="font-weight: 400;">Thursday, 7 September2023, 15:15-17:15 GMT+7, Room A</span></p>
-<ol>
-<li><strong>Raw mill Engine Failure Detection from Transformer Gated Convolutional Unit Networks</strong><br><em><span style="font-weight: 400;">Berliana Putri Muliatama, Imam Mukhlash, Mohammad Iqbal, Nurul Hidayat and Masaomi Kimura</span></em></li>
-<li><strong>Experiment on Utilizing GPT-3.5 Language Model to Generate DSL of Data Management for Web Application Development using Qore-Base Platform</strong><br><em><span style="font-weight: 400;">Akifa Ufairah and Yani Widyani</span></em></li>
-<li><strong>Comparison Machine Learning Technique For Grade Classification of Exported Cavendish Banana</strong><br><em><span style="font-weight: 400;">Junanto Prihantoro, Dhika Anbiya, Galuh Prihantoro, Erwin Nashrullah, Zaid Cahya and Riza Riza</span></em></li>
-<li><strong>Driving Digital Transformation: Leveraging Robotic Process Automation (RPA) to Enhance Business Process Efficiency and Reducing Manual Errors</strong><br><em><span style="font-weight: 400;">Laurensius Sakti Lubis and Dwide Elizabeth Sembiring</span></em></li>
-<li><strong>Machine Learning Application Development Guidelines Using CRISP-DM and Scrum Concept<br></strong><span style="font-weight: 400;">Muhammad Tamiramin Hayat Suhendar and Yani Widyani</span></li>
-</ol>
-<h4><strong>Session II-B <span style="font-weight: 400;">– Software fundamentals and experiments</span></strong></h4>
-<p><span style="font-weight: 400;">Thursday, 7 September 2023, 15:15-17:15 GMT+7, Room B</span></p>
-<ol>
-<li><strong>Load Testing and Cost Analysis of Deployment Environments of a Backend System in an Electronic Election Recapitulation System Application</strong><br><em><span style="font-weight: 400;">Gregorius Dimas Baskara, Riza Satria Perdana and Saiful Akbar</span></em></li>
-<li><strong>Evaluation of HTTP and MQTT Protocols in the Design of Telemetry Data for Embedded Systems on Smart Wheelchairs</strong><br><em><span style="font-weight: 400;">Yohanes Vito Rizki Darujati, Laurentius Kuncoro Probo Saputra, Yuan Lukito and Winta Adhitia Guspara</span></em></li>
-<li><strong>Performance Comparison of Katalon Studio with Appium on Investree Application in Funding Module</strong><br><em><span style="font-weight: 400;">Maristella Sere Viona Sitanggang and Arnaldo Maruli Tua Sinaga</span></em></li>
-<li><strong>Comparative Analysis of Big Data Utilization at Vocational and Productivity Training Centers (BBPVP) and the Domestic Job Market</strong><br><em><span style="font-weight: 400;">Aghnia Nadhira Aliya Putri, Fadrian Dwiki Maulanda, Zulfiyandi Zulfiyandi, Devi Adrian and Zulfikar Hakim</span></em></li>
-<li><strong>Achieving High-Level Software Component Summarization via Hierarchical Chain-of-Thought Prompting and Static Code Analysis<br></strong><em><span style="font-weight: 400;">Satrio Adi Rukmono, Lina Ochoa and Michel Chaudron</span></em></li>
-</ol>
-<h4><strong>Session II-C<span style="font-weight: 400;"> – Software UI/UX and testing</span></strong></h4>
-<p><span style="font-weight: 400;">Thursday, 7 September2023, 15:15-17:15 GMT+7, Room C</span></p>
-<ol>
-<li><strong>Website Functionality Testing Using the Automation Tool</strong><br><em><span style="font-weight: 400;">Dr. Arlinta Christy Barus and Aprialdy Sembiring</span></em></li>
-<li><strong>Interaction Design of Indonesian Junior High School Academic Information System using User-Centered Design</strong><br><em><span style="font-weight: 400;">Jeanne D'Arc Amara Hanieka and Fitra Arifiansyah</span></em></li>
-<li><strong>Interaction Design Improvement of Content Preferences, Report, and Homepage feature of Shopee Video Using User-Centered Design</strong><br><em><span style="font-weight: 400;">Chintya Wijaya and Adi Mulyanto</span></em></li>
-<li><strong>Interaction Design for Books Recommendation System to Improve User Satisfaction at EPerpusdikbud</strong><br><em><span style="font-weight: 400;">Falia Aufa Najla, Dana Sulistyo Kusumo and Arfive Gandhi</span></em></li>
-<li><strong>Improving Cultural Objects Portal Application Usability Using User Usability Evaluation<br></strong><em><span style="font-weight: 400;">Budi Susanto, Kristofan Feriadi, Restyandito Restyandito, Gloria Virginia and Umi Proboyekti</span></em></li>
-</ol>
-<p><!-- parallel session III --></p>
-<h2 id="p3">Parallel Session III</h2>
-<h4><strong>Session III-A <span style="font-weight: 400;">– Data engineering and tools</span></strong></h4>
-<p><span style="font-weight: 400;">Friday, 8 September2023, 09:15-11:15 GMT+7, Room A</span></p>
-<ol>
-<li><strong>Aspect-Based Sentiment Analysis Model with Local Sentiment Aggregation for Online Travel Reviews</strong><br><em><span style="font-weight: 400;">Renny Pradina Kusumawardani, Mochammad Farrel Arrizal Kusuma, Radityo Prasetianto Wibowo and Aris Tjahyanto</span></em></li>
-<li><strong>The Semantic Overlay Architecture for Data Interoperability and Exchange</strong><br><em><span style="font-weight: 400;">Fajar J. Ekaputra, Christoph Fabianek, Gabriel Unterholzer and Eduard Gringinger</span></em></li>
-<li><strong>The Study Of Data Modeling Methodologies For Column-Oriented Databases</strong><br><em><span style="font-weight: 400;">Raden Haryo Pandu Prakoso and Fazat Nur Azizah</span></em></li>
-<li><strong>Migration of Relational Database to NoSQL Document-Oriented Database</strong><br><em><span style="font-weight: 400;">Wilson Tandya and Fazat Nur Azizah</span></em></li>
-<li><strong>Development of SQL Interface for Spatial Data Processing in XML Databases<br></strong><em><span style="font-weight: 400;">Muhammad Bintang Pananjung and Tricya Esterina Widagdo</span></em></li>
-</ol>
-<h4><strong>Session III-B <span style="font-weight: 400;"> – Secure software and software engineering tools</span></strong></h4>
-<p><span style="font-weight: 400;">Friday, 8 September2023, 09:15-11:15 GMT+7, Room B</span></p>
-<ol>
-<li><strong>Detecting Command Injection and Cross-site Scripting Vulnerabilities Using Graph Representations</strong><br><em><span style="font-weight: 400;">Kevin Fernaldy and Yudistira Asnar</span></em></li>
-<li><strong>Exploring Low Rate Dos Attack Detection Methods: A Bibliometric Analysis and Roadmap for Further Research</strong><br><em><span style="font-weight: 400;">Anteng Widodo, Adian Fatchur Rochim and Budi Warsito</span></em></li>
-<li><strong>A Static IDE Plugin to detect Security Hotspot for Laravel Framework Based Web Application</strong><br><em><span style="font-weight: 400;">Muhammad Anis Al Hilmi, Raswa Raswa, Robi Robiyanto, Daniel Oranova Siahaan, Alifia Puspaningrum and Hernawati Susanti Samosir</span></em></li>
-<li><strong>Integration of Method Editor EssenceBoard with Method Base Management System</strong><br><em><span style="font-weight: 400;">Muhammad Azhar Faturahman and Yani Widyani</span></em></li>
-<li><strong>Expert System Development Guidance in Essence Standard<br></strong><em><span style="font-weight: 400;">Mohammad Yahya Ibrahim and Yani Widyani</span></em></li>
-</ol>
-<h4><strong>Session III-C<span style="font-weight: 400;">  – Domain-specific machine learning models</span></strong></h4>
-<p><span style="font-weight: 400;">Friday, 8 September2023, 09:15-11:15 GMT+7, Room C</span></p>
-<ol>
-<li><strong>Improved Detection and Interpretation of Multilingual Signboards in Natural Scene for Visually Impaired People</strong><br><em><span style="font-weight: 400;">Qamar Zaman, Shah Khusro and A Min Tjoa</span></em></li>
-<li><strong>Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach</strong><br><em><span style="font-weight: 400;">Arief Purnama Muharram, Hollyana Puteri Haryono, Abassi Haji Juma, Ira Puspasari and Nugraha Priya Utama</span></em></li>
-<li><strong>Comparison of Support Vector Regression and Artificial Neural Network Algorithm in Predicting the Number of Prospective Student Registrans</strong><br><em><span style="font-weight: 400;">Herimanto Pardede, Arie Satia Dharma, Hotmangasi Manurung and Agnes Bertua Nababan</span></em></li>
-<li><strong>A Real-Time Multi-Disease Prediction framework using Deep Learning Techniques</strong><br><em><span style="font-weight: 400;">Venkata Ramana Attada, Lakshmana Rao Kalabarige and Srividya Kotagiri</span></em></li>
-<li><strong>Detection of Tuberculosis Disease using Deep Learning Techniques<br></strong><em><span style="font-weight: 400;">Geetamma Tummalapalli, Jami Kousik, Rajasekhar Mungi, Murapaka Rajesh, Kalyani Dinesh and Kadiyam Rajalingeswara Rao</span></em></li>
-</ol>
-<p>Special thanks to <strong>Pertamina</strong> for making this conference happen for the progress of the data and software engineering industry in Indonesia</p>
-<div class="post__iframe"><iframe loading="lazy" width="640" height="480" src="https://drive.google.com/file/d/1BhYl1UELb2X-Usf29UCSIThqDj8os78w/preview" allow="autoplay" data-mce-fragment="1"></iframe></div>
-<p><!--
-<h2 id="p1">Parallel Session I</h2>
-<h4><strong>Session I-A</strong></h4>
-<ul>
-	<li><strong>Development of a Multiplication Game for Primary Students to Improve Learning Experience</strong><br><em>Gunawan Kamaruddin, Yani Widyani and Satrio Adi Rukmono</em></li>
-	<li><strong>Identifying Agile Roles in Software Engineering Projects using Repository and Work-Tracking Data</strong><br><em>Benedikt Martens and Jörg Frank</em></li>
-	<li><strong>PREP: A Post-Requirements Effort Estimation Method in Scrum’s Sprint Grooming</strong><br><em>Gusti Raditia Madya, Eko K. Budiardjo and Kodrat Mahatma</em></li>
-	<li><strong>User Story Risk Prioritization Model for Agile Software Development</strong><br><em>Phornhathai Thanomwong and Twittie Senivongse</em></li>
-	<li><strong>Translating UML Class Diagram Models into Key-Value Store Models<br></strong><em>Muhammad R. Valiandi and Fazat N. Azizah</em></li>
-</ul>
-<h4><strong>Session I-B</strong></h4>
-<ul>
-	<li><strong>SQL Interface Development for Spatial Data Retrieval on Cassandra</strong><br><em>William Fu and Tricya Esterina Widagdo</em></li>
-	<li><strong>Application of Convolutional Neural Network for Semantic Segmentation of Bandung Urban Scenes</strong><br><em>Daniel Alexander, Hans Christian Kurniawan, Irfin Afifudin and Hery Heryanto</em></li>
-	<li><strong>Engine Failure Detection of Raw mill Machine via Discrete Variational Auto-encoder<br></strong><em>Izhar Brur Abruzi, Mohammad Iqbal, Imam Mukhlash, Alvida Mustika Rukmi, Nani Kurniati and Masaomi Kimura</em></li>
-	<li><strong>Evaluation of Convolutional Neural Network for Automatic Caries Detection in Digital Radiograph Panoramic on Small Dataset<br></strong><em>Arna Fariza, Rengga Asmara, Eha Renwi Astuti, Ramadhan Hardani Putra and Muhammad Oktavian Fajar Rojaby. </em><strong><br></strong></li>
-</ul>
-<h2 id="p2">Parallel Session II</h2>
-<h4><strong>Session II-A</strong></h4>
-<ul>
-	<li class="p1"><strong>Interaction Design of Fertility Tracking Application Using User-Centered Design</strong><br>Madiha Faizzati and Fitra Arifiansyah</li>
-	<li class="p1"><strong>Development of Audiobook Interaction Design for People with Vision Impairment Based on User-Centered Design Approach</strong><br><em>Izharulhaq Izharulhaq, Dessi Puji Lestari and Rizal Dwi Prayogo</em></li>
-	<li><strong>Development of Vehicle Type Detection System on Multi Lane Free Flow Toll E-Collection</strong><br><em>Okugata Fahmi Nurul Yudho Fauzan, Riza Satria Perdana and Trio Adiono</em></li>
-	<li><strong>Wearable Technology Application for Banjar Language Translator to Support Ease of Communication: Prototyping and Sustainability Opportunities<br></strong><em>Aulia Akhrian Syahidi and Kohei Arai</em></li>
-	<li><strong>Effect of Different Online Learning Screen Sizes During the COVID-19 Pandemic: An EEG Study<br></strong><em>I Putu Agus Eka Darma Udayana, Made Sudarma, I Ketut Gede Darma Putra and I Made Sukarsa</em><strong><br></strong></li>
-</ul>
-<h4><strong>Session II-B</strong></h4>
-<ul>
-	<li class="p1"><strong>GraphQL-based Backend Service Development Tool for CRUD Operations, Authentication, and Authorization</strong><br><em>Moch. Nafkhan Alzamzami and Fazat Nur Azizah</em></li>
-	<li class="p1"><strong>Development of Application for Entity-Relationship Diagram Conversion to Logical Schema of NoSQL Column Oriented</strong><br><em>Muhammad Fauzan Al-Ghifari and Fazat Nur Azizah</em></li>
-	<li class="p1"><strong>Towards A Data Repository for Educational Factories</strong><br><em>Fajar J. Ekaputra, Martin Weise, Katharina Flicker, Mohd. Rizal Bin Salleh, Md. Nizam Abd Rahman, Azrul Azwan Abd Rahman, Tomasz Miksa and Andreas Rauber</em></li>
-	<li class="p1"><strong>Natural Language Interface to Database (NLIDB) for Interrogative Sentences with Temporal Elements in Indonesian Language</strong><br><em>Hansel Grady Daniel Thamrin and Tricya Esterina Widagdo</em><strong><br></strong></li>
-</ul>
-<h2 id="p3">Parallel Session III</h2>
-<h4><strong>Session III-A</strong></h4>
-<ul>
-	<li class="p1"><strong>OSS-AQM: An Open-Source Software Quality Model for Automated Quality Measurement</strong><br><em>Arkom Madaehoh and Twittie Senivongse</em></li>
-	<li class="p1"><strong>Stages of Progression Classification of Alzheimer’s Disease Using Deep Transfer Learning Models with Over-Sampling</strong><br><em>Manop Phankokkruad and Sirirat Wacharawichanant</em></li>
-	<li class="p1"><strong>A Study of Case Sharing System for Efficient and Innovative Software Upcycling</strong><br><em>Takuya Nakata, Sinan Chen, Sachio Saiki and Masahide Nakamura</em></li>
-	<li><strong>Improving Defect Prediction using Combination of Software Metrics</strong><br><em>Ayu Komalasari and Muhammad Zuhri Catur Candra</em></li>
-	<li><strong>Measuring the Effect on Prediction Accuracy When Data Transformation is Overlooked by Predicting the Development Effort of Software Projects<br></strong><em>Cuauhtémoc López-Martín and María Elena Meda-Campaña</em></li>
-	<li><strong>Designing Gamification for Programming Learning Applications<br></strong><em>Evan Pradanika, Yani Widyani and Yanti Rusmawati</em></li>
-</ul>
-<h4><strong>Session III-B</strong></h4>
-<ul>
-	<li class="p1"><strong>GPU-Accelerated Stream Clustering of Geotagged Text Data for Crisis Management</strong><br><em>Nathaniel Crossman and Soon Chung</em></li>
-	<li class="p1"><strong>Library Development for Join Operation in Cassandra Database Management System</strong><br><em>Mohammad Rafi Adyatma and Fazat Nur Azizah</em></li>
-	<li class="p1"><strong>A Data Modeling Method for Machine Learning Systems</strong><br><em>Wenting Shao and Xi Wang</em></li>
-	<li><strong>Emotion Detection on Indonesian Tweets Using CNN and Contextualized Word Embedding</strong><br><em>Muhammad Fikri Heldiansyah and Edi Winarko</em></li>
-	<li><strong>Model Caption Generator Using Visual Geometry, Residual, and Inception Architecture<br></strong><em>Agus Nursikuwagus, Rinaldi Munir and Masayu Leylia Khodra</em></li>
-</ul>
---></p>
             ]]>
         </content>
     </entry>
