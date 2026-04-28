@@ -3,7 +3,7 @@
     <title>ICoDSE 2026</title>
     <link href="https://icodse.org/feed.xml" rel="self" />
     <link href="https://icodse.org" />
-    <updated>2026-04-28T10:58:17+07:00</updated>
+    <updated>2026-04-28T16:29:22+07:00</updated>
     <author>
         <name>Chair</name>
     </author>
@@ -340,18 +340,18 @@
         </author>
         <link href="https://icodse.org/2025-icodse-coming-soon.html"/>
         <id>https://icodse.org/2025-icodse-coming-soon.html</id>
-        <media:content url="https://icodse.org/media/posts/30/aulta-timur-itb-2.jpeg" medium="image" />
+        <media:content url="https://icodse.org/media/posts/30/aula_barat.jpg" medium="image" />
 
         <updated>2025-10-20T00:12:25+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://icodse.org/media/posts/30/aulta-timur-itb-2.jpeg" alt="gorontalo" />
+                        <img src="https://icodse.org/media/posts/30/aula_barat.jpg" alt="gorontalo" />
                     2026 IEEE International Conference on Data and Software Engineering (ICoDSE) ICoDSE (International Conference on Data and Software Engineering) is an international conference focused on the latest developments in data and software engineering. It brings together researchers, practitioners, and professionals to share knowledge on topics such as big data processing, software development, artificial intelligence, and more. ICoDSE 2026, the 12th edition of the conference, will focus on Generative AI seen from the lens of practitioners and the body of software and data engineering. The conference will explore how generative AI and other AI technology enhances secure systems development through intelligent code&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://icodse.org/media/posts/30/aulta-timur-itb-2.jpeg" class="type:primaryImage" alt="gorontalo" /></p>
+                    <p><img src="https://icodse.org/media/posts/30/aula_barat.jpg" class="type:primaryImage" alt="gorontalo" /></p>
                 <h2>2026 IEEE International Conference on Data and Software Engineering (ICoDSE) </h2>
 <p>ICoDSE (International Conference on Data and Software Engineering) is an international conference focused on the latest developments in data and software engineering. It brings together researchers, practitioners, and professionals to share knowledge on topics such as big data processing, software development, artificial intelligence, and more.<br><br>ICoDSE 2026, the 12th edition of the conference, will focus on Generative AI seen from the lens of practitioners and the body of software and data engineering. The conference will explore how generative AI and other AI technology enhances secure systems development through intelligent code generation, intelligent test automation, and synthetic data creation. It will also emphasize the importance of solid data and software engineering foundations &amp; clean data pipelines, scalable architectures, and robust deployment practices in supporting AI applications for secure systems. This symbiotic relationship forms a cycle where generative AI advances of software/data engineering, and vice versa.</p>
 <p><strong>Venue</strong><br><em>Aula Barat, Institut Teknologi Bandung</em></p>
@@ -378,17 +378,26 @@
         </author>
         <link href="https://icodse.org/venue-2.html"/>
         <id>https://icodse.org/venue-2.html</id>
+        <media:content url="https://icodse.org/media/posts/28/historical_aulabarat.jpg" medium="image" />
 
         <updated>2025-08-12T11:57:27+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Aula Barat, Institut Teknologi Bandung
+                        <img src="https://icodse.org/media/posts/28/historical_aulabarat.jpg" alt="" />
+                    Aula Barat, Institut Teknologi Bandung Designed by Dutch architect Henry Maclaine Pont in 1918, Aula Barat (West Hall) ITB is a historic icon built as part of Technische Hoogeschool te Bandoeng (TH Bandung)—the first engineering college in the Dutch East Indies, inaugurated in 1920. The building is renowned for its architectural style, which brilliantly blends modern construction technology with traditional Indonesian design philosophies (often referred to as Tropical Indies Architecture). Its main unique features are the majestic traditional-style roof, which is highly functional for the tropical climate, and the innovative use of laminated wood structures that allow for a wide,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://icodse.org/media/posts/28/historical_aulabarat.jpg" class="type:primaryImage" alt="" /></p>
                 <h3 class="msg msg--highlight ">Aula Barat, Institut Teknologi Bandung</h3>
-<p> </p>
+<div class="container">
+<div id="model-response-message-contentr_f5e1fa2f2e496a17" class="markdown markdown-main-panel stronger enable-updated-hr-color" dir="ltr" aria-live="polite" aria-busy="false">
+<p data-path-to-node="0">Designed by Dutch architect <strong data-path-to-node="0" data-index-in-node="28">Henry Maclaine Pont</strong> in 1918, <strong data-path-to-node="0" data-index-in-node="57">Aula Barat (West Hall) ITB</strong> is a historic icon built as part of <i data-path-to-node="0" data-index-in-node="120">Technische Hoogeschool te Bandoeng</i> (TH Bandung)—the first engineering college in the Dutch East Indies, inaugurated in 1920.</p>
+<p data-path-to-node="1">The building is renowned for its architectural style, which brilliantly blends modern construction technology with traditional Indonesian design philosophies (often referred to as Tropical Indies Architecture). Its main unique features are the majestic traditional-style roof, which is highly functional for the tropical climate, and the innovative use of laminated wood structures that allow for a wide, expansive space without the need for many supporting pillars.</p>
+<p data-path-to-node="2">To this day, Aula Barat, designated as a cultural heritage site, maintains its authenticity and continues to serve as a central hub for academic, ceremonial, and cultural activities at ITB.</p>
+</div>
+</div>
             ]]>
         </content>
     </entry>
