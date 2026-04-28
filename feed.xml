@@ -3,12 +3,93 @@
     <title>ICoDSE 2026</title>
     <link href="https://icodse.org/feed.xml" rel="self" />
     <link href="https://icodse.org" />
-    <updated>2026-04-28T06:14:35+07:00</updated>
+    <updated>2026-04-28T08:09:27+07:00</updated>
     <author>
         <name>Chair</name>
     </author>
     <id>https://icodse.org</id>
 
+    <entry>
+        <title>Committee</title>
+        <author>
+            <name>Chair</name>
+        </author>
+        <link href="https://icodse.org/committee-2.html"/>
+        <id>https://icodse.org/committee-2.html</id>
+
+        <updated>2026-04-28T08:05:04+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Steering Committee General Chair Co-Chair Secretary Treasurer Technical Program Committee Events Website, Promotion, and Documentation Sponsorship Publication / IEEE Matters Note : * under confirmation
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Steering Committee</strong></p><ol>
+<li>Prof. Dr. Ir. Nana Rachmana Syambas, M.Eng., Institut Teknologi Bandung, Indonesia </li>
+<li>Prof. Dr. A Min Tjoa, Vienna University of Technology, Austria </li>
+<li>Prof. Dr. Michel R.V. Chaudron, Eindhoven University of Technology, Netherlands </li>
+<li>Prof. David Lo, Singapore Management University, Singapore </li>
+<li>Prof. Dr. Ir. Ford Lumban Gaol, S.Si., M.Kom., IEEE Indonesia Computer Society</li>
+<li>Dr. techn. Saiful Akbar, S.T., M.T., Institut Teknologi Bandung, Indonesia </li>
+<li>Prof. Dr. Ir. Tutun Juhana, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
+<li>Martaleli Bettiza, S.Si., M.Sc., Universitas Maritim Raja Ali Haji, Indonesia</li>
+<li>Veronica Sri Moertini, Universitas Katolik Parahyangan, Indonesia</li>
+<li>Universitas Atma Jaya Yogyakarta, Indonesia*</li>
+</ol>
+<p><strong>General Chair</strong></p><ol>
+<li>Dr. Ir. Gusti Ayu Putri Saptawati, M.Comm., Institut Teknologi Bandung, Indonesia</li>
+</ol>
+<p><strong>Co-Chair</strong></p><ol>
+<li>Dr. Phil. Eng. Hari Purnama, S.Si., M.Si., Institut Teknologi Bandung, Indonesia</li>
+</ol>
+<p><strong>Secretary</strong></p><ol>
+<li>Haning Nanda Hapsari, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
+<li>Krisna Fuji Lestari, S.Sn., Institut Teknologi Bandung, Indonesia </li>
+<li>Universitas Atma Jaya Yogyakarta, Indonesia*</li>
+</ol>
+<p><strong>Treasurer</strong></p><ol>
+<li>Dr. Maya Nabila, S.Si., M.Si., Institut Teknologi Bandung, Indonesia</li>
+<li>Dr. Yani Widyani, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
+</ol>
+<p><strong>Technical Program Committee</strong></p><ol>
+<li>Satrio Adi Rukmono, S.T., M.T., Institut Teknologi Bandung, Indonesia(Chair)</li>
+<li>Dr. techn. Muhammad Zuhri Catur Candra, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
+<li>Tricya Esterina Widagdo, S.T., M.Sc., Institut Teknologi Bandung, Indonesia </li>
+<li>Ir. Yudistira Dwi Wardhana Asnar, S.T., Ph.D., Institut Teknologi Bandung, Indonesia </li>
+<li>Dr. Riza Satria Perdana, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
+<li>Hendra Kurniawan, S.Kom., M.Sc.Eng., Ph.D., Universitas Maritim Raja Ali Haji, Indonesia</li>
+<li>Nerfita Nikentari, S.Kom., M.Cs., Ph.D., Universitas Maritim Raja Ali Haji, Indonesia</li>
+<li>Cecilia Esti Nugraheni, Universitas Katolik Parahyangan, Indonesia</li>
+<li>⁠⁠Gede Karya, Universitas Katolik Parahyangan, Indonesia</li>
+<li>Universitas Atma Jaya Yogyakarta, Indonesia*</li>
+</ol>
+<p><strong>Events</strong></p><ol>
+<li>Dr. Fazat Nur Azizah, S.T., M.Sc., Institut Teknologi Bandung, Indonesia </li>
+<li>Fitra Arifiansyah, S.Kom., M.T.,  Institut Teknologi Bandung, Indonesia</li>
+<li>Universitas Katolik Parahyangan, Indonesia*</li>
+</ol>
+<p><strong>Website, Promotion, and Documentation</strong></p><ol>
+<li>Galuh Dipa Bharata, S.T., M.T., Institut Teknologi Bandung, Indonesia</li>
+<li>Universitas Atma Jaya Yogyakarta, Indonesia*</li>
+</ol>
+<p><strong>Sponsorship</strong></p><ol>
+<li>Dr. techn. Wikan Danar Sunindyo, S.T., M.Sc., Institut Teknologi Bandung, Indonesia </li>
+<li>Adi Mulyanto, S.T., M.T., Institut Teknologi Bandung, Indonesia </li>
+<li>Dr. Agung Dewandaru, S.T., M.Sc., Institut Teknologi Bandung, Indonesia </li>
+<li>Universitas Maritim Raja Ali Haji, Indonesia*</li>
+<li>Universitas Katolik Parahyangan, Indonesia*</li>
+<li>Universitas Atma Jaya Yogyakarta, Indonesia*</li>
+</ol>
+<p><strong>Publication / IEEE Matters</strong></p><ol>
+<li>Dr. Fazat Nur Azizah, S.T., M.Sc., Institut Teknologi Bandung, Indonesia </li>
+<li>Muhamad Koyimatu, S.Si., M.Si., M.Sc., Ph.D., Institut Teknologi Bandung, Indonesia</li>
+</ol>
+<p>Note : 
+* under confirmation</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Organizers</title>
         <author>
@@ -573,101 +654,6 @@
 <p>One of the most extraordinary experiences that Gorontalo offers is the opportunity to swim with whale sharks at Botubarani. Located just a short drive from the city, Botubarani is a small coastal village that has gained international recognition as a prime spot for whale shark encounters. These gentle giants, the largest fish in the ocean, can be seen up close in the clear, warm waters of Botubarani.</p>
 <p>The whale shark swimming tour in Botubarani is a once-in-a-lifetime experience. Visitors can snorkel or dive alongside these magnificent creatures, observing their graceful movements as they glide through the water. The tour is carefully managed to ensure the safety of both the sharks and the participants, making it a responsible and sustainable tourism activity.</p>
 <p>The village of Botubarani has embraced its role as a guardian of these incredible animals, and the local community plays an active part in conservation efforts. By participating in this tour, visitors not only get to experience the awe-inspiring presence of whale sharks but also contribute to the preservation of marine life in Gorontalo.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Registration Page</title>
-        <author>
-            <name>Chair</name>
-        </author>
-        <link href="https://icodse.org/registration-2.html"/>
-        <id>https://icodse.org/registration-2.html</id>
-
-        <updated>2024-06-26T11:53:38+07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Registration Method Registration link will be provided in this page after acceptance notification date. Online registration for 2026 IEEE ICoDSE will be open in 8 September 2026, and will be closed in 22 September 2026. Please prepare your student ID (if applicable), presentation video &amp; slide (for online presenter), and proof of payment before proceeding. International Domestic *Student presenters should upload their valid student ID. Recent graduates are eligible by providing proof of graduation date.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>Registration Method</h2>
-<!--<p>Registration link will be provided in this page after acceptance notification date.</p>-->
-<p>Online registration for 2026 IEEE ICoDSE <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">will be open in <strong>8 September 2026</strong>, and will be <strong>closed</strong> in <strong>22 September 2026</strong>. Please prepare your <strong>student ID</strong> (if applicable), <strong>presentation video &amp; slide</strong> (for online presenter), and <strong>proof of payment</strong> before proceeding. </span></p>
-<h2>Registration Fee</h2>
-<p><strong>International</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.2859%;">Presenter</td>
-<td style="width: 33.2859%;">USD</td>
-<td style="width: 33.2859%;">300</td>
-</tr>
-<tr>
-<td style="width: 33.2859%;">Presenter (IEEE)</td>
-<td style="width: 33.2859%;">USD</td>
-<td style="width: 33.2859%;">250</td>
-</tr>
-<tr>
-<td style="width: 33.2859%;">Presenter (Student)</td>
-<td style="width: 33.2859%;">USD</td>
-<td style="width: 33.2859%;">250</td>
-</tr>
-<tr>
-<td style="width: 33.2859%;">Presenter (Student - IEEE)</td>
-<td style="width: 33.2859%;">USD</td>
-<td style="width: 33.2859%;">200</td>
-</tr>
-<tr>
-<td style="width: 33.2859%;">Non Presenter</td>
-<td style="width: 33.2859%;">USD</td>
-<td style="width: 33.2859%;">150</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Domestic</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.2859%;">Presenter</td>
-<td style="width: 33.2859%;">Rp</td>
-<td style="width: 33.2859%;">3.500.000,-</td>
-</tr>
-<tr>
-<td style="width: 33.2859%;">Presenter (IEEE)</td>
-<td style="width: 33.2859%;">Rp</td>
-<td style="width: 33.2859%;">3.000.000,-</td>
-</tr>
-<tr>
-<td style="width: 33.2859%;">Presenter (Student)</td>
-<td style="width: 33.2859%;">Rp</td>
-<td style="width: 33.2859%;">2.500.000,-</td>
-</tr>
-<tr>
-<td style="width: 33.2859%;">Presenter (Student - IEEE)</td>
-<td style="width: 33.2859%;">Rp</td>
-<td style="width: 33.2859%;">2.100.000,-</td>
-</tr>
-<tr>
-<td style="width: 33.2859%;">Non Presenter</td>
-<td style="width: 33.2859%;">Rp</td>
-<td style="width: 33.2859%;">1.500.000,-</td>
-</tr>
-</tbody>
-</table>
-<h2>Registration Method</h2>
-<p>*Student presenters should upload their valid student ID. Recent graduates are eligible by providing proof of graduation date.</p>
-<h2>Methods of Payment</h2>
-<ul>
-<li>The available payment method is by Wire Transfer.</li>
-<li>The conference committee must receive the full amount of the registration fee. Delegates should bear the Service Charge (if any) of the bank in the Sender’s Side. <strong>Please write your paper number on the remark column of the bank slip/transfer receipt</strong>.</li>
-<li>The registration fee covers publication and proceeding.</li>
-<li>An acknowledgement of your registration will be emailed to you, immediately after completion of online registration.</li>
-<li>A Registration Confirmation will be provided after clearance of the full payment. Please note that wire transfer usually takes few days for processing.</li>
-</ul>
-<p> </p>
-<!-- mau liat halaman sejenis tahun 2022 2023? cek registration page yg sudah di-archive/trashed -->
             ]]>
         </content>
     </entry>
