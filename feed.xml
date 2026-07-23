@@ -3,7 +3,7 @@
     <title>ICoDSE 2026</title>
     <link href="https://icodse.org/feed.xml" rel="self" />
     <link href="https://icodse.org" />
-    <updated>2026-07-23T11:54:04+07:00</updated>
+    <updated>2026-07-23T11:58:04+07:00</updated>
     <author>
         <name>Chair</name>
     </author>
@@ -140,12 +140,19 @@
         <updated>2026-04-23T13:31:44+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Paper submission site: Click Here
+                    Submission Guidelines Format: Submissions must be original, unpublished, and follow the standard IEEE Conference Template (A4, 2-column). Page Limit: Full papers should be between 4 to 6 pages, including figures and references. Peer Review: All submissions will undergo a rigorous double-blind peer-review process. Publication: Accepted and presented papers will be submitted for inclusion into IEEE Xplore, subject to meeting IEEE’s scope and quality requirements. Paper submission site: Click Here
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--highlight "><strong>Paper submission site: <code><a href="https://edas.info/N35364" title="Paper Submission" target="_blank" rel="noopener noreferrer">Click Here</a></code></strong></p>
+                <h3><strong>Submission Guidelines</strong></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Format:</strong><span style="font-weight: 400;"> Submissions must be original, unpublished, and follow the standard </span><span style="text-decoration: underline;"><strong><a href="https://www.ieee.org/conferences/publishing/templates.html" target="_blank" rel="noopener noreferrer">IEEE Conference Template</a></strong></span><span style="font-weight: 400;"> (A4, 2-column).</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Page Limit:</strong><span style="font-weight: 400;"> Full papers should be between </span><strong>4 to 6 pages</strong><span style="font-weight: 400;">, including figures and references.</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Peer Review:</strong><span style="font-weight: 400;"> All submissions will undergo a rigorous double-blind peer-review process.</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Publication:</strong><span style="font-weight: 400;"> Accepted and presented papers will be submitted for inclusion into </span><strong>IEEE Xplore</strong><span style="font-weight: 400;">, subject to meeting IEEE’s scope and quality requirements.</span></li>
+</ul>
+<p class="msg msg--highlight "><strong>Paper submission site: <code><a href="https://edas.info/N35364" title="Paper Submission" target="_blank" rel="noopener noreferrer">Click Here</a></code></strong></p>
             ]]>
         </content>
     </entry>
@@ -217,7 +224,7 @@
 </ul>
 <h3><strong>Submission Guidelines</strong></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><strong>Format:</strong><span style="font-weight: 400;"> Submissions must be original, unpublished, and follow the standard </span><strong><a href="https://www.ieee.org/conferences/publishing/templates.html" target="_blank" rel="noopener noreferrer">IEEE Conference Template</a></strong><span style="font-weight: 400;"> (A4, 2-column).</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Format:</strong><span style="font-weight: 400;"> Submissions must be original, unpublished, and follow the standard </span><span style="text-decoration: underline;"><strong><a href="https://www.ieee.org/conferences/publishing/templates.html" target="_blank" rel="noopener noreferrer">IEEE Conference Template</a></strong></span><span style="font-weight: 400;"> (A4, 2-column).</span></li>
 <li style="font-weight: 400;" aria-level="1"><strong>Page Limit:</strong><span style="font-weight: 400;"> Full papers should be between </span><strong>4 to 6 pages</strong><span style="font-weight: 400;">, including figures and references.</span></li>
 <li style="font-weight: 400;" aria-level="1"><strong>Peer Review:</strong><span style="font-weight: 400;"> All submissions will undergo a rigorous double-blind peer-review process.</span></li>
 <li style="font-weight: 400;" aria-level="1"><strong>Publication:</strong><span style="font-weight: 400;"> Accepted and presented papers will be submitted for inclusion into </span><strong>IEEE Xplore</strong><span style="font-weight: 400;">, subject to meeting IEEE’s scope and quality requirements.</span></li>
