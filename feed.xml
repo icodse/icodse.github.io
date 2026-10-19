@@ -3,7 +3,7 @@
     <title>ICoDSE 2026</title>
     <link href="https://icodse.org/feed.xml" rel="self" />
     <link href="https://icodse.org" />
-    <updated>2026-10-19T08:37:57+07:00</updated>
+    <updated>2026-10-19T09:39:02+07:00</updated>
     <author>
         <name>Chair</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2026-10-19T07:59:19+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    ICoDSE 2026 Two days of keynote talks, parallel presentations, and community connection at Institut Teknologi Bandung. The detailed paper schedule and presenter assignments will be announced separately. TBD
+                    ICoDSE 2026 Two days of keynote talks, parallel presentations, and community connection at Institut Teknologi Bandung. Each presentation is allocated 15 minutes, followed by 5 minutes for questions and answers. Day and Date Time Session Room Title Day 1 · Thursday, 22 October 2026 1:00 – 2:30 PM 1A 7611, Labtek V 2nd floor Proposed Framework for ERP Knowledge Management System Implementation Using Large Language Models (LLM): A Case Study of PT XYZ in the Telecommunications Industry Day 1 · Thursday, 22 October 2026 1:00 – 2:30 PM 1A 7611, Labtek V 2nd floor PyFrameParser: Easy Python Wrapper for Parsing&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -30,13 +30,19 @@
 <p class="icodse-schedule__eyebrow">ICoDSE 2026</p>
 <h2 class="icodse-schedule__title">General Schedule</h2>
 <p class="icodse-schedule__intro">Two days of keynote talks, parallel presentations, and community connection at Institut Teknologi Bandung.</p>
-<nav class="icodse-schedule__nav" aria-label="Schedule navigation"><a href="#icodse-day-one">Thursday · 22 October</a> <a href="#icodse-day-two">Friday · 23 October</a></nav></header>
+<nav class="icodse-schedule__nav" aria-label="Schedule navigation"><a href="#icodse-day-one">Thursday · 22 October</a> <a href="#icodse-day-two">Friday · 23 October</a> <a href="#icodse-parallel-programme">Parallel programme</a></nav></header>
 <section id="icodse-day-one" class="icodse-day" aria-labelledby="icodse-day-one-title"><header class="icodse-day__banner"><span class="icodse-day__number" aria-hidden="true">01</span>
 <div><span class="icodse-day__kicker">Day 1 · Thursday</span>
 <h3 id="icodse-day-one-title" class="icodse-day__title">22 October 2026</h3>
 </div>
 </header>
 <div class="icodse-day__venue"><span class="icodse-day__venue-label">Venue</span> <span class="icodse-day__venue-name">Aula Barat and Labtek V <small>(Parallel Room)</small></span></div>
+<section class="icodse-zoom" aria-labelledby="icodse-zoom-title">
+<div class="icodse-zoom__intro"><span class="icodse-zoom__eyebrow">Day 1 online access</span>
+<h4 id="icodse-zoom-title" class="icodse-zoom__title">Join via Zoom</h4>
+</div>
+<div class="icodse-zoom__links"><a class="icodse-zoom__link icodse-zoom__link--main" href="https://itb-ac-id.zoom.us/j/93420429501?pwd=oWcqzbDX3mA8RVF4NJcPtHvrqq1ZE5.1" target="_blank" rel="noopener noreferrer"> Main room<small>Opening ceremony and keynote sessions</small> </a> <a class="icodse-zoom__link" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer"> Room 1 · Session A<small>Parallel Sessions 1A, 2A and 3A</small> </a> <a class="icodse-zoom__link" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer"> Room 2 · Session B<small>Parallel Sessions 1B, 2B and 3B</small> </a> <a class="icodse-zoom__link" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer"> Room 3 · Session C<small>Parallel Sessions 1C, 2C and 3C</small> </a></div>
+</section>
 <table class="icodse-day__table"><colgroup><col><col></colgroup>
 <thead>
 <tr>
@@ -103,42 +109,39 @@
 </tr>
 <tr class="icodse-row--parallel">
 <td class="icodse-time">1:00 – 2:30 PM</td>
-<td><span class="icodse-programme">Presentation Parallel Session 1A, 1B, 1C and 1D</span>
+<td><span class="icodse-programme">Presentation Parallel Session 1A, 1B and 1C</span>
 <div class="icodse-rooms" aria-label="Parallel Session 1 room assignments">
 <div class="icodse-room"><strong>1A</strong>7611, Labtek V 2nd floor</div>
 <div class="icodse-room"><strong>1B</strong>Meeting Room, Labtek V 2nd floor</div>
 <div class="icodse-room"><strong>1C</strong>Meeting Room RPLP, Labtek V 2nd floor</div>
-<div class="icodse-room"><strong>1D</strong>Bukalapak Laboratory, Labtek V 4th floor</div>
 </div>
 </td>
 </tr>
 <tr class="icodse-row--break">
-<td class="icodse-time">2:30 – 2:35 PM</td>
+<td class="icodse-time">2:30 – 2:40 PM</td>
 <td><span class="icodse-programme">Transition / Networking</span></td>
 </tr>
 <tr class="icodse-row--parallel">
-<td class="icodse-time">2:35 – 4:05 PM</td>
-<td><span class="icodse-programme">Presentation Parallel Session 2A, 2B, 2C and 2D</span>
+<td class="icodse-time">2:40 – 4:10 PM</td>
+<td><span class="icodse-programme">Presentation Parallel Session 2A, 2B and 2C</span>
 <div class="icodse-rooms" aria-label="Parallel Session 2 room assignments">
 <div class="icodse-room"><strong>2A</strong>7611, Labtek V 2nd floor</div>
 <div class="icodse-room"><strong>2B</strong>Meeting Room, Labtek V 2nd floor</div>
 <div class="icodse-room"><strong>2C</strong>Meeting Room RPLP, Labtek V 2nd floor</div>
-<div class="icodse-room"><strong>2D</strong>Bukalapak Laboratory, Labtek V 4th floor</div>
 </div>
 </td>
 </tr>
 <tr class="icodse-row--break">
-<td class="icodse-time">4:05 – 4:20 PM</td>
+<td class="icodse-time">4:10 – 4:20 PM</td>
 <td><span class="icodse-programme">Refreshment Break</span></td>
 </tr>
 <tr class="icodse-row--parallel">
 <td class="icodse-time">4:20 – 5:50 PM</td>
-<td><span class="icodse-programme">Presentation Parallel Session 3A, 3B, 3C and 3D</span>
+<td><span class="icodse-programme">Presentation Parallel Session 3A, 3B and 3C</span>
 <div class="icodse-rooms" aria-label="Parallel Session 3 room assignments">
 <div class="icodse-room"><strong>3A</strong>7611, Labtek V 2nd floor</div>
 <div class="icodse-room"><strong>3B</strong>Meeting Room, Labtek V 2nd floor</div>
 <div class="icodse-room"><strong>3C</strong>Meeting Room RPLP, Labtek V 2nd floor</div>
-<div class="icodse-room"><strong>3D</strong>Bukalapak Laboratory, Labtek V 4th floor</div>
 </div>
 </td>
 </tr>
@@ -169,13 +172,11 @@
 <tbody>
 <tr class="icodse-row--parallel">
 <td class="icodse-time">8:30 – 10:00 AM</td>
-<td><span class="icodse-programme">Presentation Parallel Session 4A, 4B, 4C, 4D and 4E</span>
+<td><span class="icodse-programme">Presentation Parallel Session 4A, 4B and 4C</span>
 <div class="icodse-rooms" aria-label="Parallel Session 4 room assignments">
 <div class="icodse-room"><strong>4A</strong>7611, Labtek V 2nd floor</div>
 <div class="icodse-room"><strong>4B</strong>Meeting Room, Labtek V 2nd floor</div>
 <div class="icodse-room"><strong>4C</strong>Meeting Room RPLP, Labtek V 2nd floor</div>
-<div class="icodse-room"><strong>4D</strong>Bukalapak Laboratory, Labtek V 4th floor</div>
-<div class="icodse-room"><strong>4E</strong>Metaverse Laboratory, Labtek V 3rd floor</div>
 </div>
 </td>
 </tr>
@@ -197,12 +198,363 @@
 </tbody>
 </table>
 </section>
-<aside class="icodse-note" aria-labelledby="icodse-session-detail">
-<div>
-<h3 id="icodse-session-detail" class="icodse-note__title">Parallel Session Detail</h3>
-<p>The detailed paper schedule and presenter assignments will be announced separately.</p>
+<section id="icodse-parallel-programme" class="icodse-details" aria-labelledby="icodse-parallel-title"><header class="icodse-details__header"><span class="icodse-details__eyebrow">Paper presentations</span>
+<h3 id="icodse-parallel-title" class="icodse-details__title">Parallel Session Programme</h3>
+<p>Each presentation is allocated 15 minutes, followed by 5 minutes for questions and answers.</p>
+</header>
+<div class="icodse-details__table-wrap">
+<table class="icodse-details__table"><colgroup><col class="icodse-details__date"><col class="icodse-details__time"><col class="icodse-details__session"><col class="icodse-details__room"><col></colgroup>
+<thead>
+<tr>
+<th scope="col">Day and Date</th>
+<th scope="col">Time</th>
+<th scope="col">Session</th>
+<th scope="col">Room</th>
+<th scope="col">Title</th>
+</tr>
+</thead>
+<tbody aria-label="Parallel Session 1A">
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">1:00 – 2:30 PM</td>
+<td data-label="Session"><strong>1A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">Proposed Framework for ERP Knowledge Management System Implementation Using Large Language Models (LLM): A Case Study of PT XYZ in the Telecommunications Industry</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">1:00 – 2:30 PM</td>
+<td data-label="Session"><strong>1A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">PyFrameParser: Easy Python Wrapper for Parsing Frame Semantics Locally and Via REST API</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">1:00 – 2:30 PM</td>
+<td data-label="Session"><strong>1A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">Bayesian Parameter Estimation for CAR-Structured Multilevel Ordinal Logistic Regression on Food Security in Indonesia</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">1:00 – 2:30 PM</td>
+<td data-label="Session"><strong>1A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">Disentangling Feature Scaling and RBF Kernel Effects in LBP-GLCM Fusion for Woven-Fabric Classification</td>
+</tr>
+</tbody>
+<tbody aria-label="Parallel Session 1B">
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">1:00 – 2:30 PM</td>
+<td data-label="Session"><strong>1B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">Design and Implementation of Static Application Security Testing (SAST) Tooling Integrated with IDE Plugin and Connected to CI/CD Workflow</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">1:00 – 2:30 PM</td>
+<td data-label="Session"><strong>1B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">Implementation of a Data and AI Model Lifecycle for a Static Application Security Testing System with Versioning, Drift Detection, and Release Management</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">1:00 – 2:30 PM</td>
+<td data-label="Session"><strong>1B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">Early Encrypted Traffic Classification Under Packet Budgets: A Focused Evidence Review</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">1:00 – 2:30 PM</td>
+<td data-label="Session"><strong>1B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">Blockchain-Assured Data Provenance for Explainable AI-Based Student Performance Analytics</td>
+</tr>
+</tbody>
+<tbody aria-label="Parallel Session 1C">
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">1:00 – 2:30 PM</td>
+<td data-label="Session"><strong>1C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">An AI Model Management Platform on Intrusion Detection Systems to Detect Unknown Attacks</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">1:00 – 2:30 PM</td>
+<td data-label="Session"><strong>1C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">Automated Test Path Generation from BPMN Model through Petri Net Transformation</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">1:00 – 2:30 PM</td>
+<td data-label="Session"><strong>1C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">Interaction Design and Formative Evaluation of an Integrated Job Portal for Novice Job Seekers</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">1:00 – 2:30 PM</td>
+<td data-label="Session"><strong>1C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">Interaction Design of Product Search and Purchase Features in the Lazada Application with Consideration of Cognitive Aspects</td>
+</tr>
+</tbody>
+<tbody aria-label="Parallel Session 2A">
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">2:40 – 4:10 PM</td>
+<td data-label="Session"><strong>2A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">LLM-as-a-Judge Scores Do Not Track Factuality: A Multi-Metric Evaluation of Indonesian Financial Conversation Summarization</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">2:40 – 4:10 PM</td>
+<td data-label="Session"><strong>2A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">Cassandra Schema Evolution: A Workload-Driven Methodology</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">2:40 – 4:10 PM</td>
+<td data-label="Session"><strong>2A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">Gaussian Noise Injection for Harsh Fire Detection Environments Based on IoT Sensors with Random Forest and SMOTE</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">2:40 – 4:10 PM</td>
+<td data-label="Session"><strong>2A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">A Hybrid PID and Q-learning Method for pH Stability in Hydroponic IoT with Water Level Control</td>
+</tr>
+</tbody>
+<tbody aria-label="Parallel Session 2B">
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">2:40 – 4:10 PM</td>
+<td data-label="Session"><strong>2B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">Designing a Knowledge Management Framework for Sustainable Digital Government: A Case Study of Mimika Regency</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">2:40 – 4:10 PM</td>
+<td data-label="Session"><strong>2B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">Hierarchical Self-Correcting Multi-Agent SLMs for Privacy-Preserving Fault Localization</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">2:40 – 4:10 PM</td>
+<td data-label="Session"><strong>2B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">REGATTA: A Cross-Domain Measurement Framework and Fault-Injection Harness for Enterprise AI Agents</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">2:40 – 4:10 PM</td>
+<td data-label="Session"><strong>2B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">Performance Testing and Optimization of the Lidi Module in the Digital Weaving Platform</td>
+</tr>
+</tbody>
+<tbody aria-label="Parallel Session 2C">
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">2:40 – 4:10 PM</td>
+<td data-label="Session"><strong>2C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">An Automated Web Service Composition System Using a Large Language Model and Retrieval-Augmented Generation</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">2:40 – 4:10 PM</td>
+<td data-label="Session"><strong>2C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">Software Engineering Evaluation of GenAI Integration in DevSecOps using Advanced DORA</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">2:40 – 4:10 PM</td>
+<td data-label="Session"><strong>2C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">Development of Code-Level Change Impact Analysis Tool for Software Maintenance Process</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">2:40 – 4:10 PM</td>
+<td data-label="Session"><strong>2C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">Resilient Distributed Orchestration for High-Fidelity Asynchronous Video Interviews</td>
+</tr>
+</tbody>
+<tbody aria-label="Parallel Session 3A">
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">4:20 – 5:50 PM</td>
+<td data-label="Session"><strong>3A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">Competency Profiler: An Evidence-Based Applicant Profiling Module Using GitHub and LinkedIn Data for IT Recruitment</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">4:20 – 5:50 PM</td>
+<td data-label="Session"><strong>3A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">SYNTAG: An Automated Synthetic Data Generation Framework for Text-to-Graph Tasks</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">4:20 – 5:50 PM</td>
+<td data-label="Session"><strong>3A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">Cross-Year and Cross-Scenario Assessment of Gradient-Boosting Surrogates for Screening Hourly AERMOD Carbon Dioxide Maxima</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">4:20 – 5:50 PM</td>
+<td data-label="Session"><strong>3A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">A Local One-Shot Face Search System for Personal Photo Folders</td>
+</tr>
+</tbody>
+<tbody aria-label="Parallel Session 3B">
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">4:20 – 5:50 PM</td>
+<td data-label="Session"><strong>3B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">Dynamic Summarization of C Program Call Graphs Based on Delta-Screening Adaptation</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">4:20 – 5:50 PM</td>
+<td data-label="Session"><strong>3B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">Human - AI Collaborative Modernization of a Legacy Government System: A Multi-Axis PHP Migration Gated by Static Analysis</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">4:20 – 5:50 PM</td>
+<td data-label="Session"><strong>3B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">The Use of SMT Solver in Formal Verification to Ensure the Correctness of Timed Electronic Medical Record System Models</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">4:20 – 5:50 PM</td>
+<td data-label="Session"><strong>3B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">Microservices API Architecture Development for Performance, Operational Efficiency, and Maintainability: A Comparative Gateway Benchmarking Study</td>
+</tr>
+</tbody>
+<tbody aria-label="Parallel Session 3C">
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">4:20 – 5:50 PM</td>
+<td data-label="Session"><strong>3C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">Trustworthy Outcome-Based Education Analytics with Explainable Machine Learning and Blockchain Provenance</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">4:20 – 5:50 PM</td>
+<td data-label="Session"><strong>3C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">Lightweight Machine Learning and Permissioned Blockchain for Cross-Record Verification in University Lecture Monitoring</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">4:20 – 5:50 PM</td>
+<td data-label="Session"><strong>3C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">A Two-Stage Retrieve-and-Rerank Approach for Zero-Shot Medical Concept Normalization on Social Media Text</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
+<td data-label="Time">4:20 – 5:50 PM</td>
+<td data-label="Session"><strong>3C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">Barito River Water Level Prediction Using LSTM Method for Ship Grounding Risk Mitigation in Maritime Transportation Industry</td>
+</tr>
+</tbody>
+<tbody aria-label="Parallel Session 4A">
+<tr>
+<td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
+<td data-label="Time">8:30 – 10:00 AM</td>
+<td data-label="Session"><strong>4A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">A Scalable Blockchain-Based Dynamic Certification Framework for Periodic Mangrove Grid Monitoring</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
+<td data-label="Time">8:30 – 10:00 AM</td>
+<td data-label="Session"><strong>4A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">Privacy-Preserving Attribute-Based Access Control for OpenStack Using a SATOSA Proxy</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
+<td data-label="Time">8:30 – 10:00 AM</td>
+<td data-label="Session"><strong>4A</strong></td>
+<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Title">Same Image, Different Answers: Encoding Artifacts in Container Vulnerability Measurement</td>
+</tr>
+</tbody>
+<tbody aria-label="Parallel Session 4B">
+<tr>
+<td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
+<td data-label="Time">8:30 – 10:00 AM</td>
+<td data-label="Session"><strong>4B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">Emotional Interaction Design for a Place Recommendation and Digital Queue Management Application in the Context of Social Media Trends</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
+<td data-label="Time">8:30 – 10:00 AM</td>
+<td data-label="Session"><strong>4B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">A Cognitive Approach to the Interaction Design of System Notification and Album Features in the Telegram Application</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
+<td data-label="Time">8:30 – 10:00 AM</td>
+<td data-label="Session"><strong>4B</strong></td>
+<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Title">ML-ROD: An MLOps rolling deployment approach for Discriminative Models using DevOps principles</td>
+</tr>
+</tbody>
+<tbody aria-label="Parallel Session 4C">
+<tr>
+<td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
+<td data-label="Time">8:30 – 10:00 AM</td>
+<td data-label="Session"><strong>4C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">AI-Secured Microservices Architecture for Cross-Domain Data Exchange in Regulated Financial Enterprises</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
+<td data-label="Time">8:30 – 10:00 AM</td>
+<td data-label="Session"><strong>4C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">Spatial Data Modelling From UAV Observations: A Contour-Based Active Learning Algorithm</td>
+</tr>
+<tr>
+<td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
+<td data-label="Time">8:30 – 10:00 AM</td>
+<td data-label="Session"><strong>4C</strong></td>
+<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Title">AI-Driven Data Lifecycle Governance for Predictive Archival and Safe Purging Across Heterogeneous Data Platforms</td>
+</tr>
+</tbody>
+</table>
 </div>
-<span class="icodse-note__status">TBD</span></aside>
+</section>
 </div>
             ]]>
         </content>
