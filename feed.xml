@@ -3,7 +3,7 @@
     <title>ICoDSE 2026</title>
     <link href="https://icodse.org/feed.xml" rel="self" />
     <link href="https://icodse.org" />
-    <updated>2026-10-19T10:09:49+07:00</updated>
+    <updated>2026-10-19T10:14:00+07:00</updated>
     <author>
         <name>Chair</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2026-10-19T07:59:19+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    ICoDSE 2026 Two days of keynote talks, parallel presentations, and community connection at Institut Teknologi Bandung. Each presentation is allocated 15 minutes, followed by 5 minutes for questions and answers. Day and Date Time Session Room and Zoom Title Authors Day 1 · Thursday, 22 October 2026 1:00 – 2:30 PM 1A 7611, Labtek V 2nd floorJoin Zoom ↗ Proposed Framework for ERP Knowledge Management System Implementation Using Large Language Models (LLM): A Case Study of PT XYZ in the Telecommunications Industry Windy Aulia Ramadhanti; Haris Hasan Mangundap; Dana I. Sensuse; Sofian Lusa; Yordan Yasin; Icha Mailinda Day 1 ·&hellip;
+                    ICoDSE 2026 Two days of keynote talks, parallel presentations, and community connection at Institut Teknologi Bandung. All times are shown in Western Indonesia Time (WIB, UTC+7). Each presentation is allocated 15 minutes, followed by 5 minutes for questions and answers. Day and Date Time Session Room and Zoom Title Authors Day 1 · Thursday, 22 October 2026 1:00 – 2:30 PM 1A 7611, Labtek V 2nd floorJoin Zoom ↗ Proposed Framework for ERP Knowledge Management System Implementation Using Large Language Models (LLM): A Case Study of PT XYZ in the Telecommunications Industry Windy Aulia Ramadhanti; Haris Hasan Mangundap; Dana I.
                 ]]>
             </summary>
         <content type="html">
@@ -29,7 +29,9 @@
 <div class="icodse-schedule"><header class="icodse-schedule__header">
 <p class="icodse-schedule__eyebrow">ICoDSE 2026</p>
 <h2 class="icodse-schedule__title">General Schedule</h2>
-<p class="icodse-schedule__intro">Two days of keynote talks, parallel presentations, and community connection at Institut Teknologi Bandung.</p>
+<p class="icodse-schedule__intro">Two days of keynote talks, parallel presentations, and community connection at Institut Teknologi Bandung. </p>
+<p><em>All times are shown in Western Indonesia Time (WIB, UTC+7).</em></p>
+<p> </p>
 <nav class="icodse-schedule__nav" aria-label="Schedule navigation"><a href="#icodse-day-one">Thursday · 22 October</a> <a href="#icodse-day-two">Friday · 23 October</a> <a href="#icodse-parallel-programme">Parallel programme</a></nav></header>
 <section id="icodse-day-one" class="icodse-day" aria-labelledby="icodse-day-one-title"><header class="icodse-day__banner"><span class="icodse-day__number" aria-hidden="true">01</span>
 <div><span class="icodse-day__kicker">Day 1 · Thursday</span>
