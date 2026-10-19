@@ -3,7 +3,7 @@
     <title>ICoDSE 2026</title>
     <link href="https://icodse.org/feed.xml" rel="self" />
     <link href="https://icodse.org" />
-    <updated>2026-10-19T09:39:02+07:00</updated>
+    <updated>2026-10-19T10:09:49+07:00</updated>
     <author>
         <name>Chair</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2026-10-19T07:59:19+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    ICoDSE 2026 Two days of keynote talks, parallel presentations, and community connection at Institut Teknologi Bandung. Each presentation is allocated 15 minutes, followed by 5 minutes for questions and answers. Day and Date Time Session Room Title Day 1 · Thursday, 22 October 2026 1:00 – 2:30 PM 1A 7611, Labtek V 2nd floor Proposed Framework for ERP Knowledge Management System Implementation Using Large Language Models (LLM): A Case Study of PT XYZ in the Telecommunications Industry Day 1 · Thursday, 22 October 2026 1:00 – 2:30 PM 1A 7611, Labtek V 2nd floor PyFrameParser: Easy Python Wrapper for Parsing&hellip;
+                    ICoDSE 2026 Two days of keynote talks, parallel presentations, and community connection at Institut Teknologi Bandung. Each presentation is allocated 15 minutes, followed by 5 minutes for questions and answers. Day and Date Time Session Room and Zoom Title Authors Day 1 · Thursday, 22 October 2026 1:00 – 2:30 PM 1A 7611, Labtek V 2nd floorJoin Zoom ↗ Proposed Framework for ERP Knowledge Management System Implementation Using Large Language Models (LLM): A Case Study of PT XYZ in the Telecommunications Industry Windy Aulia Ramadhanti; Haris Hasan Mangundap; Dana I. Sensuse; Sofian Lusa; Yordan Yasin; Icha Mailinda Day 1 ·&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -35,14 +35,8 @@
 <div><span class="icodse-day__kicker">Day 1 · Thursday</span>
 <h3 id="icodse-day-one-title" class="icodse-day__title">22 October 2026</h3>
 </div>
-</header>
+<a class="icodse-main-access" href="https://itb-ac-id.zoom.us/j/93420429501?pwd=oWcqzbDX3mA8RVF4NJcPtHvrqq1ZE5.1" target="_blank" rel="noopener noreferrer"> Join Main Room<small>Keynotes and plenary sessions ↗</small> </a></header>
 <div class="icodse-day__venue"><span class="icodse-day__venue-label">Venue</span> <span class="icodse-day__venue-name">Aula Barat and Labtek V <small>(Parallel Room)</small></span></div>
-<section class="icodse-zoom" aria-labelledby="icodse-zoom-title">
-<div class="icodse-zoom__intro"><span class="icodse-zoom__eyebrow">Day 1 online access</span>
-<h4 id="icodse-zoom-title" class="icodse-zoom__title">Join via Zoom</h4>
-</div>
-<div class="icodse-zoom__links"><a class="icodse-zoom__link icodse-zoom__link--main" href="https://itb-ac-id.zoom.us/j/93420429501?pwd=oWcqzbDX3mA8RVF4NJcPtHvrqq1ZE5.1" target="_blank" rel="noopener noreferrer"> Main room<small>Opening ceremony and keynote sessions</small> </a> <a class="icodse-zoom__link" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer"> Room 1 · Session A<small>Parallel Sessions 1A, 2A and 3A</small> </a> <a class="icodse-zoom__link" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer"> Room 2 · Session B<small>Parallel Sessions 1B, 2B and 3B</small> </a> <a class="icodse-zoom__link" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer"> Room 3 · Session C<small>Parallel Sessions 1C, 2C and 3C</small> </a></div>
-</section>
 <table class="icodse-day__table"><colgroup><col><col></colgroup>
 <thead>
 <tr>
@@ -203,14 +197,15 @@
 <p>Each presentation is allocated 15 minutes, followed by 5 minutes for questions and answers.</p>
 </header>
 <div class="icodse-details__table-wrap">
-<table class="icodse-details__table"><colgroup><col class="icodse-details__date"><col class="icodse-details__time"><col class="icodse-details__session"><col class="icodse-details__room"><col></colgroup>
+<table class="icodse-details__table"><colgroup><col class="icodse-details__date"><col class="icodse-details__time"><col class="icodse-details__session"><col class="icodse-details__room"><col class="icodse-details__paper"><col class="icodse-details__authors"></colgroup>
 <thead>
 <tr>
 <th scope="col">Day and Date</th>
 <th scope="col">Time</th>
 <th scope="col">Session</th>
-<th scope="col">Room</th>
+<th scope="col">Room and Zoom</th>
 <th scope="col">Title</th>
+<th scope="col">Authors</th>
 </tr>
 </thead>
 <tbody aria-label="Parallel Session 1A">
@@ -218,29 +213,33 @@
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">1:00 – 2:30 PM</td>
 <td data-label="Session"><strong>1A</strong></td>
-<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer">7611, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Proposed Framework for ERP Knowledge Management System Implementation Using Large Language Models (LLM): A Case Study of PT XYZ in the Telecommunications Industry</td>
+<td data-label="Authors">Windy Aulia Ramadhanti; Haris Hasan Mangundap; Dana I. Sensuse; Sofian Lusa; Yordan Yasin; Icha Mailinda</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">1:00 – 2:30 PM</td>
 <td data-label="Session"><strong>1A</strong></td>
-<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer">7611, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">PyFrameParser: Easy Python Wrapper for Parsing Frame Semantics Locally and Via REST API</td>
+<td data-label="Authors">Muhammad Okky Ibrohim; Fajar Garnadi; Mohamad Arvin Fadriansyah; Indra Budi</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">1:00 – 2:30 PM</td>
 <td data-label="Session"><strong>1A</strong></td>
-<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer">7611, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Bayesian Parameter Estimation for CAR-Structured Multilevel Ordinal Logistic Regression on Food Security in Indonesia</td>
+<td data-label="Authors">Rifdatun Ni'mah; Dwi Bagus Dermawan; Regita Putri Permata</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">1:00 – 2:30 PM</td>
 <td data-label="Session"><strong>1A</strong></td>
-<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer">7611, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Disentangling Feature Scaling and RBF Kernel Effects in LBP-GLCM Fusion for Woven-Fabric Classification</td>
+<td data-label="Authors">Patrisius Batarius; Albertus Joko Santoso; Pranowo; Martinus Maslim</td>
 </tr>
 </tbody>
 <tbody aria-label="Parallel Session 1B">
@@ -248,29 +247,33 @@
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">1:00 – 2:30 PM</td>
 <td data-label="Session"><strong>1B</strong></td>
-<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer">Meeting Room, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Design and Implementation of Static Application Security Testing (SAST) Tooling Integrated with IDE Plugin and Connected to CI/CD Workflow</td>
+<td data-label="Authors">Enrique Yanuar; Gusti Ayu Putri Saptawati Soekidjo; Yudistira Dwi Wardhana Asnar</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">1:00 – 2:30 PM</td>
 <td data-label="Session"><strong>1B</strong></td>
-<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer">Meeting Room, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Implementation of a Data and AI Model Lifecycle for a Static Application Security Testing System with Versioning, Drift Detection, and Release Management</td>
+<td data-label="Authors">Benardo; Gusti Ayu Putri Saptawati Soekidjo; Yudistira Dwi Wardhana Asnar</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">1:00 – 2:30 PM</td>
 <td data-label="Session"><strong>1B</strong></td>
-<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer">Meeting Room, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Early Encrypted Traffic Classification Under Packet Budgets: A Focused Evidence Review</td>
+<td data-label="Authors">Ahmad Tabrani; Hadhrami Ab Ghani; Muhammad Anwar; Fifto Nugroho</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">1:00 – 2:30 PM</td>
 <td data-label="Session"><strong>1B</strong></td>
-<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer">Meeting Room, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Blockchain-Assured Data Provenance for Explainable AI-Based Student Performance Analytics</td>
+<td data-label="Authors">Feri Irawan; Berta Erwin Slam; Rifaldi Herikson; Nur Hamid; Hendra Kurniawan</td>
 </tr>
 </tbody>
 <tbody aria-label="Parallel Session 1C">
@@ -278,29 +281,33 @@
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">1:00 – 2:30 PM</td>
 <td data-label="Session"><strong>1C</strong></td>
-<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer">Meeting Room RPLP, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">An AI Model Management Platform on Intrusion Detection Systems to Detect Unknown Attacks</td>
+<td data-label="Authors">Edbert Eddyson Gunawan; Yudistira Dwi Wardhana Asnar</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">1:00 – 2:30 PM</td>
 <td data-label="Session"><strong>1C</strong></td>
-<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer">Meeting Room RPLP, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Automated Test Path Generation from BPMN Model through Petri Net Transformation</td>
+<td data-label="Authors">Jason Hasudungan Sitorus; Rosa Reska Riskiana; Dana Sulistiyo Kusumo; Ryan Oktaviandi Susilo Wibowo</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">1:00 – 2:30 PM</td>
 <td data-label="Session"><strong>1C</strong></td>
-<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer">Meeting Room RPLP, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Interaction Design and Formative Evaluation of an Integrated Job Portal for Novice Job Seekers</td>
+<td data-label="Authors">Jason Jahja; Adi Mulyanto</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">1:00 – 2:30 PM</td>
 <td data-label="Session"><strong>1C</strong></td>
-<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer">Meeting Room RPLP, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Interaction Design of Product Search and Purchase Features in the Lazada Application with Consideration of Cognitive Aspects</td>
+<td data-label="Authors">Ervina Limka; Adi Mulyanto</td>
 </tr>
 </tbody>
 <tbody aria-label="Parallel Session 2A">
@@ -308,29 +315,33 @@
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">2:40 – 4:10 PM</td>
 <td data-label="Session"><strong>2A</strong></td>
-<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer">7611, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">LLM-as-a-Judge Scores Do Not Track Factuality: A Multi-Metric Evaluation of Indonesian Financial Conversation Summarization</td>
+<td data-label="Authors">Jonathan Wiguna; Windy Gambetta</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">2:40 – 4:10 PM</td>
 <td data-label="Session"><strong>2A</strong></td>
-<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer">7611, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Cassandra Schema Evolution: A Workload-Driven Methodology</td>
+<td data-label="Authors">Hilya Fadhilah Imania; Fazat Nur Azizah</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">2:40 – 4:10 PM</td>
 <td data-label="Session"><strong>2A</strong></td>
-<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer">7611, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Gaussian Noise Injection for Harsh Fire Detection Environments Based on IoT Sensors with Random Forest and SMOTE</td>
+<td data-label="Authors">Nesya Sulistyawati; Aji Gautama Putrada; Khalis Sofi</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">2:40 – 4:10 PM</td>
 <td data-label="Session"><strong>2A</strong></td>
-<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer">7611, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">A Hybrid PID and Q-learning Method for pH Stability in Hydroponic IoT with Water Level Control</td>
+<td data-label="Authors">Mohammad Aditya Wiraprana; Aji Gautama Putrada; Hassan Rizky Putra Sailellah</td>
 </tr>
 </tbody>
 <tbody aria-label="Parallel Session 2B">
@@ -338,29 +349,33 @@
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">2:40 – 4:10 PM</td>
 <td data-label="Session"><strong>2B</strong></td>
-<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer">Meeting Room, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Designing a Knowledge Management Framework for Sustainable Digital Government: A Case Study of Mimika Regency</td>
+<td data-label="Authors">Wikan Sunindyo; Windy Gambetta; Neng Ayu Herawati; Adi Mulyanto; Nofandi Surya; Doddi Septian</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">2:40 – 4:10 PM</td>
 <td data-label="Session"><strong>2B</strong></td>
-<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer">Meeting Room, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Hierarchical Self-Correcting Multi-Agent SLMs for Privacy-Preserving Fault Localization</td>
+<td data-label="Authors">Pham Duc Duong; Hiroshi Sato; Masao Kubo</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">2:40 – 4:10 PM</td>
 <td data-label="Session"><strong>2B</strong></td>
-<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer">Meeting Room, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">REGATTA: A Cross-Domain Measurement Framework and Fault-Injection Harness for Enterprise AI Agents</td>
+<td data-label="Authors">Luong Tuan Thanh; Abhijit Sanyal</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">2:40 – 4:10 PM</td>
 <td data-label="Session"><strong>2B</strong></td>
-<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer">Meeting Room, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Performance Testing and Optimization of the Lidi Module in the Digital Weaving Platform</td>
+<td data-label="Authors">Arlinta Barus; Lusiana Silaen; Dian Grecia Natalie Gulo</td>
 </tr>
 </tbody>
 <tbody aria-label="Parallel Session 2C">
@@ -368,29 +383,33 @@
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">2:40 – 4:10 PM</td>
 <td data-label="Session"><strong>2C</strong></td>
-<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer">Meeting Room RPLP, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">An Automated Web Service Composition System Using a Large Language Model and Retrieval-Augmented Generation</td>
+<td data-label="Authors">Andhika Tantyo Anugrah; Muhammad Zuhri Catur Candra</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">2:40 – 4:10 PM</td>
 <td data-label="Session"><strong>2C</strong></td>
-<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer">Meeting Room RPLP, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Software Engineering Evaluation of GenAI Integration in DevSecOps using Advanced DORA</td>
+<td data-label="Authors">Adinandra Dharmasurya; Muhammad Rayhan; Muhammad Mahreza Maulana</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">2:40 – 4:10 PM</td>
 <td data-label="Session"><strong>2C</strong></td>
-<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer">Meeting Room RPLP, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Development of Code-Level Change Impact Analysis Tool for Software Maintenance Process</td>
+<td data-label="Authors">Muhammad Rafi Haidar; Yani Widyani</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">2:40 – 4:10 PM</td>
 <td data-label="Session"><strong>2C</strong></td>
-<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer">Meeting Room RPLP, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Resilient Distributed Orchestration for High-Fidelity Asynchronous Video Interviews</td>
+<td data-label="Authors">Berto Richardo Togatorop; Agung Dewandaru; Gusti Ayu Putri Saptawati Soekidjo</td>
 </tr>
 </tbody>
 <tbody aria-label="Parallel Session 3A">
@@ -398,29 +417,33 @@
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">4:20 – 5:50 PM</td>
 <td data-label="Session"><strong>3A</strong></td>
-<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer">7611, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Competency Profiler: An Evidence-Based Applicant Profiling Module Using GitHub and LinkedIn Data for IT Recruitment</td>
+<td data-label="Authors">Benjamin Sihombing; Agung Dewandaru; Gusti Ayu Putri Saptawati Soekidjo</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">4:20 – 5:50 PM</td>
 <td data-label="Session"><strong>3A</strong></td>
-<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer">7611, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">SYNTAG: An Automated Synthetic Data Generation Framework for Text-to-Graph Tasks</td>
+<td data-label="Authors">Adinda Nurdzykra Putri Nugraini; Raisa Diandra Survijanto; Fariz Darari; Fajar J. Ekaputra</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">4:20 – 5:50 PM</td>
 <td data-label="Session"><strong>3A</strong></td>
-<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer">7611, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Cross-Year and Cross-Scenario Assessment of Gradient-Boosting Surrogates for Screening Hourly AERMOD Carbon Dioxide Maxima</td>
+<td data-label="Authors">Hani Khulud; Siti Sendari; Syamsul Bachri; Vita Dewi; Danang Arengga Wibowo; Ronnie Olaco Juliano; Nita Citrasari; Norrima Mokhtar; Fadila Claudia Pramesti</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">4:20 – 5:50 PM</td>
 <td data-label="Session"><strong>3A</strong></td>
-<td data-label="Room">7611, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97861250924?pwd=OWFkBWyR2NSGPlifBl1BaGgqC11n3l.1" target="_blank" rel="noopener noreferrer">7611, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">A Local One-Shot Face Search System for Personal Photo Folders</td>
+<td data-label="Authors">Alfandito Rais Akbar; Riza Satria Perdana</td>
 </tr>
 </tbody>
 <tbody aria-label="Parallel Session 3B">
@@ -428,29 +451,33 @@
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">4:20 – 5:50 PM</td>
 <td data-label="Session"><strong>3B</strong></td>
-<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer">Meeting Room, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Dynamic Summarization of C Program Call Graphs Based on Delta-Screening Adaptation</td>
+<td data-label="Authors">Rici Trisna Putra; Fitra Arifiansyah</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">4:20 – 5:50 PM</td>
 <td data-label="Session"><strong>3B</strong></td>
-<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer">Meeting Room, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Human - AI Collaborative Modernization of a Legacy Government System: A Multi-Axis PHP Migration Gated by Static Analysis</td>
+<td data-label="Authors">Ioannis Christodoulopoulos; Sotiris Christodoulou</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">4:20 – 5:50 PM</td>
 <td data-label="Session"><strong>3B</strong></td>
-<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer">Meeting Room, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">The Use of SMT Solver in Formal Verification to Ensure the Correctness of Timed Electronic Medical Record System Models</td>
+<td data-label="Authors">Acep Taryana; Dieky Adzkiya; Muhammad Syifa'ul Mufid; Imam Mukhlash</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">4:20 – 5:50 PM</td>
 <td data-label="Session"><strong>3B</strong></td>
-<td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/98264039115?pwd=rIvu4DCZdJlwmTbissENCOlDTdETK7.1" target="_blank" rel="noopener noreferrer">Meeting Room, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Microservices API Architecture Development for Performance, Operational Efficiency, and Maintainability: A Comparative Gateway Benchmarking Study</td>
+<td data-label="Authors">Deni Setiya Aditama; Wawan Gunawan; Indra Gunawan</td>
 </tr>
 </tbody>
 <tbody aria-label="Parallel Session 3C">
@@ -458,29 +485,33 @@
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">4:20 – 5:50 PM</td>
 <td data-label="Session"><strong>3C</strong></td>
-<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer">Meeting Room RPLP, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Trustworthy Outcome-Based Education Analytics with Explainable Machine Learning and Blockchain Provenance</td>
+<td data-label="Authors">Berta Erwin Slam; Rifaldi Herikson; Feri Irawan; Leah O. Pelias; Hendra Kurniawan</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">4:20 – 5:50 PM</td>
 <td data-label="Session"><strong>3C</strong></td>
-<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer">Meeting Room RPLP, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Lightweight Machine Learning and Permissioned Blockchain for Cross-Record Verification in University Lecture Monitoring</td>
+<td data-label="Authors">Feri Irawan; Berta Erwin Slam; Rifaldi Herikson; Nur Hamid; Hendra Kurniawan</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">4:20 – 5:50 PM</td>
 <td data-label="Session"><strong>3C</strong></td>
-<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer">Meeting Room RPLP, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">A Two-Stage Retrieve-and-Rerank Approach for Zero-Shot Medical Concept Normalization on Social Media Text</td>
+<td data-label="Authors">Dyandra Aulia; Yunita Sari</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 1 · Thursday, 22 October 2026</td>
 <td data-label="Time">4:20 – 5:50 PM</td>
 <td data-label="Session"><strong>3C</strong></td>
-<td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
+<td data-label="Room and Zoom"><a class="icodse-room-access" href="https://itb-ac-id.zoom.us/j/97552454902?pwd=ETNPH48gzEnkbZBRfasd6ZPotGIPE2.1" target="_blank" rel="noopener noreferrer">Meeting Room RPLP, Labtek V 2nd floor<small>Join Zoom ↗</small></a></td>
 <td data-label="Title">Barito River Water Level Prediction Using LSTM Method for Ship Grounding Risk Mitigation in Maritime Transportation Industry</td>
+<td data-label="Authors">Sekar Putri Arumi; Nur Alfi Laili; Kamelia Ulfa; Imanuel Revelino Murmanto</td>
 </tr>
 </tbody>
 <tbody aria-label="Parallel Session 4A">
@@ -490,6 +521,7 @@
 <td data-label="Session"><strong>4A</strong></td>
 <td data-label="Room">7611, Labtek V 2nd floor</td>
 <td data-label="Title">A Scalable Blockchain-Based Dynamic Certification Framework for Periodic Mangrove Grid Monitoring</td>
+<td data-label="Authors">Hendra Kurniawan; Henky Irawan; Nina Adriani; Leah O. Pelias; Ganesh Kumar</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
@@ -497,6 +529,7 @@
 <td data-label="Session"><strong>4A</strong></td>
 <td data-label="Room">7611, Labtek V 2nd floor</td>
 <td data-label="Title">Privacy-Preserving Attribute-Based Access Control for OpenStack Using a SATOSA Proxy</td>
+<td data-label="Authors">Abubakur A. Sait; Soon M. Chung</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
@@ -504,6 +537,7 @@
 <td data-label="Session"><strong>4A</strong></td>
 <td data-label="Room">7611, Labtek V 2nd floor</td>
 <td data-label="Title">Same Image, Different Answers: Encoding Artifacts in Container Vulnerability Measurement</td>
+<td data-label="Authors">Logan Scott</td>
 </tr>
 </tbody>
 <tbody aria-label="Parallel Session 4B">
@@ -513,6 +547,7 @@
 <td data-label="Session"><strong>4B</strong></td>
 <td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
 <td data-label="Title">Emotional Interaction Design for a Place Recommendation and Digital Queue Management Application in the Context of Social Media Trends</td>
+<td data-label="Authors">Naomi Pricilla Agustine; Adi Mulyanto</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
@@ -520,6 +555,7 @@
 <td data-label="Session"><strong>4B</strong></td>
 <td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
 <td data-label="Title">A Cognitive Approach to the Interaction Design of System Notification and Album Features in the Telegram Application</td>
+<td data-label="Authors">Kerlyn Deslia Andeskar; Adi Mulyanto</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
@@ -527,6 +563,7 @@
 <td data-label="Session"><strong>4B</strong></td>
 <td data-label="Room">Meeting Room, Labtek V 2nd floor</td>
 <td data-label="Title">ML-ROD: An MLOps rolling deployment approach for Discriminative Models using DevOps principles</td>
+<td data-label="Authors">Lanier Menezes Dos Santos; Mateus Virgílio Lima Arbex; Victor Da Silva Dantas; Daniel Fernandes Da Cunha; Raimundo Nonato Veras Diniz Junior; Erick Costa Bezerra</td>
 </tr>
 </tbody>
 <tbody aria-label="Parallel Session 4C">
@@ -536,6 +573,7 @@
 <td data-label="Session"><strong>4C</strong></td>
 <td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
 <td data-label="Title">AI-Secured Microservices Architecture for Cross-Domain Data Exchange in Regulated Financial Enterprises</td>
+<td data-label="Authors">Naveen kumar Reddy Komulwad; Rajendra Pallikonda; Rajesh Kumar Reddy Kallapari; Balakrishnan Devaraj; Krishnaprasad Chouty; ShravanKumar Arram</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
@@ -543,6 +581,7 @@
 <td data-label="Session"><strong>4C</strong></td>
 <td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
 <td data-label="Title">Spatial Data Modelling From UAV Observations: A Contour-Based Active Learning Algorithm</td>
+<td data-label="Authors">Hadi Alasti</td>
 </tr>
 <tr>
 <td data-label="Day and Date">Day 2 · Friday, 23 October 2026</td>
@@ -550,6 +589,7 @@
 <td data-label="Session"><strong>4C</strong></td>
 <td data-label="Room">Meeting Room RPLP, Labtek V 2nd floor</td>
 <td data-label="Title">AI-Driven Data Lifecycle Governance for Predictive Archival and Safe Purging Across Heterogeneous Data Platforms</td>
+<td data-label="Authors">Sanket Shah</td>
 </tr>
 </tbody>
 </table>
