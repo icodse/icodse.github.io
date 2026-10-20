@@ -3,7 +3,7 @@
     <title>ICoDSE 2026</title>
     <link href="https://icodse.org/feed.xml" rel="self" />
     <link href="https://icodse.org" />
-    <updated>2026-10-19T15:57:24+07:00</updated>
+    <updated>2026-10-20T11:50:35+07:00</updated>
     <author>
         <name>Chair</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2026-10-19T07:59:19+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    ICoDSE 2026 Two days of keynote talks, parallel presentations, and community connection at Institut Teknologi Bandung. Each presentation is allocated 15 minutes, followed by 5 minutes for questions and answers. Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor AI-Secured Microservices Architecture for Cross-Domain Data Exchange in Regulated Financial Enterprises (Naveen kumar Reddy Komulwad; Rajendra Pallikonda; Rajesh Kumar Reddy Kallapari; Balakrishnan&hellip;
+                    ICoDSE 2026 Two days of keynote talks, parallel presentations, and community connection at Institut Teknologi Bandung. Each presentation is allocated 15 minutes, followed by 5 minutes for questions and answers. Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 4th floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor Labtek V, 2nd floor AI-Secured Microservices Architecture for Cross-Domain Data Exchange in Regulated Financial Enterprises (Naveen kumar Reddy Komulwad; Rajendra Pallikonda; Rajesh&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -103,22 +103,22 @@
 </tr>
 <tr class="icodse-row--parallel">
 <td class="icodse-time">1:00 – 2:30 PM</td>
-<td><a class="icodse-programme icodse-programme-link" href="#icodse-parallel-group-1">Presentation Parallel Session 1A, 1B and 1C <span aria-hidden="true">↓</span></a>
-<div class="icodse-rooms" aria-label="Parallel Session 1 room assignments"><a class="icodse-room" href="#icodse-session-1a"><strong>1A</strong>7611, Labtek V 2nd floor<span class="icodse-room__arrow" aria-hidden="true">→</span></a> <a class="icodse-room" href="#icodse-session-1b"><strong>1B</strong>Meeting Room, Labtek V 2nd floor<span class="icodse-room__arrow" aria-hidden="true">→</span></a> <a class="icodse-room" href="#icodse-session-1c"><strong>1C</strong>Meeting Room RPLP, Labtek V 2nd floor<span class="icodse-room__arrow" aria-hidden="true">→</span></a></div>
+<td><a class="icodse-programme icodse-programme-link" href="#icodse-parallel-group-1">Presentation Parallel Session 1A, 1B, 1C and 1D <span aria-hidden="true">↓</span></a>
+<div class="icodse-rooms" aria-label="Parallel Session 1 room assignments"><a class="icodse-room" href="#icodse-session-1a"><strong>1A</strong>7611, Labtek V 2nd floor<span class="icodse-room__arrow" aria-hidden="true">→</span></a> <a class="icodse-room" href="#icodse-session-1b"><strong>1B</strong>Meeting Room, Labtek V 2nd floor<span class="icodse-room__arrow" aria-hidden="true">→</span></a> <a class="icodse-room" href="#icodse-session-1c"><strong>1C</strong>Meeting Room RPLP, Labtek V 2nd floor<span class="icodse-room__arrow" aria-hidden="true">→</span></a> <a class="icodse-room" href="#icodse-session-1d"><strong>1D</strong>Bukalapak Laboratory, Labtek V 4th floor<span class="icodse-room__arrow" aria-hidden="true">→</span></a></div>
 </td>
 </tr>
 <tr class="icodse-row--break">
-<td class="icodse-time">2:30 – 2:40 PM</td>
+<td class="icodse-time">2:30 – 2:35 PM</td>
 <td><span class="icodse-programme">Transition / Networking</span></td>
 </tr>
 <tr class="icodse-row--parallel">
-<td class="icodse-time">2:40 – 4:10 PM</td>
+<td class="icodse-time">2:35 – 4:05 PM</td>
 <td><a class="icodse-programme icodse-programme-link" href="#icodse-parallel-group-2">Presentation Parallel Session 2A, 2B and 2C <span aria-hidden="true">↓</span></a>
 <div class="icodse-rooms" aria-label="Parallel Session 2 room assignments"><a class="icodse-room" href="#icodse-session-2a"><strong>2A</strong>7611, Labtek V 2nd floor<span class="icodse-room__arrow" aria-hidden="true">→</span></a> <a class="icodse-room" href="#icodse-session-2b"><strong>2B</strong>Meeting Room, Labtek V 2nd floor<span class="icodse-room__arrow" aria-hidden="true">→</span></a> <a class="icodse-room" href="#icodse-session-2c"><strong>2C</strong>Meeting Room RPLP, Labtek V 2nd floor<span class="icodse-room__arrow" aria-hidden="true">→</span></a></div>
 </td>
 </tr>
 <tr class="icodse-row--break">
-<td class="icodse-time">4:10 – 4:20 PM</td>
+<td class="icodse-time">4:05 – 4:20 PM</td>
 <td><span class="icodse-programme">Refreshment Break</span></td>
 </tr>
 <tr class="icodse-row--parallel">
@@ -186,7 +186,7 @@
 <h4 id="icodse-group-1-title">Parallel Session 1</h4>
 <time datetime="2026-10-22T13:00:00+07:00">1:00 – 2:30 PM WIB</time></div>
 <a class="icodse-back-to-schedule" href="#icodse-day-one" aria-label="Back to the Day 1 schedule">Top ↑</a></header>
-<div class="icodse-session-grid">
+<div class="icodse-session-grid icodse-session-grid--four">
 <article id="icodse-session-1a" class="icodse-session-card"><header class="icodse-session-card__header"><strong>1A</strong>
 <div>
 <h5>Room 7611</h5>
@@ -223,6 +223,17 @@
 <li><span class="icodse-paper-title">An AI Model Management Platform on Intrusion Detection Systems to Detect Unknown Attacks</span> <span class="icodse-paper-authors">(Edbert Eddyson Gunawan; Yudistira Dwi Wardhana Asnar)</span></li>
 <li><span class="icodse-paper-title">Automated Test Path Generation from BPMN Model through Petri Net Transformation</span> <span class="icodse-paper-authors">(Jason Hasudungan Sitorus; Rosa Reska Riskiana; Dana Sulistiyo Kusumo; Ryan Oktaviandi Susilo Wibowo)</span></li>
 <li><span class="icodse-paper-title">Interaction Design and Formative Evaluation of an Integrated Job Portal for Novice Job Seekers</span> <span class="icodse-paper-authors">(Jason Jahja; Adi Mulyanto)</span></li>
+</ol>
+</article>
+<article id="icodse-session-1d" class="icodse-session-card"><header class="icodse-session-card__header"><strong>1D</strong>
+<div>
+<h5>Bukalapak Laboratory</h5>
+<p>Labtek V, 4th floor</p>
+</div>
+<a class="icodse-session-zoom" href="https://itb-ac-id.zoom.us/j/93420429501?pwd=oWcqzbDX3mA8RVF4NJcPtHvrqq1ZE5.1" target="_blank" rel="noopener noreferrer" aria-label="Join Session 1D via the Main Room Zoom">Join Zoom ↗</a></header>
+<ol class="icodse-paper-list">
+<li><span class="icodse-paper-title">Development of an LLM-Based Self-Assessment Assistant Component for a System Supporting The Implementation and Evaluation of Outcome-Based Education</span> <span class="icodse-paper-authors">(Nicholas Reymond Sihite; Tricya E Widagdo)</span></li>
+<li><span class="icodse-paper-title">Narrai: Model-Agnostic Explainable AI Library for Generating Narrative Explanations Based on Large Language Models</span> <span class="icodse-paper-authors">(Farrel Natha Saskoro; Latifa Dwiyanti; Saiful Akbar)</span></li>
 <li><span class="icodse-paper-title">Interaction Design of Product Search and Purchase Features in the Lazada Application with Consideration of Cognitive Aspects</span> <span class="icodse-paper-authors">(Ervina Limka; Adi Mulyanto)</span></li>
 </ol>
 </article>
@@ -231,7 +242,7 @@
 <section id="icodse-parallel-group-2" class="icodse-session-group" aria-labelledby="icodse-group-2-title"><header class="icodse-session-group__header">
 <div>Day 1 · Thursday, 22 October 2026
 <h4 id="icodse-group-2-title">Parallel Session 2</h4>
-<time datetime="2026-10-22T14:40:00+07:00">2:40 – 4:10 PM WIB</time></div>
+<time datetime="2026-10-22T14:35:00+07:00">2:35 – 4:05 PM WIB</time></div>
 <a class="icodse-back-to-schedule" href="#icodse-day-one" aria-label="Back to the Day 1 schedule">Top ↑</a></header>
 <div class="icodse-session-grid">
 <article id="icodse-session-2a" class="icodse-session-card"><header class="icodse-session-card__header"><strong>2A</strong>
@@ -338,6 +349,7 @@
 <li><span class="icodse-paper-title">A Scalable Blockchain-Based Dynamic Certification Framework for Periodic Mangrove Grid Monitoring</span> <span class="icodse-paper-authors">(Hendra Kurniawan; Henky Irawan; Nina Adriani; Leah O. Pelias; Ganesh Kumar)</span></li>
 <li><span class="icodse-paper-title">Privacy-Preserving Attribute-Based Access Control for OpenStack Using a SATOSA Proxy</span> <span class="icodse-paper-authors">(Abubakur A. Sait; Soon M. Chung)</span></li>
 <li><span class="icodse-paper-title">Same Image, Different Answers: Encoding Artifacts in Container Vulnerability Measurement</span> <span class="icodse-paper-authors">(Logan Scott)</span></li>
+<li><span class="icodse-paper-title">Graph Neural Networks and Language Models for Multi-Class Vulnerability Classification, Line Localization, and Continual Update in a Static Application Security Testing Module</span> <span class="icodse-paper-authors">(Mesach Harmasendro; Gusti Ayu Putri Saptawati Soekidjo; Yudistira Dwi Wardhana Asnar)</span></li>
 </ol>
 </article>
 <article id="icodse-session-4b" class="icodse-session-card"><header class="icodse-session-card__header"><strong>4B</strong>
@@ -350,6 +362,7 @@
 <li><span class="icodse-paper-title">Emotional Interaction Design for a Place Recommendation and Digital Queue Management Application in the Context of Social Media Trends</span> <span class="icodse-paper-authors">(Naomi Pricilla Agustine; Adi Mulyanto)</span></li>
 <li><span class="icodse-paper-title">A Cognitive Approach to the Interaction Design of System Notification and Album Features in the Telegram Application</span> <span class="icodse-paper-authors">(Kerlyn Deslia Andeskar; Adi Mulyanto)</span></li>
 <li><span class="icodse-paper-title">ML-ROD: An MLOps rolling deployment approach for Discriminative Models using DevOps principles</span> <span class="icodse-paper-authors">(Lanier Menezes Dos Santos; Mateus Virgílio Lima Arbex; Victor Da Silva Dantas; Daniel Fernandes Da Cunha; Raimundo Nonato Veras Diniz Junior; Erick Costa Bezerra)</span></li>
+<li><span class="icodse-paper-title">LSTM-Based Road Sign Sequence Modeling for Driving Context Inference</span> <span class="icodse-paper-authors">(Abhishek Shukla; Anitha S. Kumar)</span></li>
 </ol>
 </article>
 <article id="icodse-session-4c" class="icodse-session-card"><header class="icodse-session-card__header"><strong>4C</strong>
@@ -362,6 +375,7 @@
 <li><span class="icodse-paper-title">AI-Secured Microservices Architecture for Cross-Domain Data Exchange in Regulated Financial Enterprises</span> <span class="icodse-paper-authors">(Naveen kumar Reddy Komulwad; Rajendra Pallikonda; Rajesh Kumar Reddy Kallapari; Balakrishnan Devaraj; Krishnaprasad Chouty; ShravanKumar Arram)</span></li>
 <li><span class="icodse-paper-title">Spatial Data Modelling From UAV Observations: A Contour-Based Active Learning Algorithm</span> <span class="icodse-paper-authors">(Hadi Alasti)</span></li>
 <li><span class="icodse-paper-title">AI-Driven Data Lifecycle Governance for Predictive Archival and Safe Purging Across Heterogeneous Data Platforms</span> <span class="icodse-paper-authors">(Sanket Shah)</span></li>
+<li><span class="icodse-paper-title">Agentic AI for Industry 5.0: A Framework for Autonomous Engineering and Intelligent Process Automation</span> <span class="icodse-paper-authors">(Jyostna Seelam; Shailesh S Kadam; Venkata Gudala; Somnath Banerjee)</span></li>
 </ol>
 </article>
 </div>
